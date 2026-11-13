@@ -4,7 +4,7 @@ import ShaderSections, { SECTIONS_PER_PAGE } from "./components/ShaderSections";
 import shadersData from "./data/shaders.json";
 import type { Shader } from "./types/shader.ts";
 import { buildSections } from "./utils/groupShaders.ts";
-import "/src/styles/App.css";
+import "./styles/App.css";
 
 const shaders = shadersData as unknown as Shader[];
 
