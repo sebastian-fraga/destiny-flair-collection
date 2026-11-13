@@ -1,5 +1,5 @@
 import type { Shader } from "../types/shader.ts";
-import { tierStyles, defaultTier } from "../utils/tierStyles.ts";
+import { defaultTier, tierStyles } from "../utils/tierStyles.ts";
 
 interface Props {
     id: string;
@@ -12,42 +12,29 @@ export default function Tooltip({ id, shader }: Props) {
         <div
             id={id}
             role="tooltip"
-            className="pointer-events-none invisible absolute left-full z-10 mb-2 flex w-72 -translate-x-1/2 flex-col gap-1.5 bg-black/70 text-left opacity-0 transition-opacity duration-150 group-hover:visible group-hover:opacity-100 group-focus:visible group-focus:opacity-100"
+            className="pointer-events-none invisible fixed top-(--ty) left-(--tx) z-10 ml-6 flex w-82 flex-col bg-black/80 text-left opacity-0 transition-opacity duration-150 group-hover:visible group-hover:opacity-100 group-focus:visible group-focus:opacity-100"
         >
-            <div className={`flex flex-col px-2 py-2 gap-px ${tier.header}`}>
-                <strong className="text-[16px]/4 font-medium uppercase">
+            <div
+                className={`flex flex-col px-3 pt-2.5 pb-0 gap-px ${tier.header}`}
+            >
+                <strong className="text-[18px]/5 text-slate-50 font-medium uppercase tracking-wide">
                     {shader.name}
                 </strong>
-
-                <div className="flex justify-between tracking-wide text-white/70 text-[13px] pb-0.5">
-                    <span>Shader</span>
-                    <span className="opacity-50">{shader.tier}</span>
+                <div className="flex justify-between tracking-wide text-[14px] pb-1">
+                    <span className="opacity-80 tracking-wide">Shader</span>
+                    <span className="opacity-30">{shader.tier}</span>
                 </div>
             </div>
 
-            <p className="text-xs">{shader.description}</p>
-
-            {shader.sources.length > 0 ? (
-                <ul className="list-disc pl-4 text-xs">
-                    {shader.sources.map((source) => (
-                        <li key={source}>{source}</li>
-                    ))}
-                </ul>
-            ) : (
-                <p className="text-[11px] italic text-zinc-400">
-                    Sin dato de cómo se consigue
-                </p>
+            {shader.obtainable === false && (
+                <div className="bg-red-400/70 px-3">Ya no se puede obtener</div>
             )}
 
             {shader.note && (
-                <p className="text-[11px] italic text-zinc-400">
+                <p className="text-[13px]/5 italic text-zinc-300/90 pt-1 pb-2 px-3">
                     {shader.note}
                 </p>
             )}
-
-            <span className="text-[10px] text-zinc-500">
-                Dato: {shader.sourceOrigin}
-            </span>
         </div>
     );
 }
