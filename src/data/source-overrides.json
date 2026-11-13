@@ -2,692 +2,1100 @@
     "139252900": {
         "name": "Caelestis",
         "obtainable": false,
-        "note": "Era obtenible al completar el nivel 2 del cuaderno de Momentos de Triunfo del año 2",
-        "section": "Eventos"
+        "note": "Era obtenido al completar el nivel 2 del cuaderno de Momentos de Triunfo del año 2",
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "order": 15
     },
     "139252901": {
         "name": "Invocauroras",
         "obtainable": false,
-        "note": "Era obtenible al completar el nivel 4 del cuaderno de Momentos de Triunfo del año 2",
-        "section": "Eventos"
+        "note": "Era obtenido al completar el nivel 4 del cuaderno de Momentos de Triunfo del año 2",
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "order": 16
     },
     "194424264": {
         "name": "Doble banshee",
-        "note": "Obtenible al canjear el código 7MM-VPD-MHP en bungie.net/redeem",
-        "section": "Promocionales"
+        "note": "Obtenido al canjear el código 7MM-VPD-MHP en bungie.net/redeem",
+        "section": "Promocional",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "194424265": {
         "name": "Oráculo 99",
-        "note": "Obtenible al canjear el código RXC-9XJ-4MH en bungie.net/redeem",
-        "section": "Promocionales"
+        "note": "Obtenido al canjear el código RXC-9XJ-4MH en bungie.net/redeem",
+        "section": "Promocional",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "194424266": {
         "name": "Ciudad perdida",
         "obtainable": null,
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "order": 8
     },
     "194424267": {
         "name": "Comportamiento obstaculizador",
         "note": "Vendido ocasionalmente por Eva Levante",
-        "section": "Comerciante"
+        "section": "Comerciante II",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "194424268": {
         "name": "Poni centelleante",
         "note": "Vendido ocasionalmente por Eva Levante",
-        "section": "Comerciante"
+        "section": "Comerciante II",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "194424269": {
         "name": "El ungüento",
         "note": "Vendido ocasionalmente por Eva Levante",
-        "section": "Comerciante"
+        "section": "Comerciante II",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "194424271": {
         "name": "Paseo",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": "Actividades",
+        "order": 9
     },
     "202245944": {
         "name": "Disputa imperecedera",
         "note": "Obtenido al completar la aventura \"Los lobos de Marte\"",
-        "section": "El Rey de los Poseídos"
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 9
     },
     "202245945": {
         "name": "Beltane",
         "note": "Obtenido al recoger los 50 fragmentos calcificados del Acorazado",
-        "section": "El Rey de los Poseídos"
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "202245946": {
         "name": "Anoche",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 11
     },
     "202245947": {
         "name": "Calcedonia",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 10
     },
     "202245948": {
         "name": "Espira del rey",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 21
     },
     "202245949": {
         "name": "Cantar de gesta",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 20
     },
     "407626698": {
         "name": "Blanco cháchara",
         "note": "Obtenido de forma aleatoria al derrotar a Atheon en la Cámara de Cristal",
-        "section": "Incursiones"
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "651681368": {
         "name": "Pacto de sangre",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "651681369": {
         "name": "Elegía lunar",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 5
     },
     "651681370": {
         "name": "Florecimiento citerano",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 6
     },
     "651681371": {
         "name": "Deshielo refractivo",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 7
     },
     "813108078": {
         "name": "Valentín",
         "note": "",
-        "section": ""
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "813108079": {
         "name": "Brillo rosáceo",
         "note": "",
-        "section": ""
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "861576216": {
         "name": "Babilonia 9191",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Secta Guerra Futura",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 6
     },
     "861576217": {
         "name": "Nínive 8611",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Secta Guerra Futura",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 5
     },
     "861576218": {
         "name": "Tiro 4770",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Secta Guerra Futura",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 8
     },
     "861576219": {
         "name": "Cartago 0100",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Secta Guerra Futura",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 7
     },
     "898062438": {
         "name": "Nanopoesis",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 8
     },
     "898062439": {
         "name": "Encarnado",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 7
     },
     "1050291904": {
         "name": "Malevolencia",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 11
     },
     "1050291905": {
         "name": "Estañafuego",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 12
     },
     "1050291906": {
         "name": "Corona de laurel",
-        "sources": [],
         "obtainable": null,
         "note": "",
-        "section": "Eververso"
+        "section": "Eververso",
+        "sources": [],
+        "order": 4
     },
     "1050291908": {
         "name": "Incendiario",
-        "sources": [],
         "obtainable": null,
         "note": "",
-        "section": "Eververso"
+        "section": "Eververso",
+        "sources": [],
+        "order": 2
     },
     "1050291909": {
         "name": "Traba",
-        "sources": [],
         "obtainable": null,
         "note": "",
-        "section": "Eververso"
+        "section": "Eververso",
+        "sources": [],
+        "order": 3
     },
     "1050291910": {
         "name": "Reloj de arena",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 9
     },
     "1050291911": {
         "name": "Baile de huesos",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 10
     },
     "1158121100": {
         "name": "Vallsgärde",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 7
     },
     "1158121101": {
         "name": "Danzador con leones",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 6
     },
     "1158121102": {
         "name": "Tierra antigua",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 8
     },
     "1158121103": {
         "name": "Rompeolas",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 13
     },
     "1263693536": {
         "name": "Aventura temeraria",
         "note": "",
-        "section": ""
+        "section": "Los Señores de Hierro",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "1263693537": {
         "name": "Caballero errante",
         "note": "",
-        "section": ""
+        "section": "Los Señores de Hierro",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "1536084164": {
         "name": "Explosión bélica",
-        "sources": [],
         "note": "",
-        "section": "Eververso"
+        "section": "Eververso",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "1759332257": {
         "name": "Blacksmith",
         "obtainable": false,
         "note": "Era obtenible como beneficio por reservar Call of Duty: Advanced Warfare",
-        "section": "Promocionales"
+        "section": "Promocional",
+        "sources": [],
+        "order": null
     },
     "1759332261": {
         "name": "Blanco cháchara",
-        "note": "Obtenido de forma aleatoria al derrotar a Atheon en la Cámara de Cristal",
-        "section": "Incursiones"
+        "note": "",
+        "section": "-",
+        "sources": [],
+        "obtainable": null,
+        "order": null,
+        "hidden": true
     },
     "1759332262": {
         "name": "Supernegro",
         "note": "",
-        "section": ""
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "1759332263": {
         "name": "Cáliz robado",
         "note": "",
-        "section": ""
+        "section": "Comerciante II",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "1814540592": {
         "name": "Lívido",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 14
     },
     "1814540593": {
         "name": "Magma",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 13
     },
     "1814540600": {
         "name": "Midas",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 10
     },
     "1814540601": {
         "name": "Manzana de caramelo",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 9
     },
     "1814540602": {
         "name": "Regreso de la Aurora",
         "note": "",
-        "section": ""
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 8
     },
     "1814540603": {
         "name": "Escarcha",
         "note": "",
-        "section": ""
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 7
     },
     "1814540604": {
         "name": "Resol",
         "note": "",
-        "section": ""
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 10
     },
     "1814540605": {
         "name": "Tigre blanco",
         "note": "",
-        "section": ""
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 9
     },
     "1814540606": {
         "name": "Solario",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 12
     },
     "1814540607": {
         "name": "Oasis",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 11
     },
     "1906496742": {
         "name": "Resplandor",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "1906496743": {
         "name": "Criptógrafo",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "1947545036": {
         "name": "Palas victorioso",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "1947545037": {
         "name": "Llama de Imogen",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "2561402280": {
         "name": "Pátina de azufre",
         "note": "",
-        "section": ""
+        "section": "Promocional",
+        "sources": [],
+        "obtainable": null,
+        "order": 5
     },
     "2561402281": {
         "name": "Acuario eléctrico",
         "note": "",
-        "section": ""
+        "section": "Promocional",
+        "sources": [],
+        "obtainable": null,
+        "order": 6
     },
     "2561402282": {
         "name": "Minimalista SUROS",
         "note": "",
-        "section": ""
+        "section": "Promocional",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "2561402283": {
         "name": "Brillo de nebulosa",
         "note": "",
-        "section": ""
+        "section": "Promocional",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "2561402286": {
         "name": "La vieja guardia",
         "note": "",
-        "section": ""
+        "section": "Promocional",
+        "sources": [],
+        "obtainable": null,
+        "order": 7
     },
     "2571870726": {
         "name": "Unión infinita",
         "note": "",
-        "section": ""
+        "section": "Promocional",
+        "sources": [],
+        "obtainable": null,
+        "order": 8
     },
     "2874472095": {
         "name": "Oración de Nepal",
-        "note": "",
-        "section": ""
+        "note": "Era obtenible como recompensa tras comprar una camiseta de caridad en apoyo a las víctimas del terremoto de Nepal en 2015",
+        "section": "Promocional",
+        "sources": [],
+        "obtainable": false,
+        "order": 10
     },
     "2949605650": {
         "name": "Apoderado ártico",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "2949605651": {
         "name": "Sustancia 321",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 12
     },
     "2989526608": {
         "name": "Mármol azul",
         "note": "",
-        "section": ""
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 10
     },
     "2989526609": {
         "name": "Tristeza",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "2989526610": {
         "name": "Esplendor otoñal",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "2989526611": {
         "name": "Atlante 5055",
         "note": "",
-        "section": ""
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 9
     },
     "2989526615": {
         "name": "Crisantemo",
-        "note": "",
-        "section": ""
+        "note": "Vendido ocasionalmente por Eva Levante",
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 11
     },
     "3056359296": {
         "name": "Deuda impagada",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 22
     },
     "3056359297": {
         "name": "Amanecer en Mercurio",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 14
     },
     "3056359299": {
         "name": "Anahata",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 12
     },
     "3060686468": {
         "name": "Revenante",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Órbita Muerta",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "3060686469": {
         "name": "Acero amargo",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Órbita Muerta",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "3060686470": {
         "name": "En la nada",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Órbita Muerta",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "3060686471": {
         "name": "El ahorcado",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Órbita Muerta",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "3176299288": {
         "name": "Vena cava",
-        "note": "",
-        "section": ""
+        "note": "Obtenido al completar la aventura \"El camino hacia la caída del Rey\"",
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "3176299289": {
         "name": "Médula",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 5
     },
     "3176299291": {
         "name": "Plano ascendente",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 6
     },
     "3367786034": {
         "name": "Espiral de oro",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 14
     },
     "3367786035": {
         "name": "Millón de millón",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 13
     },
     "3390448402": {
         "name": "Prueba de dolor",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 9
     },
     "3390448404": {
         "name": "Maldición de los Lobos",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 7
     },
     "3390448405": {
         "name": "Invocación del Juicio",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 8
     },
     "3390448406": {
         "name": "Brisa del Rey",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 5
     },
     "3390448407": {
         "name": "Llanto del Demonio",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 6
     },
     "3458902100": {
         "name": "Los devotos",
         "note": "",
-        "section": ""
+        "section": "Los Señores de Hierro",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "3671454768": {
         "name": "Roble polar",
-        "note": "",
-        "section": ""
+        "note": "Vendido ocasionalmente por Eva Levante",
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "3671454769": {
         "name": "18327496-64703388",
-        "note": "",
-        "section": ""
+        "note": "Vendido ocasionalmente por Eva Levante u obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "3671454770": {
         "name": "Apogeo cómico",
         "note": "",
-        "section": ""
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "3671454771": {
         "name": "Esfumado de aurora",
         "note": "",
-        "section": ""
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "3671454772": {
         "name": "Provincial real",
         "note": "",
-        "section": ""
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 5
     },
     "3671454773": {
         "name": "Dios de la guerra",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 10
     },
     "3671454774": {
         "name": "Ciudad subterránea",
         "note": "",
-        "section": ""
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 6
     },
     "3671454775": {
         "name": "Fuego helado",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 11
     },
     "3671454776": {
         "name": "Diablo atronador",
         "note": "",
-        "section": ""
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 7
     },
     "3671454777": {
         "name": "Mandoble",
         "note": "",
-        "section": ""
+        "section": "Comerciante",
+        "sources": [],
+        "obtainable": null,
+        "order": 8
     },
     "3720866500": {
         "name": "Beowulf",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 15
     },
     "3720866501": {
         "name": "Cicerón",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 16
     },
     "3720866502": {
         "name": "Aquiles",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "3720866503": {
         "name": "Gilgamés",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "3753095826": {
         "name": "Oro rosa",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "3753095827": {
         "name": "Bailarín de prisma",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "3764987312": {
         "name": "Lumos de medianoche",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 5
     },
     "3764987313": {
         "name": "Orgullo del impulso",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 6
     },
     "3764987314": {
         "name": "Azura",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 7
     },
     "3764987315": {
         "name": "Claroscuro",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 8
     },
     "3764987316": {
         "name": "Llamarada refulgente",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "3764987317": {
         "name": "Laurel luminoso",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "3764987318": {
         "name": "Fósforo",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "3764987319": {
         "name": "Krokos",
         "note": "",
-        "section": ""
+        "section": "SRL",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "3776902104": {
         "name": "Antelucano",
-        "note": "",
-        "section": ""
+        "note": "Obtenido al alcanzar el nivel 2 de comerciante con Eris Morn",
+        "section": "La Profunda Oscuridad",
+        "sources": [],
+        "obtainable": null,
+        "order": 1
     },
     "3776902105": {
         "name": "Mediodía",
-        "note": "",
-        "section": ""
+        "note": "Obtenido al alcanzar el nivel 3 de comerciante con Eris Morn",
+        "section": "La Profunda Oscuridad",
+        "sources": [],
+        "obtainable": null,
+        "order": 2
     },
     "3776902106": {
         "name": "Anochecer",
-        "note": "",
-        "section": ""
+        "note": "Obtenido al alcanzar el nivel 4 de comerciante con Eris Morn",
+        "section": "La Profunda Oscuridad",
+        "sources": [],
+        "obtainable": null,
+        "order": 3
     },
     "3859658560": {
         "name": "Pantera malva",
-        "note": "",
-        "section": ""
+        "note": "Obtenido al abrir Tesoros de las eras o comprándolo por polvo de plata",
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "3859658561": {
         "name": "Saurópsido ninja",
-        "note": "",
-        "section": ""
+        "note": "Obtenido al abrir Tesoros de las eras o comprándolo por polvo de plata",
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 5
     },
     "3859658562": {
         "name": "Mar de lágrimas",
         "note": "",
-        "section": ""
+        "section": "Evento",
+        "sources": [],
+        "obtainable": null,
+        "order": 6
     },
     "4033743764": {
         "name": "Se acabó la suerte",
         "note": "",
-        "section": ""
+        "section": "",
+        "sources": [],
+        "obtainable": null,
+        "order": null,
+        "hidden": true
     },
     "4033743765": {
         "name": "La tela de la Reina",
         "note": "",
-        "section": ""
+        "section": "Incursiones",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "4111350117": {
         "name": "Espacio de Abidos",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 12
     },
     "4111350118": {
         "name": "Tinta de Amduat",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 11
     },
     "4111350119": {
         "name": "Pase de Aaru's",
         "note": "",
-        "section": ""
+        "section": "La Casa de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "order": 10
     },
     "4112903824": {
         "name": "Amaltea",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Nueva Monarquía",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 9
     },
     "4112903825": {
         "name": "Nefertiti AK",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Nueva Monarquía",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 10
     },
     "4112903826": {
         "name": "Temisto",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Nueva Monarquía",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 11
     },
     "4112903827": {
         "name": "Cleopatra AK",
-        "note": "",
-        "section": ""
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Nueva Monarquía",
+        "section": "Facciones",
+        "sources": [],
+        "obtainable": null,
+        "order": 12
     },
     "4197595974": {
         "name": "Estandarte inquebrantable",
-        "note": "",
-        "section": ""
+        "note": "Obtenido al completar el nivel 18 del cuaderno de hazañas de Los Señores de Hierro",
+        "section": "Los Señores de Hierro",
+        "sources": [],
+        "obtainable": null,
+        "order": 4
     },
     "4211402860": {
         "name": "Nube quemada",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 18
     },
     "4211402861": {
         "name": "Estrellas cian",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 17
     },
     "4211402862": {
         "name": "Prácticamente cubierto",
         "note": "",
-        "section": ""
+        "section": "Actividades",
+        "sources": [],
+        "obtainable": null,
+        "order": 19
     },
     "4211402863": {
         "name": "Lirio morado",
         "note": "",
-        "section": ""
+        "section": "El Rey de los Poseídos",
+        "sources": [],
+        "obtainable": null,
+        "order": 5
+    },
+    "4248210736": {
+        "name": "Shader integral",
+        "sources": [],
+        "obtainable": null,
+        "note": "",
+        "section": "",
+        "order": null,
+        "hidden": true
     }
 }

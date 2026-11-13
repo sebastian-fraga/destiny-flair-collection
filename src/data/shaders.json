@@ -8,8 +8,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Vendido ocasionalmente por Eva Levante u obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
+    "section": "Comerciante",
+    "order": 2
   },
   {
     "hash": 3060686469,
@@ -20,8 +21,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Órbita Muerta",
+    "section": "Facciones",
+    "order": 1
   },
   {
     "hash": 2561402281,
@@ -33,7 +35,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Promocional",
+    "order": 6
   },
   {
     "hash": 4112903824,
@@ -44,8 +47,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Nueva Monarquía",
+    "section": "Facciones",
+    "order": 9
   },
   {
     "hash": 3056359297,
@@ -57,7 +61,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 14
   },
   {
     "hash": 3056359299,
@@ -69,7 +74,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 12
   },
   {
     "hash": 202245946,
@@ -81,7 +87,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 11
   },
   {
     "hash": 3776902106,
@@ -92,8 +99,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido al alcanzar el nivel 4 de comerciante con Eris Morn",
+    "section": "La Profunda Oscuridad",
+    "order": 3
   },
   {
     "hash": 3776902104,
@@ -104,8 +112,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido al alcanzar el nivel 2 de comerciante con Eris Morn",
+    "section": "La Profunda Oscuridad",
+    "order": 1
   },
   {
     "hash": 2949605650,
@@ -117,7 +126,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 1
   },
   {
     "hash": 3671454770,
@@ -129,7 +139,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Comerciante",
+    "order": 3
   },
   {
     "hash": 3720866502,
@@ -141,7 +152,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 2
   },
   {
     "hash": 2989526611,
@@ -153,7 +165,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Comerciante",
+    "order": 9
   },
   {
     "hash": 1263693536,
@@ -165,7 +178,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Los Señores de Hierro",
+    "order": 2
   },
   {
     "hash": 3764987314,
@@ -177,7 +191,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 7
   },
   {
     "hash": 861576216,
@@ -188,8 +203,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Secta Guerra Futura",
+    "section": "Facciones",
+    "order": 6
   },
   {
     "hash": 3753095827,
@@ -201,7 +217,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 2
   },
   {
     "hash": 1050291911,
@@ -213,7 +230,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 10
   },
   {
     "hash": 202245945,
@@ -225,7 +243,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "Obtenido al recoger los 50 fragmentos calcificados del Acorazado",
-    "section": "El Rey de los Poseídos"
+    "section": "El Rey de los Poseídos",
+    "order": 1
   },
   {
     "hash": 3720866500,
@@ -237,7 +256,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 15
   },
   {
     "hash": 1759332257,
@@ -249,7 +269,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": false,
     "note": "Era obtenible como beneficio por reservar Call of Duty: Advanced Warfare",
-    "section": "Promocionales"
+    "section": "Promocional",
+    "order": null
   },
   {
     "hash": 407626698,
@@ -261,19 +282,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "Obtenido de forma aleatoria al derrotar a Atheon en la Cámara de Cristal",
-    "section": "Incursiones"
-  },
-  {
-    "hash": 1759332261,
-    "name": "Blanco cháchara",
-    "description": "Equipa este shader para cambiar el color de tu armadura.",
-    "icon": "/common/destiny_content/icons/d9b385b5c7ad27ab9dc26731165de446.jpg",
-    "tier": "Leyenda",
-    "sources": [],
-    "sourceOrigin": "pendiente",
-    "obtainable": null,
-    "note": "Obtenido de forma aleatoria al derrotar a Atheon en la Cámara de Cristal",
-    "section": "Incursiones"
+    "section": "Incursiones",
+    "order": 1
   },
   {
     "hash": 2561402283,
@@ -285,7 +295,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Promocional",
+    "order": 4
   },
   {
     "hash": 813108079,
@@ -297,7 +308,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Evento",
+    "order": 3
   },
   {
     "hash": 3390448406,
@@ -309,7 +321,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 5
   },
   {
     "hash": 1263693537,
@@ -321,7 +334,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Los Señores de Hierro",
+    "order": 3
   },
   {
     "hash": 139252900,
@@ -332,8 +346,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": false,
-    "note": "Era obtenible al completar el nivel 2 del cuaderno de Momentos de Triunfo del año 2",
-    "section": "Eventos"
+    "note": "Era obtenido al completar el nivel 2 del cuaderno de Momentos de Triunfo del año 2",
+    "section": "El Rey de los Poseídos",
+    "order": 15
   },
   {
     "hash": 202245947,
@@ -345,7 +360,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 10
   },
   {
     "hash": 1759332263,
@@ -357,7 +373,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Comerciante II",
+    "order": 2
   },
   {
     "hash": 202245949,
@@ -369,7 +386,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 20
   },
   {
     "hash": 861576219,
@@ -380,8 +398,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Secta Guerra Futura",
+    "section": "Facciones",
+    "order": 7
   },
   {
     "hash": 3720866501,
@@ -393,7 +412,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 16
   },
   {
     "hash": 194424266,
@@ -405,7 +425,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 8
   },
   {
     "hash": 3671454774,
@@ -417,7 +438,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Comerciante",
+    "order": 6
   },
   {
     "hash": 3764987315,
@@ -429,7 +451,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 8
   },
   {
     "hash": 4112903827,
@@ -440,8 +463,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Nueva Monarquía",
+    "section": "Facciones",
+    "order": 12
   },
   {
     "hash": 194424267,
@@ -453,7 +477,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "Vendido ocasionalmente por Eva Levante",
-    "section": "Comerciante"
+    "section": "Comerciante II",
+    "order": 3
   },
   {
     "hash": 1050291906,
@@ -465,7 +490,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": "Eververso"
+    "section": "Eververso",
+    "order": 4
   },
   {
     "hash": 1906496743,
@@ -477,7 +503,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 2
   },
   {
     "hash": 2989526615,
@@ -488,8 +515,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Vendido ocasionalmente por Eva Levante",
+    "section": "Comerciante",
+    "order": 11
   },
   {
     "hash": 1158121101,
@@ -501,7 +529,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 6
   },
   {
     "hash": 651681371,
@@ -513,7 +542,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 7
   },
   {
     "hash": 3056359296,
@@ -525,7 +555,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 22
   },
   {
     "hash": 3671454776,
@@ -537,7 +568,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Comerciante",
+    "order": 7
   },
   {
     "hash": 3671454773,
@@ -549,7 +581,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 10
   },
   {
     "hash": 202245944,
@@ -561,7 +594,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "Obtenido al completar la aventura \"Los lobos de Marte\"",
-    "section": "El Rey de los Poseídos"
+    "section": "El Rey de los Poseídos",
+    "order": 9
   },
   {
     "hash": 194424264,
@@ -572,8 +606,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "Obtenible al canjear el código 7MM-VPD-MHP en bungie.net/redeem",
-    "section": "Promocionales"
+    "note": "Obtenido al canjear el código 7MM-VPD-MHP en bungie.net/redeem",
+    "section": "Promocional",
+    "order": 2
   },
   {
     "hash": 3060686471,
@@ -584,8 +619,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Órbita Muerta",
+    "section": "Facciones",
+    "order": 3
   },
   {
     "hash": 194424269,
@@ -597,7 +633,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "Vendido ocasionalmente por Eva Levante",
-    "section": "Comerciante"
+    "section": "Comerciante II",
+    "order": 1
   },
   {
     "hash": 651681369,
@@ -609,7 +646,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 5
   },
   {
     "hash": 3060686470,
@@ -620,8 +658,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Órbita Muerta",
+    "section": "Facciones",
+    "order": 4
   },
   {
     "hash": 898062439,
@@ -633,7 +672,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 7
   },
   {
     "hash": 1814540603,
@@ -645,7 +685,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Evento",
+    "order": 7
   },
   {
     "hash": 3671454771,
@@ -657,7 +698,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Comerciante",
+    "order": 4
   },
   {
     "hash": 4111350117,
@@ -669,7 +711,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 12
   },
   {
     "hash": 202245948,
@@ -681,7 +724,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 21
   },
   {
     "hash": 3367786034,
@@ -693,7 +737,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 14
   },
   {
     "hash": 2989526610,
@@ -705,7 +750,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 3
   },
   {
     "hash": 4197595974,
@@ -716,8 +762,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido al completar el nivel 18 del cuaderno de hazañas de Los Señores de Hierro",
+    "section": "Los Señores de Hierro",
+    "order": 4
   },
   {
     "hash": 1050291905,
@@ -729,7 +776,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 12
   },
   {
     "hash": 4211402861,
@@ -741,7 +789,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 17
   },
   {
     "hash": 1536084164,
@@ -753,7 +802,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": "Eververso"
+    "section": "Eververso",
+    "order": 1
   },
   {
     "hash": 651681370,
@@ -765,7 +815,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 6
   },
   {
     "hash": 3764987318,
@@ -777,7 +828,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 3
   },
   {
     "hash": 3671454775,
@@ -789,7 +841,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 11
   },
   {
     "hash": 3720866503,
@@ -801,7 +854,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 3
   },
   {
     "hash": 1050291908,
@@ -813,7 +867,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": "Eververso"
+    "section": "Eververso",
+    "order": 2
   },
   {
     "hash": 3390448405,
@@ -825,7 +880,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 8
   },
   {
     "hash": 139252901,
@@ -836,8 +892,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": false,
-    "note": "Era obtenible al completar el nivel 4 del cuaderno de Momentos de Triunfo del año 2",
-    "section": "Eventos"
+    "note": "Era obtenido al completar el nivel 4 del cuaderno de Momentos de Triunfo del año 2",
+    "section": "El Rey de los Poseídos",
+    "order": 16
   },
   {
     "hash": 3764987319,
@@ -849,7 +906,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 4
   },
   {
     "hash": 4033743765,
@@ -861,7 +919,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 4
   },
   {
     "hash": 2561402286,
@@ -873,7 +932,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Promocional",
+    "order": 7
   },
   {
     "hash": 3764987317,
@@ -885,7 +945,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 2
   },
   {
     "hash": 4211402863,
@@ -897,7 +958,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 5
   },
   {
     "hash": 1814540592,
@@ -909,7 +971,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 14
   },
   {
     "hash": 1947545037,
@@ -921,7 +984,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 4
   },
   {
     "hash": 3764987316,
@@ -933,7 +997,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 1
   },
   {
     "hash": 3390448407,
@@ -945,7 +1010,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 6
   },
   {
     "hash": 3458902100,
@@ -957,7 +1023,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Los Señores de Hierro",
+    "order": 1
   },
   {
     "hash": 3764987312,
@@ -969,7 +1036,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 5
   },
   {
     "hash": 1814540593,
@@ -981,7 +1049,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 13
   },
   {
     "hash": 3390448404,
@@ -993,7 +1062,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 7
   },
   {
     "hash": 1050291904,
@@ -1005,7 +1075,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 11
   },
   {
     "hash": 3671454777,
@@ -1017,7 +1088,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Comerciante",
+    "order": 8
   },
   {
     "hash": 1814540601,
@@ -1029,7 +1101,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 9
   },
   {
     "hash": 3859658562,
@@ -1041,7 +1114,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Evento",
+    "order": 6
   },
   {
     "hash": 2989526608,
@@ -1053,7 +1127,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Comerciante",
+    "order": 10
   },
   {
     "hash": 3776902105,
@@ -1064,8 +1139,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido al alcanzar el nivel 3 de comerciante con Eris Morn",
+    "section": "La Profunda Oscuridad",
+    "order": 2
   },
   {
     "hash": 3176299289,
@@ -1077,7 +1153,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 5
   },
   {
     "hash": 1814540600,
@@ -1089,7 +1166,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 10
   },
   {
     "hash": 3367786035,
@@ -1101,7 +1179,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 13
   },
   {
     "hash": 2561402282,
@@ -1113,7 +1192,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Promocional",
+    "order": 3
   },
   {
     "hash": 898062438,
@@ -1125,7 +1205,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 8
   },
   {
     "hash": 4112903825,
@@ -1136,8 +1217,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Nueva Monarquía",
+    "section": "Facciones",
+    "order": 10
   },
   {
     "hash": 861576217,
@@ -1148,8 +1230,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Secta Guerra Futura",
+    "section": "Facciones",
+    "order": 5
   },
   {
     "hash": 4211402860,
@@ -1161,7 +1244,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 18
   },
   {
     "hash": 1814540607,
@@ -1173,7 +1257,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 11
   },
   {
     "hash": 2874472095,
@@ -1183,9 +1268,10 @@
     "tier": "Leyenda",
     "sources": [],
     "sourceOrigin": "pendiente",
-    "obtainable": null,
-    "note": "",
-    "section": ""
+    "obtainable": false,
+    "note": "Era obtenible como recompensa tras comprar una camiseta de caridad en apoyo a las víctimas del terremoto de Nepal en 2015",
+    "section": "Promocional",
+    "order": 10
   },
   {
     "hash": 194424265,
@@ -1196,8 +1282,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "Obtenible al canjear el código RXC-9XJ-4MH en bungie.net/redeem",
-    "section": "Promocionales"
+    "note": "Obtenido al canjear el código RXC-9XJ-4MH en bungie.net/redeem",
+    "section": "Promocional",
+    "order": 1
   },
   {
     "hash": 3764987313,
@@ -1209,7 +1296,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 6
   },
   {
     "hash": 3753095826,
@@ -1221,7 +1309,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 1
   },
   {
     "hash": 651681368,
@@ -1233,7 +1322,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 4
   },
   {
     "hash": 1947545036,
@@ -1245,7 +1335,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 3
   },
   {
     "hash": 3859658560,
@@ -1256,8 +1347,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido al abrir Tesoros de las eras o comprándolo por polvo de plata",
+    "section": "Evento",
+    "order": 4
   },
   {
     "hash": 4111350119,
@@ -1269,7 +1361,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 10
   },
   {
     "hash": 194424271,
@@ -1281,7 +1374,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 9
   },
   {
     "hash": 2561402280,
@@ -1293,7 +1387,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Promocional",
+    "order": 5
   },
   {
     "hash": 3176299291,
@@ -1305,7 +1400,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 6
   },
   {
     "hash": 194424268,
@@ -1317,7 +1413,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "Vendido ocasionalmente por Eva Levante",
-    "section": "Comerciante"
+    "section": "Comerciante II",
+    "order": 4
   },
   {
     "hash": 4211402862,
@@ -1329,7 +1426,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 19
   },
   {
     "hash": 3671454772,
@@ -1341,7 +1439,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Comerciante",
+    "order": 5
   },
   {
     "hash": 3390448402,
@@ -1353,7 +1452,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 9
   },
   {
     "hash": 1814540602,
@@ -1365,7 +1465,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Evento",
+    "order": 8
   },
   {
     "hash": 1050291910,
@@ -1377,7 +1478,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 9
   },
   {
     "hash": 1814540604,
@@ -1389,7 +1491,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Evento",
+    "order": 10
   },
   {
     "hash": 1906496742,
@@ -1401,7 +1504,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Incursiones",
+    "order": 3
   },
   {
     "hash": 3060686468,
@@ -1412,8 +1516,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Órbita Muerta",
+    "section": "Facciones",
+    "order": 2
   },
   {
     "hash": 3671454768,
@@ -1424,8 +1529,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Vendido ocasionalmente por Eva Levante",
+    "section": "Comerciante",
+    "order": 1
   },
   {
     "hash": 1158121103,
@@ -1437,7 +1543,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 13
   },
   {
     "hash": 3859658561,
@@ -1448,32 +1555,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
-  },
-  {
-    "hash": 4033743764,
-    "name": "Se acabó la suerte",
-    "description": "Equipa este shader para cambiar el color de tu armadura.",
-    "icon": "/common/destiny_content/icons/d0da1468c2ad420c67e1908436f2d9fe.jpg",
-    "tier": "Leyenda",
-    "sources": [],
-    "sourceOrigin": "pendiente",
-    "obtainable": null,
-    "note": "",
-    "section": ""
-  },
-  {
-    "hash": 4248210736,
-    "name": "Shader integral",
-    "description": "Devuelve tu armadura a sus colores por defecto.",
-    "icon": "/common/destiny_content/icons/2ab920f8c8a071217227a821dfe9d0ea.jpg",
-    "tier": "Común",
-    "sources": [],
-    "sourceOrigin": "pendiente",
-    "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido al abrir Tesoros de las eras o comprándolo por polvo de plata",
+    "section": "Evento",
+    "order": 5
   },
   {
     "hash": 1814540606,
@@ -1485,7 +1569,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "SRL",
+    "order": 12
   },
   {
     "hash": 1759332262,
@@ -1497,7 +1582,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Evento",
+    "order": 1
   },
   {
     "hash": 2949605651,
@@ -1509,7 +1595,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Actividades",
+    "order": 12
   },
   {
     "hash": 4112903826,
@@ -1520,8 +1607,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Nueva Monarquía",
+    "section": "Facciones",
+    "order": 11
   },
   {
     "hash": 1158121102,
@@ -1533,7 +1621,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 8
   },
   {
     "hash": 1814540605,
@@ -1545,7 +1634,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Evento",
+    "order": 9
   },
   {
     "hash": 4111350118,
@@ -1557,7 +1647,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "La Casa de los Lobos",
+    "order": 11
   },
   {
     "hash": 861576218,
@@ -1568,8 +1659,9 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de la Secta Guerra Futura",
+    "section": "Facciones",
+    "order": 8
   },
   {
     "hash": 1050291909,
@@ -1581,7 +1673,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": "Eververso"
+    "section": "Eververso",
+    "order": 3
   },
   {
     "hash": 2989526609,
@@ -1593,7 +1686,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 4
   },
   {
     "hash": 2571870726,
@@ -1605,7 +1699,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Promocional",
+    "order": 8
   },
   {
     "hash": 813108078,
@@ -1617,7 +1712,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "Evento",
+    "order": 2
   },
   {
     "hash": 1158121100,
@@ -1629,7 +1725,8 @@
     "sourceOrigin": "pendiente",
     "obtainable": null,
     "note": "",
-    "section": ""
+    "section": "El Rey de los Poseídos",
+    "order": 7
   },
   {
     "hash": 3176299288,
@@ -1640,7 +1737,8 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
-    "section": ""
+    "note": "Obtenido al completar la aventura \"El camino hacia la caída del Rey\"",
+    "section": "El Rey de los Poseídos",
+    "order": 2
   }
 ]
