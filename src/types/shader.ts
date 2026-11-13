@@ -9,4 +9,5 @@ export type Shader = {
     obtainable: boolean | null;
     note: string;
     section: string;
+    order: number | null;
 };

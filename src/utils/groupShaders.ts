@@ -1,6 +1,7 @@
 import type { Shader } from "../types/shader.ts";
 import { SECTION_ORDER, NO_SECTION } from "./sections.ts";
 import { toRoman } from "./roman.ts";
+import { compareShaders } from "./sortShaders.ts";
 
 export const MAX_PER_SECTION = 12;
 
@@ -40,7 +41,8 @@ export function buildSections(shaders: Shader[]): ShaderSection[] {
         ...(groups.has(NO_SECTION) ? [NO_SECTION] : []),
     ];
 
-    return orderedNames.flatMap((name) =>
-        splitSection(name, groups.get(name) ?? []),
-    );
+    return orderedNames.flatMap((name) => {
+        const sorted = [...(groups.get(name) ?? [])].sort(compareShaders);
+        return splitSection(name, sorted);
+    });
 }
