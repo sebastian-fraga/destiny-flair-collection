@@ -1,824 +1,824 @@
 {
-  "139252900": {
-    "name": "Caelestis",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "139252901": {
-    "name": "Invocauroras",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "194424264": {
-    "name": "Doble banshee",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "194424265": {
-    "name": "Oráculo 99",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "194424266": {
-    "name": "Ciudad perdida",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "194424267": {
-    "name": "Comportamiento obstaculizador",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "194424268": {
-    "name": "Poni centelleante",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "194424269": {
-    "name": "El ungüento",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "194424271": {
-    "name": "Paseo",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "202245944": {
-    "name": "Disputa imperecedera",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "202245945": {
-    "name": "Beltane",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "202245946": {
-    "name": "Anoche",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "202245947": {
-    "name": "Calcedonia",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "202245948": {
-    "name": "Espira del rey",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "202245949": {
-    "name": "Cantar de gesta",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "407626698": {
-    "name": "Blanco cháchara",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "651681368": {
-    "name": "Pacto de sangre",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "651681369": {
-    "name": "Elegía lunar",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "651681370": {
-    "name": "Florecimiento citerano",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "651681371": {
-    "name": "Deshielo refractivo",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "813108078": {
-    "name": "Valentín",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "813108079": {
-    "name": "Brillo rosáceo",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "861576216": {
-    "name": "Babilonia 9191",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "861576217": {
-    "name": "Nínive 8611",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "861576218": {
-    "name": "Tiro 4770",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "861576219": {
-    "name": "Cartago 0100",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "898062438": {
-    "name": "Nanopoesis",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "898062439": {
-    "name": "Encarnado",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1050291904": {
-    "name": "Malevolencia",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1050291905": {
-    "name": "Estañafuego",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1050291906": {
-    "name": "Corona de laurel",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1050291908": {
-    "name": "Incendiario",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1050291909": {
-    "name": "Traba",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1050291910": {
-    "name": "Reloj de arena",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1050291911": {
-    "name": "Baile de huesos",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1158121100": {
-    "name": "Vallsgärde",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1158121101": {
-    "name": "Danzador con leones",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1158121102": {
-    "name": "Tierra antigua",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1158121103": {
-    "name": "Rompeolas",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1263693536": {
-    "name": "Aventura temeraria",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1263693537": {
-    "name": "Caballero errante",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1536084164": {
-    "name": "Explosión bélica",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1759332257": {
-    "name": "Blacksmith",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1759332261": {
-    "name": "Blanco cháchara",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1759332262": {
-    "name": "Supernegro",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1759332263": {
-    "name": "Cáliz robado",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540592": {
-    "name": "Lívido",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540593": {
-    "name": "Magma",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540600": {
-    "name": "Midas",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540601": {
-    "name": "Manzana de caramelo",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540602": {
-    "name": "Regreso de la Aurora",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540603": {
-    "name": "Escarcha",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540604": {
-    "name": "Resol",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540605": {
-    "name": "Tigre blanco",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540606": {
-    "name": "Solario",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1814540607": {
-    "name": "Oasis",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1906496742": {
-    "name": "Resplandor",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1906496743": {
-    "name": "Criptógrafo",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1947545036": {
-    "name": "Palas victorioso",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "1947545037": {
-    "name": "Llama de Imogen",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2561402280": {
-    "name": "Pátina de azufre",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2561402281": {
-    "name": "Acuario eléctrico",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2561402282": {
-    "name": "Minimalista SUROS",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2561402283": {
-    "name": "Brillo de nebulosa",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2561402286": {
-    "name": "La vieja guardia",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2571870726": {
-    "name": "Unión infinita",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2874472095": {
-    "name": "Oración de Nepal",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2949605650": {
-    "name": "Apoderado ártico",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2949605651": {
-    "name": "Sustancia 321",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2989526608": {
-    "name": "Mármol azul",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2989526609": {
-    "name": "Tristeza",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2989526610": {
-    "name": "Esplendor otoñal",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2989526611": {
-    "name": "Atlante 5055",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "2989526615": {
-    "name": "Crisantemo",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3056359296": {
-    "name": "Deuda impagada",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3056359297": {
-    "name": "Amanecer en Mercurio",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3056359299": {
-    "name": "Anahata",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3060686468": {
-    "name": "Revenante",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3060686469": {
-    "name": "Acero amargo",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3060686470": {
-    "name": "En la nada",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3060686471": {
-    "name": "El ahorcado",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3176299288": {
-    "name": "Vena cava",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3176299289": {
-    "name": "Médula",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3176299291": {
-    "name": "Plano ascendente",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3367786034": {
-    "name": "Espiral de oro",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3367786035": {
-    "name": "Millón de millón",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3390448402": {
-    "name": "Prueba de dolor",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3390448404": {
-    "name": "Maldición de los Lobos",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3390448405": {
-    "name": "Invocación del Juicio",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3390448406": {
-    "name": "Brisa del Rey",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3390448407": {
-    "name": "Llanto del Demonio",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3458902100": {
-    "name": "Los devotos",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454768": {
-    "name": "Roble polar",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454769": {
-    "name": "18327496-64703388",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454770": {
-    "name": "Apogeo cómico",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454771": {
-    "name": "Esfumado de aurora",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454772": {
-    "name": "Provincial real",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454773": {
-    "name": "Dios de la guerra",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454774": {
-    "name": "Ciudad subterránea",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454775": {
-    "name": "Fuego helado",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454776": {
-    "name": "Diablo atronador",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3671454777": {
-    "name": "Mandoble",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3720866500": {
-    "name": "Beowulf",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3720866501": {
-    "name": "Cicerón",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3720866502": {
-    "name": "Aquiles",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3720866503": {
-    "name": "Gilgamés",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3753095826": {
-    "name": "Oro rosa",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3753095827": {
-    "name": "Bailarín de prisma",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3764987312": {
-    "name": "Lumos de medianoche",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3764987313": {
-    "name": "Orgullo del impulso",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3764987314": {
-    "name": "Azura",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3764987315": {
-    "name": "Claroscuro",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3764987316": {
-    "name": "Llamarada refulgente",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3764987317": {
-    "name": "Laurel luminoso",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3764987318": {
-    "name": "Fósforo",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3764987319": {
-    "name": "Krokos",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3776902104": {
-    "name": "Antelucano",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3776902105": {
-    "name": "Mediodía",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3776902106": {
-    "name": "Anochecer",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3859658560": {
-    "name": "Pantera malva",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3859658561": {
-    "name": "Saurópsido ninja",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "3859658562": {
-    "name": "Mar de lágrimas",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4033743764": {
-    "name": "Se acabó la suerte",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4033743765": {
-    "name": "La tela de la Reina",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4111350117": {
-    "name": "Espacio de Abidos",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4111350118": {
-    "name": "Tinta de Amduat",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4111350119": {
-    "name": "Pase de Aaru's",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4112903824": {
-    "name": "Amaltea",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4112903825": {
-    "name": "Nefertiti AK",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4112903826": {
-    "name": "Temisto",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4112903827": {
-    "name": "Cleopatra AK",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4197595974": {
-    "name": "Estandarte inquebrantable",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4211402860": {
-    "name": "Nube quemada",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4211402861": {
-    "name": "Estrellas cian",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4211402862": {
-    "name": "Prácticamente cubierto",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4211402863": {
-    "name": "Lirio morado",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  },
-  "4248210736": {
-    "name": "Shader integral",
-    "sources": [],
-    "obtainable": null,
-    "note": ""
-  }
+    "139252900": {
+        "name": "Caelestis",
+        "sources": [],
+        "obtainable": null,
+        "note": "Hola"
+    },
+    "139252901": {
+        "name": "Invocauroras",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "194424264": {
+        "name": "Doble banshee",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "194424265": {
+        "name": "Oráculo 99",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "194424266": {
+        "name": "Ciudad perdida",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "194424267": {
+        "name": "Comportamiento obstaculizador",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "194424268": {
+        "name": "Poni centelleante",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "194424269": {
+        "name": "El ungüento",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "194424271": {
+        "name": "Paseo",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "202245944": {
+        "name": "Disputa imperecedera",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "202245945": {
+        "name": "Beltane",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "202245946": {
+        "name": "Anoche",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "202245947": {
+        "name": "Calcedonia",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "202245948": {
+        "name": "Espira del rey",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "202245949": {
+        "name": "Cantar de gesta",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "407626698": {
+        "name": "Blanco cháchara",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "651681368": {
+        "name": "Pacto de sangre",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "651681369": {
+        "name": "Elegía lunar",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "651681370": {
+        "name": "Florecimiento citerano",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "651681371": {
+        "name": "Deshielo refractivo",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "813108078": {
+        "name": "Valentín",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "813108079": {
+        "name": "Brillo rosáceo",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "861576216": {
+        "name": "Babilonia 9191",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "861576217": {
+        "name": "Nínive 8611",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "861576218": {
+        "name": "Tiro 4770",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "861576219": {
+        "name": "Cartago 0100",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "898062438": {
+        "name": "Nanopoesis",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "898062439": {
+        "name": "Encarnado",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1050291904": {
+        "name": "Malevolencia",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1050291905": {
+        "name": "Estañafuego",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1050291906": {
+        "name": "Corona de laurel",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1050291908": {
+        "name": "Incendiario",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1050291909": {
+        "name": "Traba",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1050291910": {
+        "name": "Reloj de arena",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1050291911": {
+        "name": "Baile de huesos",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1158121100": {
+        "name": "Vallsgärde",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1158121101": {
+        "name": "Danzador con leones",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1158121102": {
+        "name": "Tierra antigua",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1158121103": {
+        "name": "Rompeolas",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1263693536": {
+        "name": "Aventura temeraria",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1263693537": {
+        "name": "Caballero errante",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1536084164": {
+        "name": "Explosión bélica",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1759332257": {
+        "name": "Blacksmith",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1759332261": {
+        "name": "Blanco cháchara",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1759332262": {
+        "name": "Supernegro",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1759332263": {
+        "name": "Cáliz robado",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540592": {
+        "name": "Lívido",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540593": {
+        "name": "Magma",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540600": {
+        "name": "Midas",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540601": {
+        "name": "Manzana de caramelo",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540602": {
+        "name": "Regreso de la Aurora",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540603": {
+        "name": "Escarcha",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540604": {
+        "name": "Resol",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540605": {
+        "name": "Tigre blanco",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540606": {
+        "name": "Solario",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1814540607": {
+        "name": "Oasis",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1906496742": {
+        "name": "Resplandor",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1906496743": {
+        "name": "Criptógrafo",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1947545036": {
+        "name": "Palas victorioso",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "1947545037": {
+        "name": "Llama de Imogen",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2561402280": {
+        "name": "Pátina de azufre",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2561402281": {
+        "name": "Acuario eléctrico",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2561402282": {
+        "name": "Minimalista SUROS",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2561402283": {
+        "name": "Brillo de nebulosa",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2561402286": {
+        "name": "La vieja guardia",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2571870726": {
+        "name": "Unión infinita",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2874472095": {
+        "name": "Oración de Nepal",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2949605650": {
+        "name": "Apoderado ártico",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2949605651": {
+        "name": "Sustancia 321",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2989526608": {
+        "name": "Mármol azul",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2989526609": {
+        "name": "Tristeza",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2989526610": {
+        "name": "Esplendor otoñal",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2989526611": {
+        "name": "Atlante 5055",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "2989526615": {
+        "name": "Crisantemo",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3056359296": {
+        "name": "Deuda impagada",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3056359297": {
+        "name": "Amanecer en Mercurio",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3056359299": {
+        "name": "Anahata",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3060686468": {
+        "name": "Revenante",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3060686469": {
+        "name": "Acero amargo",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3060686470": {
+        "name": "En la nada",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3060686471": {
+        "name": "El ahorcado",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3176299288": {
+        "name": "Vena cava",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3176299289": {
+        "name": "Médula",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3176299291": {
+        "name": "Plano ascendente",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3367786034": {
+        "name": "Espiral de oro",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3367786035": {
+        "name": "Millón de millón",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3390448402": {
+        "name": "Prueba de dolor",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3390448404": {
+        "name": "Maldición de los Lobos",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3390448405": {
+        "name": "Invocación del Juicio",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3390448406": {
+        "name": "Brisa del Rey",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3390448407": {
+        "name": "Llanto del Demonio",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3458902100": {
+        "name": "Los devotos",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454768": {
+        "name": "Roble polar",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454769": {
+        "name": "18327496-64703388",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454770": {
+        "name": "Apogeo cómico",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454771": {
+        "name": "Esfumado de aurora",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454772": {
+        "name": "Provincial real",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454773": {
+        "name": "Dios de la guerra",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454774": {
+        "name": "Ciudad subterránea",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454775": {
+        "name": "Fuego helado",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454776": {
+        "name": "Diablo atronador",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3671454777": {
+        "name": "Mandoble",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3720866500": {
+        "name": "Beowulf",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3720866501": {
+        "name": "Cicerón",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3720866502": {
+        "name": "Aquiles",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3720866503": {
+        "name": "Gilgamés",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3753095826": {
+        "name": "Oro rosa",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3753095827": {
+        "name": "Bailarín de prisma",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3764987312": {
+        "name": "Lumos de medianoche",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3764987313": {
+        "name": "Orgullo del impulso",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3764987314": {
+        "name": "Azura",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3764987315": {
+        "name": "Claroscuro",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3764987316": {
+        "name": "Llamarada refulgente",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3764987317": {
+        "name": "Laurel luminoso",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3764987318": {
+        "name": "Fósforo",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3764987319": {
+        "name": "Krokos",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3776902104": {
+        "name": "Antelucano",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3776902105": {
+        "name": "Mediodía",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3776902106": {
+        "name": "Anochecer",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3859658560": {
+        "name": "Pantera malva",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3859658561": {
+        "name": "Saurópsido ninja",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "3859658562": {
+        "name": "Mar de lágrimas",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4033743764": {
+        "name": "Se acabó la suerte",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4033743765": {
+        "name": "La tela de la Reina",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4111350117": {
+        "name": "Espacio de Abidos",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4111350118": {
+        "name": "Tinta de Amduat",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4111350119": {
+        "name": "Pase de Aaru's",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4112903824": {
+        "name": "Amaltea",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4112903825": {
+        "name": "Nefertiti AK",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4112903826": {
+        "name": "Temisto",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4112903827": {
+        "name": "Cleopatra AK",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4197595974": {
+        "name": "Estandarte inquebrantable",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4211402860": {
+        "name": "Nube quemada",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4211402861": {
+        "name": "Estrellas cian",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4211402862": {
+        "name": "Prácticamente cubierto",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4211402863": {
+        "name": "Lirio morado",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    },
+    "4248210736": {
+        "name": "Shader integral",
+        "sources": [],
+        "obtainable": null,
+        "note": ""
+    }
 }
