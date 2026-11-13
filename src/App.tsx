@@ -26,15 +26,15 @@ export default function App() {
 
     return (
         <main className="relative flex flex-col">
-            <header className="flex flex-col items-start gap-12 mb-2 -mt-2 relative">
-                <div className="mx-auto">
+            <header className="flex flex-col items-start gap-6 sm:gap-12 mb-2 -mt-2 relative">
+                <div className="mx-auto w-full">
                     <Pagination
                         page={page}
                         totalPages={totalPages}
                         onChange={goToPage}
                     />
                 </div>
-                <h1 className="text-6xl uppercase tracking-wide text-white font-medium">
+                <h1 className="text-3xl uppercase tracking-wide text-white font-medium sm:text-5xl lg:text-6xl">
                     Colección de shaders de Destiny
                 </h1>
             </header>
