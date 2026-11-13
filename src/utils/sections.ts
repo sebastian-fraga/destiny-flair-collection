@@ -1,19 +1,18 @@
 export const SECTION_ORDER = [
-    "Era de Triunfo",
     "Los Señores de Hierro",
+    "Era de Triunfo",
     "El Rey de los Poseídos",
     "La Casa de los Lobos",
     "La Profunda Oscuridad",
     "Facciones",
     "Actividades",
-    "Eventos",
-    "Incursiones",
-    "Promocionales",
     "SRL",
-    "Crisol", 
-    "Pruebas de Osiris",
+    "Incursiones",
     "Comerciante",
-    "Eververso"
+    "Comerciante II",
+    "Promocional",
+    "Evento",
+    "Eververso",
 ];
 
 export const NO_SECTION = "Otros";
