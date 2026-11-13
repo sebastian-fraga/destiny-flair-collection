@@ -1,18 +1,60 @@
+import { useLayoutEffect, useRef, useState } from "react";
+import { createPortal } from "react-dom";
 import type { Shader } from "../types/shader.ts";
 import { defaultTier, tierStyles } from "../utils/tierStyles.ts";
 
 interface Props {
     id: string;
     shader: Shader;
+    pos: { x: number; y: number };
+    visible: boolean;
 }
 
-export default function Tooltip({ id, shader }: Props) {
+const CURSOR_GAP = 16;
+const VIEWPORT_GAP = 8;
+
+export default function Tooltip({ id, shader, pos, visible }: Props) {
+    const tipRef = useRef<HTMLDivElement>(null);
+    const [style, setStyle] = useState({ top: 0, left: 0 });
     const tier = tierStyles[shader.tier] ?? defaultTier;
-    return (
+
+    useLayoutEffect(() => {
+        const el = tipRef.current;
+        if (!el) return;
+
+        const { offsetWidth: width, offsetHeight: height } = el;
+
+        let left = pos.x + CURSOR_GAP;
+        let top = pos.y + CURSOR_GAP;
+
+        if (left + width > window.innerWidth - VIEWPORT_GAP) {
+            left = pos.x - CURSOR_GAP - width;
+        }
+        if (top + height > window.innerHeight - VIEWPORT_GAP) {
+            top = pos.y - CURSOR_GAP - height;
+        }
+
+        const maxLeft = Math.max(
+            VIEWPORT_GAP,
+            window.innerWidth - width - VIEWPORT_GAP,
+        );
+        const maxTop = Math.max(
+            VIEWPORT_GAP,
+            window.innerHeight - height - VIEWPORT_GAP,
+        );
+        left = Math.min(Math.max(left, VIEWPORT_GAP), maxLeft);
+        top = Math.min(Math.max(top, VIEWPORT_GAP), maxTop);
+
+        setStyle({ top, left });
+    }, [pos, shader]);
+
+    return createPortal(
         <div
+            ref={tipRef}
             id={id}
             role="tooltip"
-            className="pointer-events-none invisible fixed top-(--ty) left-(--tx) z-10 ml-6 flex w-82 flex-col bg-black/80 text-left opacity-0 transition-opacity duration-150 group-hover:visible group-hover:opacity-100 group-focus:visible group-focus:opacity-100"
+            className="pointer-events-none fixed z-10 flex w-82 flex-col bg-black/80 text-left transition-opacity duration-150"
+            style={{ ...style, opacity: visible ? 1 : 0 }}
         >
             <div
                 className={`flex flex-col px-3 pt-2.5 pb-0 gap-px ${tier.header}`}
@@ -35,6 +77,7 @@ export default function Tooltip({ id, shader }: Props) {
                     {shader.note}
                 </p>
             )}
-        </div>
+        </div>,
+        document.body,
     );
 }

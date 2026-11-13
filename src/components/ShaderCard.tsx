@@ -1,5 +1,4 @@
-import type { FocusEvent, MouseEvent } from "react";
-import { useId } from "react";
+import { useId, useState } from "react";
 import type { Shader } from "../types/shader.ts";
 import { defaultTier, tierStyles } from "../utils/tierStyles.ts";
 import Tooltip from "./Tooltip";
@@ -10,41 +9,58 @@ interface Props {
     shader: Shader;
 }
 
-function followMouse(e: MouseEvent<HTMLLIElement>) {
-    e.currentTarget.style.setProperty("--tx", `${e.clientX}px`);
-    e.currentTarget.style.setProperty("--ty", `${e.clientY}px`);
-}
-
-function placeBesideCard(e: FocusEvent<HTMLLIElement>) {
-    const rect = e.currentTarget.getBoundingClientRect();
-    e.currentTarget.style.setProperty("--tx", `${rect.right}px`);
-    e.currentTarget.style.setProperty("--ty", `${rect.top}px`);
-}
-
 export default function ShaderCard({ shader }: Props) {
     const tooltipId = useId();
     const tier = tierStyles[shader.tier] ?? defaultTier;
 
     const isUnavailable = shader.obtainable === false;
+    const [isLoaded, setIsLoaded] = useState(false);
+    const [isHovered, setIsHovered] = useState(false);
+    const [tooltipPos, setTooltipPos] = useState({ x: 0, y: 0 });
+
+    function onMouseMove(e: React.MouseEvent<HTMLLIElement>) {
+        setTooltipPos({ x: e.clientX, y: e.clientY });
+    }
 
     return (
         <li
-            tabIndex={0}
             aria-describedby={tooltipId}
-            onMouseMove={followMouse}
-            onFocus={placeBesideCard}
+            onMouseMove={onMouseMove}
+            onMouseEnter={() => setIsHovered(true)}
+            onMouseLeave={() => setIsHovered(false)}
             className={`group relative flex flex-col justify-center ${tier.border}`}
         >
-            <img
-                src={`${BUNGIE}${shader.icon}`}
-                alt={shader.name}
-                width={92}
-                height={92}
-                loading="lazy"
-                className={`border-3 ${isUnavailable ? "border-white/50 brightness-50" : ""}`}
-            />
+            <div className="relative">
+                <img
+                    src={`${BUNGIE}${shader.icon}`}
+                    alt={shader.name}
+                    width={92}
+                    height={92}
+                    loading="lazy"
+                    decoding="async"
+                    className={`border-3 transition-[opacity,scale] duration-100 hover:scale-105  ${
+                        isUnavailable
+                            ? "border-white/50 brightness-50"
+                            : ""
+                    } ${!isLoaded ? "opacity-0" : "opacity-100"}`}
+                    onLoad={() => setIsLoaded(true)}
+                    onError={() => setIsLoaded(true)}
+                />
+                {!isLoaded && (
+                    <div
+                        className="absolute inset-0 flex items-center justify-center bg-transparent animate-pulse"
+                    >
+                        <div className="spin-slow w-8 h-8 border-3 border-white/40 border-t-current rounded-full" />
+                    </div>
+                )}
+            </div>
 
-            <Tooltip id={tooltipId} shader={shader} />
+            <Tooltip
+                id={tooltipId}
+                shader={shader}
+                pos={tooltipPos}
+                visible={isHovered}
+            />
         </li>
     );
 }
