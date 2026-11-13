@@ -7,7 +7,7 @@ import ShaderCard from "./ShaderCard";
 export const SECTIONS_PER_PAGE = 6;
 
 const TRANSITION = {
-    duration: 0.55,
+    duration: 0.6,
     ease: [0.42, 0, 0.58, 1] as [number, number, number, number],
 };
 
@@ -44,7 +44,11 @@ export default function ShaderSections({ shaders, page, direction }: Props) {
         exit: (direction: number) => {
             const rect = gridRef.current?.getBoundingClientRect();
 
-            const distance = (rect?.width ?? window.innerWidth) * 0.85;
+            const distance = rect
+                ? direction > 0
+                    ? window.innerWidth - rect.left
+                    : rect.right
+                : window.innerWidth;
 
             return {
                 x: direction > 0 ? -distance : distance,
@@ -77,7 +81,7 @@ export default function ShaderSections({ shaders, page, direction }: Props) {
                     return (
                         <section key={section.title} className="max-w-200">
                             <h2 className="text-xl font-medium uppercase tracking-wide text-slate-200/90">
-                                {section.title}{" "}
+                                {section.title}
                             </h2>
                             <div className="w-full bg-slate-200 h-px mb-2"></div>
                             <ul className="grid max-w-200 grid-cols-6 gap-1.5">
