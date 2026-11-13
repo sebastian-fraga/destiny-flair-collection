@@ -18,6 +18,14 @@ try {
     console.log("(no existía source-overrides.json, lo creo)");
 }
 
+const EMPTY_FIELDS = {
+    sources: [],
+    obtainable: null,
+    note: "",
+    section: "",
+    order: null,
+};
+
 let agregados = 0;
 let completados = 0;
 
@@ -30,27 +38,18 @@ for (const item of items) {
     if (!existente) {
         overrides[item.itemHash] = {
             name: item.itemName,
-            sources: [],
-            obtainable: null,
-            note: "",
-            section: "",
+            ...structuredClone(EMPTY_FIELDS),
         };
         agregados++;
         continue;
     }
 
     let cambio = false;
-    if (!("obtainable" in existente)) {
-        existente.obtainable = null;
-        cambio = true;
-    }
-    if (!("note" in existente)) {
-        existente.note = "";
-        cambio = true;
-    }
-    if (!("section" in existente)) {
-        existente.section = "";
-        cambio = true;
+    for (const [campo, vacio] of Object.entries(EMPTY_FIELDS)) {
+        if (!(campo in existente)) {
+            existente[campo] = structuredClone(vacio);
+            cambio = true;
+        }
     }
     if (cambio) completados++;
 }

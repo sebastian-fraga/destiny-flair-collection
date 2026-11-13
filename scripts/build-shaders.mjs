@@ -1,5 +1,5 @@
-import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { DatabaseSync } from "node:sqlite";
+import { mkdir, writeFile, readFile } from "node:fs/promises";
 
 const SHADER_BUCKET = 2973005342;
 const OUT_DIR = "src/data";
@@ -33,6 +33,7 @@ const items = db
 
 const shaders = [];
 let clasificados = 0;
+let ocultos = 0;
 
 for (const item of items) {
     if (item.bucketTypeHash !== SHADER_BUCKET) continue;
@@ -43,6 +44,12 @@ for (const item of items) {
     }
 
     const override = overrides[item.itemHash];
+
+    if (override?.hidden === true) {
+        ocultos++;
+        continue;
+    }
+
     const manifestSources = USE_MANIFEST_SOURCES
         ? (item.sourceHashes ?? [])
               .map((hash) => sourceByHash.get(hash)?.sourceName)
@@ -70,6 +77,11 @@ for (const item of items) {
     const section =
         typeof override?.section === "string" ? override.section.trim() : "";
 
+    const order =
+        typeof override?.order === "number" && Number.isFinite(override.order)
+            ? override.order
+            : null;
+
     shaders.push({
         hash: item.itemHash,
         name: item.itemName,
@@ -81,6 +93,7 @@ for (const item of items) {
         obtainable,
         note: override?.note ?? "",
         section,
+        order,
     });
 }
 
@@ -97,20 +110,25 @@ for (const s of shaders) {
     else porDisponibilidad.sinRevisar++;
 }
 
-const porsection = {};
+const porSection = {};
 for (const s of shaders) {
     const clave = s.section || "(sin asignar)";
-    porsection[clave] = (porsection[clave] ?? 0) + 1;
+    porSection[clave] = (porSection[clave] ?? 0) + 1;
 }
 
 console.log("Shaders guardados:", shaders.length);
 console.log("Clasificados excluidos:", clasificados);
+console.log("Ocultos por hidden:", ocultos);
 console.log("Por origen del dato:", porOrigen);
 console.log(
     "Conseguibles (true) / no (false) / sin revisar:",
     porDisponibilidad,
 );
-console.log("Por sección:", porsection);
+console.log("Por sección:", porSection);
+console.log(
+    "Con order asignado:",
+    shaders.filter((s) => s.order !== null).length,
+);
 
 await mkdir(OUT_DIR, { recursive: true });
 await writeFile(`${OUT_DIR}/shaders.json`, JSON.stringify(shaders, null, 2));
