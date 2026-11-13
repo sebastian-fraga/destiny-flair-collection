@@ -4,7 +4,7 @@ import type { Shader } from "../types/shader.ts";
 import { buildSections, MAX_PER_SECTION } from "../utils/groupShaders.ts";
 import ShaderCard from "./ShaderCard";
 
-export const SECTIONS_PER_PAGE = 6;
+export const SECTIONS_PER_PAGE = 5;
 
 const TRANSITION = {
     duration: 0.6,
