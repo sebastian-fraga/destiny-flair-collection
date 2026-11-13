@@ -1,5 +1,4 @@
-/* eslint-disable react-hooks/rules-of-hooks */
-import { useEffect } from "react";
+import { useEffect, useRef, useState } from "react";
 
 interface Props {
     page: number;
@@ -8,12 +7,10 @@ interface Props {
 }
 
 export default function Pagination({ page, totalPages, onChange }: Props) {
-    if (totalPages <= 1) return null;
+    const lastKeyPress = useRef(0);
+    const KEY_DELAY = 500;
 
-    const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
-
-    const kbdClasses =
-        "bg-white text-black font-body w-6 h-6 flex items-center justify-center rounded-sm text-sm shadow-md";
+    const [activeKey, setActiveKey] = useState<string | null>(null);
 
     useEffect(() => {
         const handleKeyDown = (event: KeyboardEvent) => {
@@ -25,19 +22,50 @@ export default function Pagination({ page, totalPages, onChange }: Props) {
                 return;
             }
 
-            if (event.key.toLowerCase() === "q" && page > 1) {
+            const key = event.key.toLowerCase();
+
+            if (key !== "q" && key !== "e") return;
+
+            setActiveKey(key);
+
+            const now = Date.now();
+
+            if (now - lastKeyPress.current < KEY_DELAY) return;
+
+            if (key === "q" && page > 1) {
+                lastKeyPress.current = now;
                 onChange(page - 1);
             }
 
-            if (event.key.toLowerCase() === "e" && page < totalPages) {
+            if (key === "e" && page < totalPages) {
+                lastKeyPress.current = now;
                 onChange(page + 1);
             }
         };
 
-        window.addEventListener("keydown", handleKeyDown);
+        const handleKeyUp = (event: KeyboardEvent) => {
+            const key = event.key.toLowerCase();
 
-        return () => window.removeEventListener("keydown", handleKeyDown);
+            if (key === "q" || key === "e") {
+                setActiveKey(null);
+            }
+        };
+
+        window.addEventListener("keydown", handleKeyDown);
+        window.addEventListener("keyup", handleKeyUp);
+
+        return () => {
+            window.removeEventListener("keydown", handleKeyDown);
+            window.removeEventListener("keyup", handleKeyUp);
+        };
     }, [page, totalPages, onChange]);
+
+    if (totalPages <= 1) return null;
+
+    const pages = Array.from({ length: totalPages }, (_, i) => i + 1);
+
+    const kbdClasses =
+        "hidden md:flex bg-white text-black font-body w-6 h-6 items-center justify-center rounded-sm text-sm shadow-[0_3px_0_#999] inset-shadow-[0_1px_2px_#00000040] transition-all";
 
     return (
         <div className="relative isolate drop-shadow-2xl">
@@ -45,21 +73,41 @@ export default function Pagination({ page, totalPages, onChange }: Props) {
             <div className="absolute inset-y-0 left-1/2 -z-10 w-screen -translate-x-1/2 bg-[#929D9D]" />
             <nav
                 aria-label="Paginación de secciones"
-                className="mt-2 flex flex-wrap items-center justify-center gap-8 flex-1 pb-5 pt-14"
+                className="mt-2 flex flex-1 flex-wrap items-center justify-center gap-x-4 gap-y-2 pb-5 pt-14 sm:gap-x-8"
             >
-                <kbd className={kbdClasses}>Q</kbd>
+                <kbd
+                    className={`${kbdClasses} ${
+                        activeKey === "q"
+                            ? "translate-y-0.5 shadow-[0_1px_0_#999] inset-shadow-[0_2px_12px_#00000020] bg-white/90"
+                            : ""
+                    }`}
+                >
+                    Q
+                </kbd>
                 {pages.map((n) => (
                     <button
                         key={n}
                         type="button"
                         aria-current={n === page ? "page" : undefined}
-                        className={`${n === page ? "text-white" : "text-white/60 cursor-pointer hover:text-white/80"} transition-colors text-xl `}
+                        className={`${
+                            n === page
+                                ? "text-white"
+                                : "text-white/60 cursor-pointer hover:text-white/80"
+                        } transition-colors text-base sm:text-xl `}
                         onClick={() => onChange(n)}
                     >
                         colección {n}
                     </button>
                 ))}
-                <kbd className={kbdClasses}>E</kbd>
+                <kbd
+                    className={`${kbdClasses} ${
+                        activeKey === "e"
+                            ? "translate-y-0.5 shadow-[0_1px_0_#999] inset-shadow-[0_2px_12px_#00000020] bg-white/90"
+                            : ""
+                    }`}
+                >
+                    E
+                </kbd>
             </nav>
         </div>
     );
