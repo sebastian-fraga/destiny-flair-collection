@@ -1,4 +1,3 @@
-// scripts/inspect-shaders.mjs
 import { readFile } from "node:fs/promises";
 
 const shaders = JSON.parse(await readFile("src/data/shaders.json", "utf8"));

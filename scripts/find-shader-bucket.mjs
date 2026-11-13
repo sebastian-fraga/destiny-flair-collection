@@ -3,7 +3,6 @@ import { DatabaseSync } from "node:sqlite";
 
 const db = new DatabaseSync(".cache/world-es.sqlite", { readOnly: true });
 
-// 1. Los 40 buckets: hash, nombre e identificador interno
 console.log("=== BUCKETS ===");
 const buckets = db
     .prepare("SELECT json FROM DestinyInventoryBucketDefinition")
@@ -13,7 +12,6 @@ for (const row of buckets) {
     console.log(b.bucketHash, "|", b.bucketName, "|", b.bucketIdentifier);
 }
 
-// 2. Cuántos ítems hay por cada itemTypeName (para ver cómo se llama "shader" en español)
 console.log("\n=== TIPOS DE ÍTEM ===");
 const counts = new Map();
 const items = db

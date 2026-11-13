@@ -1,11 +1,9 @@
-// scripts/build-shaders.mjs
+import { mkdir, readFile, writeFile } from "node:fs/promises";
 import { DatabaseSync } from "node:sqlite";
-import { mkdir, writeFile, readFile } from "node:fs/promises";
 
 const SHADER_BUCKET = 2973005342;
 const OUT_DIR = "src/data";
 
-// false = ignoro por completo las fuentes del manifest y uso solo las mías
 const USE_MANIFEST_SOURCES = false;
 
 const db = new DatabaseSync(".cache/world-es.sqlite", { readOnly: true });
@@ -64,11 +62,13 @@ for (const item of items) {
         sourceOrigin = "pendiente";
     }
 
-    // Solo acepto true/false; cualquier otra cosa (null, texto, falta) = sin revisar
     const obtainable =
         override?.obtainable === true || override?.obtainable === false
             ? override.obtainable
             : null;
+
+    const section =
+        typeof override?.section === "string" ? override.section.trim() : "";
 
     shaders.push({
         hash: item.itemHash,
@@ -80,6 +80,7 @@ for (const item of items) {
         sourceOrigin,
         obtainable,
         note: override?.note ?? "",
+        section,
     });
 }
 
@@ -96,6 +97,12 @@ for (const s of shaders) {
     else porDisponibilidad.sinRevisar++;
 }
 
+const porsection = {};
+for (const s of shaders) {
+    const clave = s.section || "(sin asignar)";
+    porsection[clave] = (porsection[clave] ?? 0) + 1;
+}
+
 console.log("Shaders guardados:", shaders.length);
 console.log("Clasificados excluidos:", clasificados);
 console.log("Por origen del dato:", porOrigen);
@@ -103,6 +110,7 @@ console.log(
     "Conseguibles (true) / no (false) / sin revisar:",
     porDisponibilidad,
 );
+console.log("Por sección:", porsection);
 
 await mkdir(OUT_DIR, { recursive: true });
 await writeFile(`${OUT_DIR}/shaders.json`, JSON.stringify(shaders, null, 2));

@@ -1,4 +1,3 @@
-// scripts/make-overrides-draft.mjs
 import { DatabaseSync } from "node:sqlite";
 import { readFile, writeFile, mkdir } from "node:fs/promises";
 
@@ -12,7 +11,6 @@ const items = db
     .all()
     .map((row) => JSON.parse(String(row.json)));
 
-// Lo que ya escribiste NO se toca: partimos del archivo existente
 let overrides = {};
 try {
     overrides = JSON.parse(await readFile(FILE, "utf8"));
@@ -30,18 +28,17 @@ for (const item of items) {
     const existente = overrides[item.itemHash];
 
     if (!existente) {
-        // Shader nuevo: entrada con todos los campos vacíos
         overrides[item.itemHash] = {
             name: item.itemName,
             sources: [],
             obtainable: null,
             note: "",
+            section: "",
         };
         agregados++;
         continue;
     }
 
-    // Entrada existente: solo agrego los campos que le falten, sin pisar ninguno
     let cambio = false;
     if (!("obtainable" in existente)) {
         existente.obtainable = null;
@@ -49,6 +46,10 @@ for (const item of items) {
     }
     if (!("note" in existente)) {
         existente.note = "";
+        cambio = true;
+    }
+    if (!("section" in existente)) {
+        existente.section = "";
         cambio = true;
     }
     if (cambio) completados++;

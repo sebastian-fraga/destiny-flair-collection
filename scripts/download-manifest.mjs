@@ -1,4 +1,3 @@
-// scripts/download-manifest.mjs
 import AdmZip from "adm-zip";
 import { mkdir, writeFile, access } from "node:fs/promises";
 
@@ -11,7 +10,6 @@ if (!API_KEY) {
     process.exit(1);
 }
 
-// 1. Pedir el manifest para saber la ruta actual del archivo
 const manifestRes = await fetch(
     "https://www.bungie.net/d1/Platform/Destiny/Manifest/",
     {
@@ -21,14 +19,12 @@ const manifestRes = await fetch(
 const manifest = (await manifestRes.json()).Response;
 const path = manifest.mobileWorldContentPaths[LANG];
 
-// 2. Nombre del archivo local basado en la ruta (cambia cuando Bungie actualiza)
-const fileName = path.split("/").pop(); // world_sql_content_af72...content
+const fileName = path.split("/").pop(); 
 const zipPath = `${CACHE_DIR}/${fileName}`;
 const dbPath = `${CACHE_DIR}/world-${LANG}.sqlite`;
 
 await mkdir(CACHE_DIR, { recursive: true });
 
-// 3. Si ya lo descargamos antes, no lo repetimos
 const exists = await access(zipPath)
     .then(() => true)
     .catch(() => false);
@@ -45,7 +41,6 @@ if (exists) {
     await writeFile(zipPath, Buffer.from(await fileRes.arrayBuffer()));
 }
 
-// 4. Descomprimir: el zip contiene un único archivo (la base SQLite)
 const zip = new AdmZip(zipPath);
 const entries = zip.getEntries();
 console.log(
