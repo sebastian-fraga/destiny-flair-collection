@@ -1,12 +1,19 @@
+@import "/public/fonts/font.css";
+@import "tailwindcss";
+
 body {
     margin: 0;
-    background: #0e1116;
+    background: #8091A2;
     color: #e6e8eb;
-    font-family: system-ui, sans-serif;
+    font-family: var(--font-body);
+}
+
+@theme {
+    --font-body: "Neue Haas Grotesk Display", system-ui, sans-serif;
 }
 
 main {
-    max-width: 1100px;
+    max-width: 1600px;
     margin: 0 auto;
     padding: 2rem 1rem;
 }
@@ -15,47 +22,9 @@ header p {
     color: #8b949e;
 }
 
-.grid {
-    list-style: none;
-    padding: 0;
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
-    gap: 0.75rem;
-}
-
-.card {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 0.4rem;
-    padding: 0.75rem;
-    background: #161b22;
-    border: 1px solid #30363d;
-    border-top: 3px solid var(--tier-color, #30363d);
-    border-radius: 6px;
-    text-align: center;
-}
-
-.name {
-    font-size: 0.85rem;
-    font-weight: 600;
-}
-
 .tier {
     font-size: 0.7rem;
     color: var(--tier-color, #8b949e);
-}
-
-.card[data-tier="Leyenda"] {
-    --tier-color: #a371f7;
-}
-
-.card[data-tier="Peculiar"] {
-    --tier-color: #58a6ff;
-}
-
-.card[data-tier="Común"] {
-    --tier-color: #c9d1d9;
 }
 
 .source {
