@@ -8,4 +8,5 @@ export type Shader = {
     sourceOrigin: "manual" | "manifest" | "pendiente";
     obtainable: boolean | null;
     note: string;
+    section: string;
 };
