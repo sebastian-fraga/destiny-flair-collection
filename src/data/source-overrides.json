@@ -34,7 +34,7 @@
     "194424266": {
         "name": "Ciudad perdida",
         "obtainable": null,
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar actividades de la Vanguardia o el Crisol",
         "section": "Actividades",
         "sources": [],
         "order": 8
@@ -89,7 +89,7 @@
     },
     "202245946": {
         "name": "Anoche",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar actividades del Crisol",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -97,7 +97,7 @@
     },
     "202245947": {
         "name": "Calcedonia",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar actividades del Crisol",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -209,7 +209,7 @@
     },
     "898062438": {
         "name": "Nanopoesis",
-        "note": "",
+        "note": "Obtenido al conseguir las 5 piezas de armadura de la incursión \"La Furia de las Máquinas\" (difícil)",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -217,7 +217,7 @@
     },
     "898062439": {
         "name": "Encarnado",
-        "note": "",
+        "note": "Obtenido al conseguir las 5 piezas de armadura de la incursión \"La Furia de las Máquinas\"",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -225,7 +225,7 @@
     },
     "1050291904": {
         "name": "Malevolencia",
-        "note": "",
+        "note": "Conseguido de forma aleatoria al completar encuentros de la incursión \"La Caída del Rey\" en su versión de 390 de luz",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -233,7 +233,7 @@
     },
     "1050291905": {
         "name": "Estañafuego",
-        "note": "",
+        "note": "Conseguido de forma aleatoria al derrotar a Aksis en la incursión \"La Furia de las Máquinas\" en su versión de 380 de luz",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -265,7 +265,7 @@
     },
     "1050291910": {
         "name": "Reloj de arena",
-        "note": "",
+        "note": "Conseguido de forma aleatoria al completar encuentros de la incursión \"Cámara de Cristal\" en su versión de 390 de luz",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -273,7 +273,7 @@
     },
     "1050291911": {
         "name": "Baile de huesos",
-        "note": "",
+        "note": "Conseguido de forma aleatoria al completar encuentros de la incursión \"El Fin de Crota\" en su versión de 390 de luz",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -281,7 +281,7 @@
     },
     "1158121100": {
         "name": "Vallsgärde",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -289,7 +289,7 @@
     },
     "1158121101": {
         "name": "Danzador con leones",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -297,7 +297,7 @@
     },
     "1158121102": {
         "name": "Tierra antigua",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -305,7 +305,7 @@
     },
     "1158121103": {
         "name": "Rompeolas",
-        "note": "",
+        "note": "Obtenido al alcanzar el nivel 40 con un hechicero",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -313,18 +313,18 @@
     },
     "1263693536": {
         "name": "Aventura temeraria",
-        "note": "",
+        "note": "Era obtenido de forma aleatoria al completar partidas del Estandarte de Hierro",
         "section": "Los Señores de Hierro",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 2
     },
     "1263693537": {
         "name": "Caballero errante",
-        "note": "",
+        "note": "Era obtenido de forma aleatoria al completar partidas del Estandarte de Hierro o al completar el paso 5 de la aventura \"La búsqueda de la Luz\"",
         "section": "Los Señores de Hierro",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 3
     },
     "1536084164": {
@@ -338,7 +338,7 @@
     "1759332257": {
         "name": "Blacksmith",
         "obtainable": false,
-        "note": "Era obtenible como beneficio por reservar Call of Duty: Advanced Warfare",
+        "note": "Era obtenido como beneficio por reservar Call of Duty: Advanced Warfare",
         "section": "Promocional",
         "sources": [],
         "order": null
@@ -362,7 +362,7 @@
     },
     "1759332263": {
         "name": "Cáliz robado",
-        "note": "",
+        "note": "Vendido ocasionalmente por Eva Levante",
         "section": "Comerciante II",
         "sources": [],
         "obtainable": null,
@@ -450,7 +450,7 @@
     },
     "1906496742": {
         "name": "Resplandor",
-        "note": "",
+        "note": "Obtenido al derrotar a Crota en El fin de Crota (difícil)",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -458,7 +458,7 @@
     },
     "1906496743": {
         "name": "Criptógrafo",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al derrotar a Crota en El fin de Crota",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -530,7 +530,7 @@
     },
     "2874472095": {
         "name": "Oración de Nepal",
-        "note": "Era obtenible como recompensa tras comprar una camiseta de caridad en apoyo a las víctimas del terremoto de Nepal en 2015",
+        "note": "Era obtenido como recompensa tras comprar una camiseta de caridad en apoyo a las víctimas del terremoto de Nepal en 2015",
         "section": "Promocional",
         "sources": [],
         "obtainable": false,
@@ -554,7 +554,7 @@
     },
     "2989526608": {
         "name": "Mármol azul",
-        "note": "",
+        "note": "Vendido ocasionalmente por Eva Levante",
         "section": "Comerciante",
         "sources": [],
         "obtainable": null,
@@ -562,7 +562,7 @@
     },
     "2989526609": {
         "name": "Tristeza",
-        "note": "",
+        "note": "Obtenido al completar la aventura \"El Rey de los Poseídos\"",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -570,7 +570,7 @@
     },
     "2989526610": {
         "name": "Esplendor otoñal",
-        "note": "",
+        "note": "Obtenido al completar la aventura \"La Corte de Oryx\"",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -578,7 +578,7 @@
     },
     "2989526611": {
         "name": "Atlante 5055",
-        "note": "",
+        "note": "Vendido ocasionalmente por Eva Levante",
         "section": "Comerciante",
         "sources": [],
         "obtainable": null,
@@ -602,7 +602,7 @@
     },
     "3056359297": {
         "name": "Amanecer en Mercurio",
-        "note": "",
+        "note": "Obtenido al alcanzar el nivel 40 con un titán",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -610,7 +610,7 @@
     },
     "3056359299": {
         "name": "Anahata",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -658,7 +658,7 @@
     },
     "3176299289": {
         "name": "Médula",
-        "note": "",
+        "note": "Obtenido al conseguir las 4 piezas de armadura de la incursión \"La Caída del Rey\"",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -666,7 +666,7 @@
     },
     "3176299291": {
         "name": "Plano ascendente",
-        "note": "",
+        "note": "Obtenido al conseguir las 4 piezas de armadura de la incursión \"La Caída del Rey\" (difícil)",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -730,10 +730,10 @@
     },
     "3458902100": {
         "name": "Los devotos",
-        "note": "",
+        "note": "Era obtenido de forma aleatoria al completar partidas de las Pruebas de Osiris",
         "section": "Los Señores de Hierro",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 1
     },
     "3671454768": {
@@ -754,7 +754,7 @@
     },
     "3671454770": {
         "name": "Apogeo cómico",
-        "note": "",
+        "note": "Vendido ocasionalmente por Eva Levante",
         "section": "Comerciante",
         "sources": [],
         "obtainable": null,
@@ -762,7 +762,7 @@
     },
     "3671454771": {
         "name": "Esfumado de aurora",
-        "note": "",
+        "note": "Vendido ocasionalmente por Eva Levante",
         "section": "Comerciante",
         "sources": [],
         "obtainable": null,
@@ -770,7 +770,7 @@
     },
     "3671454772": {
         "name": "Provincial real",
-        "note": "",
+        "note": "Vendido ocasionalmente por Eva Levante",
         "section": "Comerciante",
         "sources": [],
         "obtainable": null,
@@ -786,7 +786,7 @@
     },
     "3671454774": {
         "name": "Ciudad subterránea",
-        "note": "",
+        "note": "Vendido ocasionalmente por Eva Levante",
         "section": "Comerciante",
         "sources": [],
         "obtainable": null,
@@ -802,7 +802,7 @@
     },
     "3671454776": {
         "name": "Diablo atronador",
-        "note": "",
+        "note": "Vendido ocasionalmente por Eva Levante",
         "section": "Comerciante",
         "sources": [],
         "obtainable": null,
@@ -810,7 +810,7 @@
     },
     "3671454777": {
         "name": "Mandoble",
-        "note": "",
+        "note": "Vendido ocasionalmente por Eva Levante",
         "section": "Comerciante",
         "sources": [],
         "obtainable": null,
@@ -987,7 +987,7 @@
     },
     "4033743765": {
         "name": "La tela de la Reina",
-        "note": "",
+        "note": "Obtenido al completar la actividad \"La venganza de Skolas\" en El Presidio de los Ancianos",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -1083,7 +1083,7 @@
     },
     "4211402863": {
         "name": "Lirio morado",
-        "note": "",
+        "note": "Obtenido al alcanzar el nivel 40 con un cazador",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,

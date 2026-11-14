@@ -60,7 +60,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al alcanzar el nivel 40 con un titán",
     "section": "El Rey de los Poseídos",
     "order": 14
   },
@@ -73,7 +73,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
     "section": "El Rey de los Poseídos",
     "order": 12
   },
@@ -86,7 +86,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido de forma aleatoria al finalizar actividades del Crisol",
     "section": "El Rey de los Poseídos",
     "order": 11
   },
@@ -138,7 +138,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Vendido ocasionalmente por Eva Levante",
     "section": "Comerciante",
     "order": 3
   },
@@ -164,7 +164,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Vendido ocasionalmente por Eva Levante",
     "section": "Comerciante",
     "order": 9
   },
@@ -176,8 +176,8 @@
     "tier": "Leyenda",
     "sources": [],
     "sourceOrigin": "pendiente",
-    "obtainable": null,
-    "note": "",
+    "obtainable": false,
+    "note": "Era obtenido de forma aleatoria al completar partidas del Estandarte de Hierro",
     "section": "Los Señores de Hierro",
     "order": 2
   },
@@ -229,7 +229,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Conseguido de forma aleatoria al completar encuentros de la incursión \"El Fin de Crota\" en su versión de 390 de luz",
     "section": "Incursiones",
     "order": 10
   },
@@ -268,7 +268,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": false,
-    "note": "Era obtenible como beneficio por reservar Call of Duty: Advanced Warfare",
+    "note": "Era obtenido como beneficio por reservar Call of Duty: Advanced Warfare",
     "section": "Promocional",
     "order": null
   },
@@ -332,8 +332,8 @@
     "tier": "Leyenda",
     "sources": [],
     "sourceOrigin": "pendiente",
-    "obtainable": null,
-    "note": "",
+    "obtainable": false,
+    "note": "Era obtenido de forma aleatoria al completar partidas del Estandarte de Hierro o al completar el paso 5 de la aventura \"La búsqueda de la Luz\"",
     "section": "Los Señores de Hierro",
     "order": 3
   },
@@ -359,7 +359,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido de forma aleatoria al finalizar actividades del Crisol",
     "section": "El Rey de los Poseídos",
     "order": 10
   },
@@ -372,7 +372,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Vendido ocasionalmente por Eva Levante",
     "section": "Comerciante II",
     "order": 2
   },
@@ -424,7 +424,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido de forma aleatoria al finalizar actividades de la Vanguardia o el Crisol",
     "section": "Actividades",
     "order": 8
   },
@@ -437,7 +437,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Vendido ocasionalmente por Eva Levante",
     "section": "Comerciante",
     "order": 6
   },
@@ -502,7 +502,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido de forma aleatoria al derrotar a Crota en El fin de Crota",
     "section": "Incursiones",
     "order": 2
   },
@@ -528,7 +528,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
     "section": "El Rey de los Poseídos",
     "order": 6
   },
@@ -567,7 +567,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Vendido ocasionalmente por Eva Levante",
     "section": "Comerciante",
     "order": 7
   },
@@ -671,7 +671,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al conseguir las 5 piezas de armadura de la incursión \"La Furia de las Máquinas\"",
     "section": "Incursiones",
     "order": 7
   },
@@ -697,7 +697,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Vendido ocasionalmente por Eva Levante",
     "section": "Comerciante",
     "order": 4
   },
@@ -749,7 +749,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al completar la aventura \"La Corte de Oryx\"",
     "section": "El Rey de los Poseídos",
     "order": 3
   },
@@ -775,7 +775,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Conseguido de forma aleatoria al derrotar a Aksis en la incursión \"La Furia de las Máquinas\" en su versión de 380 de luz",
     "section": "Incursiones",
     "order": 12
   },
@@ -918,7 +918,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al completar la actividad \"La venganza de Skolas\" en El Presidio de los Ancianos",
     "section": "Incursiones",
     "order": 4
   },
@@ -957,7 +957,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al alcanzar el nivel 40 con un cazador",
     "section": "El Rey de los Poseídos",
     "order": 5
   },
@@ -1021,8 +1021,8 @@
     "tier": "Leyenda",
     "sources": [],
     "sourceOrigin": "pendiente",
-    "obtainable": null,
-    "note": "",
+    "obtainable": false,
+    "note": "Era obtenido de forma aleatoria al completar partidas de las Pruebas de Osiris",
     "section": "Los Señores de Hierro",
     "order": 1
   },
@@ -1074,7 +1074,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Conseguido de forma aleatoria al completar encuentros de la incursión \"La Caída del Rey\" en su versión de 390 de luz",
     "section": "Incursiones",
     "order": 11
   },
@@ -1087,7 +1087,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Vendido ocasionalmente por Eva Levante",
     "section": "Comerciante",
     "order": 8
   },
@@ -1126,7 +1126,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Vendido ocasionalmente por Eva Levante",
     "section": "Comerciante",
     "order": 10
   },
@@ -1152,7 +1152,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al conseguir las 4 piezas de armadura de la incursión \"La Caída del Rey\"",
     "section": "Incursiones",
     "order": 5
   },
@@ -1204,7 +1204,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al conseguir las 5 piezas de armadura de la incursión \"La Furia de las Máquinas\" (difícil)",
     "section": "Incursiones",
     "order": 8
   },
@@ -1269,7 +1269,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": false,
-    "note": "Era obtenible como recompensa tras comprar una camiseta de caridad en apoyo a las víctimas del terremoto de Nepal en 2015",
+    "note": "Era obtenido como recompensa tras comprar una camiseta de caridad en apoyo a las víctimas del terremoto de Nepal en 2015",
     "section": "Promocional",
     "order": 10
   },
@@ -1399,7 +1399,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al conseguir las 4 piezas de armadura de la incursión \"La Caída del Rey\" (difícil)",
     "section": "Incursiones",
     "order": 6
   },
@@ -1438,7 +1438,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Vendido ocasionalmente por Eva Levante",
     "section": "Comerciante",
     "order": 5
   },
@@ -1477,7 +1477,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Conseguido de forma aleatoria al completar encuentros de la incursión \"Cámara de Cristal\" en su versión de 390 de luz",
     "section": "Incursiones",
     "order": 9
   },
@@ -1503,7 +1503,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al derrotar a Crota en El fin de Crota (difícil)",
     "section": "Incursiones",
     "order": 3
   },
@@ -1542,7 +1542,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al alcanzar el nivel 40 con un hechicero",
     "section": "El Rey de los Poseídos",
     "order": 13
   },
@@ -1620,7 +1620,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
     "section": "El Rey de los Poseídos",
     "order": 8
   },
@@ -1685,7 +1685,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido al completar la aventura \"El Rey de los Poseídos\"",
     "section": "El Rey de los Poseídos",
     "order": 4
   },
@@ -1724,7 +1724,7 @@
     "sources": [],
     "sourceOrigin": "pendiente",
     "obtainable": null,
-    "note": "",
+    "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca",
     "section": "El Rey de los Poseídos",
     "order": 7
   },
