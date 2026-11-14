@@ -12,8 +12,8 @@ interface Props {
     onClose?: () => void;
 }
 
-const CURSOR_GAP = 16;
-const VIEWPORT_GAP = 8;
+const CURSOR_GAP = 70;
+const VIEWPORT_GAP = 12;
 
 export default function Tooltip({
     id,
@@ -38,14 +38,10 @@ export default function Tooltip({
         const { offsetWidth: width, offsetHeight: height } = el;
 
         let left = pos.x + CURSOR_GAP;
-        let top = pos.y + CURSOR_GAP;
+        let top = pos.y - height / 2;
 
         if (left + width > window.innerWidth - VIEWPORT_GAP) {
             left = pos.x - CURSOR_GAP - width;
-        }
-
-        if (top + height > window.innerHeight - VIEWPORT_GAP) {
-            top = pos.y - CURSOR_GAP - height;
         }
 
         const maxLeft = Math.max(
