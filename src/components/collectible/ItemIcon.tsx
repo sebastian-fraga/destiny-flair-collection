@@ -5,12 +5,10 @@ const BUNGIE = "https://www.bungie.net";
 
 interface ItemIconProps<T extends CollectibleItem> {
     item: T;
-    className?: string;
 }
 
 export default function ItemIcon<T extends CollectibleItem>({
     item,
-    className = "",
 }: ItemIconProps<T>) {
     const [isLoaded, setIsLoaded] = useState(false);
 
@@ -28,9 +26,7 @@ export default function ItemIcon<T extends CollectibleItem>({
                 draggable={false}
                 className={`aspect-square w-full border-3 transition-[opacity,scale] duration-100 hover:scale-105 sm:w-23 sm:h-23 ${
                     isUnavailable ? "border-white/50 brightness-50" : ""
-                } ${!isLoaded ? "opacity-0" : "opacity-100"}${
-                    className ? ` ${className}` : ""
-                }`}
+                } ${!isLoaded ? "opacity-0" : "opacity-100"}`}
                 onLoad={() => setIsLoaded(true)}
                 onError={() => setIsLoaded(true)}
             />
