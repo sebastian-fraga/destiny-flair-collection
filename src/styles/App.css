@@ -8,7 +8,6 @@ body {
     background: #8091A2;
     font-family: var(--font-body);
     -webkit-text-size-adjust: 100%;
-    cursor: none;
 }
 
 * {
@@ -42,7 +41,6 @@ main {
 }
 
 @media (prefers-reduced-motion: reduce) {
-
     *,
     *::before,
     *::after {
