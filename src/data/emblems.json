@@ -1,0 +1,1962 @@
+[
+  {
+    "hash": 3017621399,
+    "name": "Ojo de Osiris",
+    "icon": "/common/destiny_content/icons/460eed0325b43d4b203ae47ec16d23e2.jpg",
+    "header": "/common/destiny_content/icons/123d1353ced0481690589a629dc333ea.jpg",
+    "tier": "Excepcional"
+  },
+  {
+    "hash": 4136763184,
+    "name": "Ojo de Osiris",
+    "icon": "/common/destiny_content/icons/460eed0325b43d4b203ae47ec16d23e2.jpg",
+    "header": "/common/destiny_content/icons/123d1353ced0481690589a629dc333ea.jpg",
+    "tier": "Excepcional"
+  },
+  {
+    "hash": 1325965972,
+    "name": "7-7 ad infinitum",
+    "icon": "/common/destiny_content/icons/d7b6c3498f1e1379b889eae258aa7633.jpg",
+    "header": "/common/destiny_content/icons/995709b6fd7d625367c52e1dd48c4500.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137795,
+    "name": "A fin de cuentas",
+    "icon": "/common/destiny_content/icons/8f58560a326f185ae42898eb1d36ee75.jpg",
+    "header": "/common/destiny_content/icons/9dd6d92e4d2742042dd31b56c21f0e55.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137794,
+    "name": "Ab Principio",
+    "icon": "/common/destiny_content/icons/5921e4d8fd0837faf9c6e869c20ec484.jpg",
+    "header": "/common/destiny_content/icons/7016684664ab2b0c2fa4c75889105fc6.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2792559726,
+    "name": "Abrecaminos",
+    "icon": "/common/destiny_content/icons/34c692090aabfc2a3287da075c3a1857.jpg",
+    "header": "/common/destiny_content/icons/0b1f94e2d5dd9178bf61a03c93306da3.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273559,
+    "name": "Al filo",
+    "icon": "/common/destiny_content/icons/eea50ce163a062f184d695255466a1e7.jpg",
+    "header": "/common/destiny_content/icons/3f781c94a10cf3eac343aadec53df61e.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2792559724,
+    "name": "Al fuego",
+    "icon": "/common/destiny_content/icons/0114aa60c6848acee036c929d7742597.jpg",
+    "header": "/common/destiny_content/icons/7b16fe5723b2b39f3cdb5ecdc21b519e.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273563,
+    "name": "Alabanza de resplandor",
+    "icon": "/common/destiny_content/icons/193f431a0127b26368ec2040d643f9ff.jpg",
+    "header": "/common/destiny_content/icons/62173c4633bae2218b4e549dd3f820df.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2727182629,
+    "name": "Alma extraída",
+    "icon": "/common/destiny_content/icons/2dac76a9c60e1239d158beebf248b615.jpg",
+    "header": "/common/destiny_content/icons/3f159414dfd8dc583bad8c59413a29c6.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1325965971,
+    "name": "Amanecer del destino",
+    "icon": "/common/destiny_content/icons/9a0145fe0f288390d3663b7e14b171f4.jpg",
+    "header": "/common/destiny_content/icons/23c693a4a13a463d8e186522ccc419cb.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137807,
+    "name": "Anillo de triunfos",
+    "icon": "/common/destiny_content/icons/8c644bf018121393885b226107621486.jpg",
+    "header": "/common/destiny_content/icons/ff8e126c08442abe4084fdebf44935b4.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2792559720,
+    "name": "Arac y ruina",
+    "icon": "/common/destiny_content/icons/9aaa35db6ef3e6fb445304bc5cadc0c1.jpg",
+    "header": "/common/destiny_content/icons/aa4994c3f856ce27b15502db6304c92e.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1581640796,
+    "name": "Ardiente madera de Hierro",
+    "icon": "/common/destiny_content/icons/fa811fbe5a3aa46f01139bba7c9f7b86.jpg",
+    "header": "/common/destiny_content/icons/c09cb4f3c66e190f62e35815f196536a.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2267965729,
+    "name": "Augurio de declive",
+    "icon": "/common/destiny_content/icons/e087cd22a14bab76a2c4e666539822cd.jpg",
+    "header": "/common/destiny_content/icons/fb4f99e00fa3641b4d1631c906fbe0e0.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2267965728,
+    "name": "Augurio del éxodo",
+    "icon": "/common/destiny_content/icons/03153182504c1e461cdc2426d9179f4a.jpg",
+    "header": "/common/destiny_content/icons/a7ea5c0dda11c99d617dc2d62af7a8f8.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2372257458,
+    "name": "Azote de reyes",
+    "icon": "/common/destiny_content/icons/b841c2e07008de90d8cfb4e9a600ccf2.jpg",
+    "header": "/common/destiny_content/icons/0544ea571c8aa63e3a358e62e575fcea.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137798,
+    "name": "Baluarte de la Ciudad",
+    "icon": "/common/destiny_content/icons/8109ad5d14a52ca1992e49088e418b70.jpg",
+    "header": "/common/destiny_content/icons/a4b31bba6a0acbe03a519b42dd8c34c7.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1777175505,
+    "name": "Bendición de impulso",
+    "icon": "/common/destiny_content/icons/494c931be49eb175faee36b7f314d78f.jpg",
+    "header": "/common/destiny_content/icons/da7929a07be941a57a52748a54720dab.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936866,
+    "name": "Bendición de los Antiguos",
+    "icon": "/common/destiny_content/icons/8cade7cef305071624dfa14886503244.jpg",
+    "header": "/common/destiny_content/icons/c652f6ea7bc0ed568d5f23eb82839fbb.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936875,
+    "name": "Bendición de los dotados",
+    "icon": "/common/destiny_content/icons/a51ccb4e33ce67d213984a06359521cf.jpg",
+    "header": "/common/destiny_content/icons/464ec08dc288a7367b467a213cf915a4.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936870,
+    "name": "Bendición de los IV",
+    "icon": "/common/destiny_content/icons/5e52173fb68e7d5b426ecd368ea2fa20.jpg",
+    "header": "/common/destiny_content/icons/bc8afc58ec4aa0302f245665ab5565d5.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3424247735,
+    "name": "Bendición de los mundos",
+    "icon": "/common/destiny_content/icons/448b034d95f05d67510c903a72ec5da6.jpg",
+    "header": "/common/destiny_content/icons/d41c78c0fc18dde938d1dfd91929f482.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936871,
+    "name": "Bendición de los unidos",
+    "icon": "/common/destiny_content/icons/f139019216cfb320d8e3874f328544b1.jpg",
+    "header": "/common/destiny_content/icons/119edc2ec1fe6e73738ba26a4885d9ec.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3424247734,
+    "name": "Bendición del caballero",
+    "icon": "/common/destiny_content/icons/7b4a304e39603dde7ab95594085ab5fe.jpg",
+    "header": "/common/destiny_content/icons/95202cc69e09e759d469e2ad92cf9ec8.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936864,
+    "name": "Bendición del centinela",
+    "icon": "/common/destiny_content/icons/4ac74779962ab680f6ff5f59910aa303.jpg",
+    "header": "/common/destiny_content/icons/4646d2338a1e1a51e33e11989876b1e4.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936865,
+    "name": "Bendición del escéptico",
+    "icon": "/common/destiny_content/icons/725582bf955845914932c16139a30faa.jpg",
+    "header": "/common/destiny_content/icons/56b2c98401c972d1732911d157600f14.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936874,
+    "name": "Bendición del fanático",
+    "icon": "/common/destiny_content/icons/ef3a8e6b187343a391fd4ce20c4ee07a.jpg",
+    "header": "/common/destiny_content/icons/698ec08e47ceaa19dc1de4220bb51aab.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936868,
+    "name": "Bendición del no hecho",
+    "icon": "/common/destiny_content/icons/9cca272f3bdc64f20269242e85ce467d.jpg",
+    "header": "/common/destiny_content/icons/c96d4faa1bde47832fd59552364c3495.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936867,
+    "name": "Bendición del observador",
+    "icon": "/common/destiny_content/icons/478f8028c40a0f763fc3b11c4521ee43.jpg",
+    "header": "/common/destiny_content/icons/0ef16414bc9c8c27841af9f1a4ec15a2.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1722936869,
+    "name": "Bendición del Orador",
+    "icon": "/common/destiny_content/icons/b32b8f3de5535d618cbf55730ed30510.jpg",
+    "header": "/common/destiny_content/icons/11d87515dd4afb6f48e1ccd5a3055696.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 638473393,
+    "name": "Berilo cometario",
+    "icon": "/common/destiny_content/icons/ca330778813352ab58b654f29dd941ae.jpg",
+    "header": "/common/destiny_content/icons/73b04a98b025875620fa574e29de52fe.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3300361771,
+    "name": "Blasón de la guardia de la Reina",
+    "icon": "/common/destiny_content/icons/0778c6fc681a416c6742b2d124e529f9.jpg",
+    "header": "/common/destiny_content/icons/91a329861526f0ab8f9e69af0cdc600b.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1825970523,
+    "name": "Blasón del centinela",
+    "icon": "/common/destiny_content/icons/926a67038841dc26feee9c4d27d5ac1f.jpg",
+    "header": "/common/destiny_content/icons/e5d8f6341cb71938072e835bb3cbd986.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 407373286,
+    "name": "Blasón escarlata",
+    "icon": "/common/destiny_content/icons/b80f89f7155abb0324aabf8d501be08f.jpg",
+    "header": "/common/destiny_content/icons/007b70ebcf83cedecd37b79a112cc808.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3347001815,
+    "name": "Cacería de Medianoche",
+    "icon": "/common/destiny_content/icons/a6341a36b8fd5638b04846ba75946a6c.jpg",
+    "header": "/common/destiny_content/icons/040b266e1aac012b4dba35e7e32ae518.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 974754712,
+    "name": "Canción de verano",
+    "icon": "/common/destiny_content/icons/455960e946b07136fef48646b9420da0.jpg",
+    "header": "/common/destiny_content/icons/331f73334517387beb8740286838107b.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1681782009,
+    "name": "Canción de verano",
+    "icon": "/common/destiny_content/icons/455960e946b07136fef48646b9420da0.jpg",
+    "header": "/common/destiny_content/icons/331f73334517387beb8740286838107b.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1429062182,
+    "name": "Casa del Juicio",
+    "icon": "/common/destiny_content/icons/3b389d058e374a14a52831706c6afb45.jpg",
+    "header": "/common/destiny_content/icons/69f2f622d6f2cd38c44eef7197f078eb.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1459499349,
+    "name": "Cazalobos",
+    "icon": "/common/destiny_content/icons/c3c76c369147a3b5d5a16362c4c13618.jpg",
+    "header": "/common/destiny_content/icons/e9be7d0a77411488e95c4cbd3b4c2c7e.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337284,
+    "name": "Cicatrices veteranas",
+    "icon": "/common/destiny_content/icons/8c8211421c4dd097fe8b370ae2eb5b34.jpg",
+    "header": "/common/destiny_content/icons/5dddca0cc95981b39c08c53df2e30aef.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2326927635,
+    "name": "Cicatriz de Radegast",
+    "icon": "/common/destiny_content/icons/f007cd4794ac40ecf837481b9681d900.jpg",
+    "header": "/common/destiny_content/icons/6afdb137c6d2e4e2a69d9ecf23bf69d8.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1777175508,
+    "name": "Círculo de los campeones",
+    "icon": "/common/destiny_content/icons/8b2ae4d7dbde4110e4c30e68ecea6f14.jpg",
+    "header": "/common/destiny_content/icons/4baa42744f8684797e075b5d22b847c1.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 638473399,
+    "name": "Ciudad Atardecer",
+    "icon": "/common/destiny_content/icons/9f1b85520770e67277f830fe19ef3ddc.jpg",
+    "header": "/common/destiny_content/icons/a4b31bba6a0acbe03a519b42dd8c34c7.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137806,
+    "name": "Clades Orygis",
+    "icon": "/common/destiny_content/icons/04a087cd9582c64bdc02e24ced5990d0.jpg",
+    "header": "/common/destiny_content/icons/be425a3888899dbcdbf71d053c8de238.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 17215187,
+    "name": "Colapso espacial",
+    "icon": "/common/destiny_content/icons/3efd96c3e3b9b7ef74e4328aa3c42c9e.jpg",
+    "header": "/common/destiny_content/icons/b39a68896401684f96846560eb7d557d.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 952225323,
+    "name": "Cometido solar",
+    "icon": "/common/destiny_content/icons/29a1c25576d98fa18474d32834fd0e3a.jpg",
+    "header": "/common/destiny_content/icons/62d76dab0891c00d2c3cf592feef9444.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137796,
+    "name": "Conclusión lógica",
+    "icon": "/common/destiny_content/icons/bcd0ffd123d4a22bcffa1cf0ac997ba2.jpg",
+    "header": "/common/destiny_content/icons/a1e16d92479d123819c083d018966c49.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2792559725,
+    "name": "Confianza y honor",
+    "icon": "/common/destiny_content/icons/e8b2df014de28b498e930c476f041796.jpg",
+    "header": "/common/destiny_content/icons/a47302f865ea4e80595fafc5c43286cd.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 664737061,
+    "name": "Corazón de escarabajo",
+    "icon": "/common/destiny_content/icons/1bdee6293a8cdb6e04bb27c2510f3726.jpg",
+    "header": "/common/destiny_content/icons/87f1328ac23879952b31b78d15b26b29.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1325965973,
+    "name": "Corazón de la institución",
+    "icon": "/common/destiny_content/icons/c3fd1c4a13c19cfa882776bf9668f2b9.jpg",
+    "header": "/common/destiny_content/icons/2501a19d1817885d05ed9b5b4f193bd3.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137797,
+    "name": "Corazón del cometa",
+    "icon": "/common/destiny_content/icons/61465981e70a6255ba5c43a3f1631f0d.jpg",
+    "header": "/common/destiny_content/icons/73b04a98b025875620fa574e29de52fe.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2259618124,
+    "name": "Corona de la Nueva Monarquía",
+    "icon": "/common/destiny_content/icons/a1314acb5a650eff3229df360576a2f5.jpg",
+    "header": "/common/destiny_content/icons/3061189d3b5f3692cd4a27f53fa4113c.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3300361770,
+    "name": "Corona del soberano",
+    "icon": "/common/destiny_content/icons/f1e01ad736a961e22ee1b0c087294916.jpg",
+    "header": "/common/destiny_content/icons/7ed9f51f549184b2bf59de57f9c9bf73.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2372257463,
+    "name": "De luz y hambre",
+    "icon": "/common/destiny_content/icons/08957ce56ff61135cef424c6f0e42e6b.jpg",
+    "header": "/common/destiny_content/icons/003014ca277c62167ac3dd6372428ccb.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3656150982,
+    "name": "Decreto firme",
+    "icon": "/common/destiny_content/icons/b974f30ade6495e44854f4e0b211f32c.jpg",
+    "header": "/common/destiny_content/icons/44a72924a7725782e8c3fde07180a1a1.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 185564348,
+    "name": "Demonio incompleto",
+    "icon": "/common/destiny_content/icons/46028083ad7d17ad33d854a9af521cbc.jpg",
+    "header": "/common/destiny_content/icons/3781f5297ead8ce5042c984bf1c85375.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2372257459,
+    "name": "Devorador de Luz",
+    "icon": "/common/destiny_content/icons/5e7c903017e70db04bb2cc9063b06b9c.jpg",
+    "header": "/common/destiny_content/icons/414702153850be51f76894c9aa3989bd.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 952225322,
+    "name": "Discípulo solaz",
+    "icon": "/common/destiny_content/icons/17d3834ff89f5796ee8fc89040f95552.jpg",
+    "header": "/common/destiny_content/icons/ae0a2ddd4b392dace27f7300353b972e.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137799,
+    "name": "Eclipse del Viajero",
+    "icon": "/common/destiny_content/icons/2d0dc8e49dab4e8c0f949795631b8852.jpg",
+    "header": "/common/destiny_content/icons/1f2eea547520e76cb515c32bc822fe71.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273552,
+    "name": "El animador",
+    "icon": "/common/destiny_content/icons/8e5e8873436462871921e255d8bf8740.jpg",
+    "header": "/common/destiny_content/icons/391bf90add0d30762aa9db2f233b890d.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 165221411,
+    "name": "El árbol de madera de Hierro",
+    "icon": "/common/destiny_content/icons/9b982e4a6a639bc56aa013ef009523df.jpg",
+    "header": "/common/destiny_content/icons/fee100dfc5a0b473042014d5bd9d3c50.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2372257457,
+    "name": "El Ascendente",
+    "icon": "/common/destiny_content/icons/484908d7bdae08156b8d44316350ee7f.jpg",
+    "header": "/common/destiny_content/icons/cdd9d8a241fc3a991fec4d5899fbdeaf.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1342743555,
+    "name": "El círculo interno",
+    "icon": "/common/destiny_content/icons/948added4e1cac0bee8a858fc89cb6c5.jpg",
+    "header": "/common/destiny_content/icons/52b7af749ecd774119f333ddd9ee74a5.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273553,
+    "name": "El disparo perfecto",
+    "icon": "/common/destiny_content/icons/2ad27e44c99a98de20f83a7567f72771.jpg",
+    "header": "/common/destiny_content/icons/97a85e5b7c96ec22846b0fffa4e20136.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3269301481,
+    "name": "El fin de Crota",
+    "icon": "/common/destiny_content/icons/71b73103a4e951d74b18082b501631a4.jpg",
+    "header": "/common/destiny_content/icons/bea4394de7db2c76c65eb804c79785e5.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273557,
+    "name": "El inexorable",
+    "icon": "/common/destiny_content/icons/6f75c4ecfa99020a0a0390f64ca71448.jpg",
+    "header": "/common/destiny_content/icons/f9893f7d22d4f339eaa474ab16e588d0.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273555,
+    "name": "El trato implacable",
+    "icon": "/common/destiny_content/icons/80a44c12fc14a2e4b9678024ab5ff983.jpg",
+    "header": "/common/destiny_content/icons/38ba56821574f13db8c85cb0fce32f36.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337286,
+    "name": "Elegancia de una Era",
+    "icon": "/common/destiny_content/icons/80022d8efcbac7be537a99a35aaa60b5.jpg",
+    "header": "/common/destiny_content/icons/1c8f81df524dfa4cfadff3d2248538ea.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2596665931,
+    "name": "Escucha la llamada",
+    "icon": "/common/destiny_content/icons/eaca6c84ebb8c159979e3bd762dd8d35.jpg",
+    "header": "/common/destiny_content/icons/1ee9dd7b47105a319e579b16c7520920.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 509454271,
+    "name": "Escudo de la Ciudad",
+    "icon": "/common/destiny_content/icons/50b946094009a230fb3ad62a8d0d7205.jpg",
+    "header": "/common/destiny_content/icons/b8f260f12ab4059eb1c55cacf2ca3cad.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1825970520,
+    "name": "Escudo del paladín",
+    "icon": "/common/destiny_content/icons/9a25b0dee1dbb20d41e430e260281c30.jpg",
+    "header": "/common/destiny_content/icons/5ea5541c93c2fad116c60749cb30df46.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2596665930,
+    "name": "Escudo del Viajero",
+    "icon": "/common/destiny_content/icons/f771ee9690e2bc8138e73d5af4c06a0d.jpg",
+    "header": "/common/destiny_content/icons/93635163c0e76b91d4ea2a973763179e.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1592588006,
+    "name": "Escudo mítico",
+    "icon": "/common/destiny_content/icons/725559d7c98fbc030f51fdc6f22e86f6.jpg",
+    "header": "/common/destiny_content/icons/72bc19c2fe0d185063f854a78a4636ff.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2979651851,
+    "name": "Espadas de la Aurora",
+    "icon": "/common/destiny_content/icons/38ed6d43d77ad3a9c74be2e105af915c.jpg",
+    "header": "/common/destiny_content/icons/11a71d81edfabc3e355aeb88ee23f2ec.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1342743554,
+    "name": "Esperanza del arquero",
+    "icon": "/common/destiny_content/icons/b291e0211855324fec198223cb154209.jpg",
+    "header": "/common/destiny_content/icons/ef9d781b3d3ae4e96aabb290b788fd9a.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1592588003,
+    "name": "Estrella de moderación",
+    "icon": "/common/destiny_content/icons/b1d51be83687acf8453b9dbfc751bbf3.jpg",
+    "header": "/common/destiny_content/icons/7fdc2fea2ddb0e5326d6efef1fc88c69.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 638473397,
+    "name": "Exoluna",
+    "icon": "/common/destiny_content/icons/cad87fd0f40d35e612729ecd2e8da220.jpg",
+    "header": "/common/destiny_content/icons/7fd1131765d535facb91f47ca91884d2.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337290,
+    "name": "Filo de la Vanguardia",
+    "icon": "/common/destiny_content/icons/796f8328d567c00c6dd2a7be136b50a6.jpg",
+    "header": "/common/destiny_content/icons/1b8a543abd1ff8ff7c648019b32bfb44.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1325965975,
+    "name": "Final del ancla",
+    "icon": "/common/destiny_content/icons/e1efa3574c1b88f426f6cc6bb654a246.jpg",
+    "header": "/common/destiny_content/icons/a284aeb394269f26dbfae95665ff5e09.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 566936480,
+    "name": "Flujo de conocimiento",
+    "icon": "/common/destiny_content/icons/64e64b86d154f3c6dd0afcf0543121c4.jpg",
+    "header": "/common/destiny_content/icons/98051bae07e3556b6235dac95266fa43.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3253299356,
+    "name": "Fuego de SUROS",
+    "icon": "/common/destiny_content/icons/87781086cca964cceaa7bc4b5f65d87d.jpg",
+    "header": "/common/destiny_content/icons/0acaac726cdf7d3a1bd2fe57b294b985.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337281,
+    "name": "Fuerza de una Era",
+    "icon": "/common/destiny_content/icons/127f51f62193fb52f830a4eb5f257690.jpg",
+    "header": "/common/destiny_content/icons/a081b1ec800ff2c27827affc4d18afc2.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273558,
+    "name": "Fuerza de Vulcano",
+    "icon": "/common/destiny_content/icons/2ab3f2d75026752a69b5598ddc9519fb.jpg",
+    "header": "/common/destiny_content/icons/bd313319c41494d0431014733e6ecbf7.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2979651848,
+    "name": "Gloria de la élite",
+    "icon": "/common/destiny_content/icons/291d6aad99ff76b45ea35dca701388a6.jpg",
+    "header": "/common/destiny_content/icons/298232c19349240c3365f8ce6bb8d3ab.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273554,
+    "name": "Hablar con acertijos",
+    "icon": "/common/destiny_content/icons/47d316a747499f60818a5174124bffa8.jpg",
+    "header": "/common/destiny_content/icons/aac4771fcf4b3d7629316f93eb756670.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1325965970,
+    "name": "Hambre",
+    "icon": "/common/destiny_content/icons/d380ef8e76a6823477da86133e7fe96b.jpg",
+    "header": "/common/destiny_content/icons/f3bb964ec7db3417d02f245b55d6bc8f.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1325965976,
+    "name": "Hexacon 4",
+    "icon": "/common/destiny_content/icons/29acf22200a71157a13e9b14c345b547.jpg",
+    "header": "/common/destiny_content/icons/6c2f0f74144572a3c585e4e34e459dbb.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 664737060,
+    "name": "Hic Jacet",
+    "icon": "/common/destiny_content/icons/8a2bcf870bbbbda3bad727b00e3926d2.jpg",
+    "header": "/common/destiny_content/icons/a75a3bb84a46115f7d2ea2098965bb9a.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337291,
+    "name": "Historia narrada",
+    "icon": "/common/destiny_content/icons/3dbc1b15578c611001241378da8ec3a1.jpg",
+    "header": "/common/destiny_content/icons/612bbd746d0727967ebdfa77e4cec2dd.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3347001814,
+    "name": "Honor de androide",
+    "icon": "/common/destiny_content/icons/78f75cd106928a90fecb3985a63d6a3f.jpg",
+    "header": "/common/destiny_content/icons/a5fce0be1f18868ab87d87a061d9904c.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2686650662,
+    "name": "Infinitesimal",
+    "icon": "/common/destiny_content/icons/cf1abcc3df90b9411f5c8a4fea79397f.jpg",
+    "header": "/common/destiny_content/icons/80c1fb71979af30fef474e826e875c6a.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1893886835,
+    "name": "Insignia de la velocidad",
+    "icon": "/common/destiny_content/icons/ec2ddcc62302409ec8a66383c4088075.jpg",
+    "header": "/common/destiny_content/icons/22142b22aa5040ee49ea4750be300df0.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337280,
+    "name": "Insignia de los triunfos",
+    "icon": "/common/destiny_content/icons/5709925fbbbcac51d739986506dae829.jpg",
+    "header": "/common/destiny_content/icons/557c2bf66e938d0de7aee1655fbe76e8.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1825970522,
+    "name": "Insignia del corsario",
+    "icon": "/common/destiny_content/icons/47d316a747499f60818a5174124bffa8.jpg",
+    "header": "/common/destiny_content/icons/aac4771fcf4b3d7629316f93eb756670.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3253299358,
+    "name": "Insula Thesauraria",
+    "icon": "/common/destiny_content/icons/da499d0f64e9fa18681ac1b8db1efa25.jpg",
+    "header": "/common/destiny_content/icons/a29dc01ff4e2ac80483a46c7a56a4d91.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1443409308,
+    "name": "La Luz imperecedera",
+    "icon": "/common/destiny_content/icons/26c1dba3ef3bf24164a84ccdbeacb884.jpg",
+    "header": "/common/destiny_content/icons/7d15778165c16cf32dd40cb868b40638.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3656150983,
+    "name": "La mano diestra del Juicio",
+    "icon": "/common/destiny_content/icons/2d37c10db3b7329777db68e254d3ba76.jpg",
+    "header": "/common/destiny_content/icons/b6b96f36ebfbb9f846eee0e984cc6b13.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273556,
+    "name": "La muralla viviente",
+    "icon": "/common/destiny_content/icons/21e2ab55d61509992d20388fdd31bc1c.jpg",
+    "header": "/common/destiny_content/icons/abe7028fa33f9324f4226642b5f3c262.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 185564345,
+    "name": "La solución SIVA",
+    "icon": "/common/destiny_content/icons/785d69241606ef1b87729018f2b80877.jpg",
+    "header": "/common/destiny_content/icons/2db6ab36104f679e5ef2a215cc53d7eb.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3983828201,
+    "name": "Laberintos de retransmisión",
+    "icon": "/common/destiny_content/icons/1b01d3c526e9313a3117d9eb22e4a57a.jpg",
+    "header": "/common/destiny_content/icons/04b16f9c6d918996b8d9e461c7aa6f89.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2686650663,
+    "name": "Laurea Prima",
+    "icon": "/common/destiny_content/icons/10d338bab2d621c0150e7cc5357e603f.jpg",
+    "header": "/common/destiny_content/icons/5cd0732340b84771146d8ae86173fd3c.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2979651850,
+    "name": "Lucero de la Aurora",
+    "icon": "/common/destiny_content/icons/016227b40d192b023543b0d69177ab39.jpg",
+    "header": "/common/destiny_content/icons/3509893682c7b576180ab9069e24ccc9.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3017621393,
+    "name": "Luna de Osiris",
+    "icon": "/common/destiny_content/icons/e50cf7443cc41b1dd21dc6a0ce37afc2.jpg",
+    "header": "/common/destiny_content/icons/5f82550c27c05e3a5c3bd2c126f79a26.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 4136763190,
+    "name": "Luna de Osiris",
+    "icon": "/common/destiny_content/icons/e50cf7443cc41b1dd21dc6a0ce37afc2.jpg",
+    "header": "/common/destiny_content/icons/5f82550c27c05e3a5c3bd2c126f79a26.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137792,
+    "name": "Lupi Reginae",
+    "icon": "/common/destiny_content/icons/563990cc7a00d2adb165415aa54c1af0.jpg",
+    "header": "/common/destiny_content/icons/8d663d214afcf5ac8e6be856ae4d4b9f.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 185564349,
+    "name": "Maldición del dios mecánico",
+    "icon": "/common/destiny_content/icons/8747dc301e88ca2738877a3f682b2890.jpg",
+    "header": "/common/destiny_content/icons/c74a3ccb0c4280f629599b41a6f4923b.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 185564350,
+    "name": "Máquina sacra",
+    "icon": "/common/destiny_content/icons/c63bd19a5981f36e87be09713d43b2cc.jpg",
+    "header": "/common/destiny_content/icons/edbace7638818cb96b870b2f9612fe95.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2259618125,
+    "name": "Marca roja del ejecutor",
+    "icon": "/common/destiny_content/icons/3ef332c69a8366b8bf1aa886bb774c98.jpg",
+    "header": "/common/destiny_content/icons/5464e444cd3892fa509849b33179a38b.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 638473398,
+    "name": "Marcos mentales",
+    "icon": "/common/destiny_content/icons/1587d89006f42c44e67a2fd34b576b1d.jpg",
+    "header": "/common/destiny_content/icons/a1e16d92479d123819c083d018966c49.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1777175504,
+    "name": "Martius Momentum",
+    "icon": "/common/destiny_content/icons/1c82f3d68e56975783eb91398ac5ad12.jpg",
+    "header": "/common/destiny_content/icons/6416c68694914f8e050c4f5a91ba4cbf.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337283,
+    "name": "Memoria Ferri",
+    "icon": "/common/destiny_content/icons/b6d9871f008f27e629ab23451b3e7797.jpg",
+    "header": "/common/destiny_content/icons/3302150beab02bb8fde62f34d6e95f03.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1581640797,
+    "name": "Nueva manada de lobos",
+    "icon": "/common/destiny_content/icons/fe19af7037a2b920a519fcf47fb42c5f.jpg",
+    "header": "/common/destiny_content/icons/039abc1a215ccd35514a29901d25014f.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1325965974,
+    "name": "Ojo de eternidad",
+    "icon": "/common/destiny_content/icons/066b4c44131cc7c737d2da542b86e35c.jpg",
+    "header": "/common/destiny_content/icons/d3359e1c49df7c0dbfdcaf57bd23de96.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1527273562,
+    "name": "Ojo de la tormenta",
+    "icon": "/common/destiny_content/icons/a3732f8dc45dc100b5b32d8b0c09e2c8.jpg",
+    "header": "/common/destiny_content/icons/47bcedefed4a4e8fa25ea8e7964fc42e.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 165221410,
+    "name": "Orgullo de Hierro",
+    "icon": "/common/destiny_content/icons/c1e303b7033af6de6a115803800ded6f.jpg",
+    "header": "/common/destiny_content/icons/c3069e2ebf96cbeb715793dbe5a44aae.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 70035233,
+    "name": "Orgullo de Nepal",
+    "icon": "/common/destiny_content/icons/c7bfc447fc9cbe25fa447493f8922d53.jpg",
+    "header": "/common/destiny_content/icons/d4fc9a0bf1c2c031be1cd16207b19dc2.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 638473396,
+    "name": "Perdido y fundiciones",
+    "icon": "/common/destiny_content/icons/7093a220970d4669cfc876e77845afdc.jpg",
+    "header": "/common/destiny_content/icons/52064cb1601b5cbefaec46640106c915.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1893886834,
+    "name": "Piedad del movimiento",
+    "icon": "/common/destiny_content/icons/ce3d3432967b323b08bc5d3a8968ce28.jpg",
+    "header": "/common/destiny_content/icons/80569d40f4b3d6adfabb8a70f8c69361.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1429062183,
+    "name": "Presidio de los Ancianos I",
+    "icon": "/common/destiny_content/icons/818a754115507542c759f82e78002541.jpg",
+    "header": "/common/destiny_content/icons/cbe8178cdd3b3553f3c0c5ff9b62be50.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1429062180,
+    "name": "Presidio de los Ancianos II",
+    "icon": "/common/destiny_content/icons/0cb0a6b9b8f39cd15241a2d1357d4590.jpg",
+    "header": "/common/destiny_content/icons/c2efa6c50afa0451ba021b12f05871ab.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 509454270,
+    "name": "Recuerdos de Hierro",
+    "icon": "/common/destiny_content/icons/cc44b5122b4bee5744aea1ea565376d1.jpg",
+    "header": "/common/destiny_content/icons/cd9028730d814936de63f16114c3e2ec.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1342743553,
+    "name": "Resurreccionista",
+    "icon": "/common/destiny_content/icons/065a59c10e332befefbd8e22f856ce2a.jpg",
+    "header": "/common/destiny_content/icons/0b70bd9fb9314881404c6095135100b7.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337287,
+    "name": "Sabiduría de una Era",
+    "icon": "/common/destiny_content/icons/a81bf8727aa47bf5dfe0dc6f9a783d43.jpg",
+    "header": "/common/destiny_content/icons/b4801a870ca7bd13307b68567339b76b.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2792559718,
+    "name": "Sangre monárquica",
+    "icon": "/common/destiny_content/icons/4545510616d88ce4616f1c7fce906112.jpg",
+    "header": "/common/destiny_content/icons/aafe695a4bc510d6105bce38ee0127a5.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3253299357,
+    "name": "Sé valiente",
+    "icon": "/common/destiny_content/icons/d380ef8e76a6823477da86133e7fe96b.jpg",
+    "header": "/common/destiny_content/icons/f3bb964ec7db3417d02f245b55d6bc8f.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2792559719,
+    "name": "Secta arcana",
+    "icon": "/common/destiny_content/icons/84f1ff3d67ead616a41dc91cb8a24ba4.jpg",
+    "header": "/common/destiny_content/icons/a4c9ab08f0dbb3fae5c222467d9ba2fe.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3017621394,
+    "name": "Sello de emperador",
+    "icon": "/common/destiny_content/icons/6a740c9a400c4a0cbeb8fe2c9d8d29d3.jpg",
+    "header": "/common/destiny_content/icons/02a983a1e7a18ee21c88c65fd860737c.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 4136763189,
+    "name": "Sello de emperador",
+    "icon": "/common/destiny_content/icons/6a740c9a400c4a0cbeb8fe2c9d8d29d3.jpg",
+    "header": "/common/destiny_content/icons/02a983a1e7a18ee21c88c65fd860737c.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3983828200,
+    "name": "Sello de la Cría de Lobo",
+    "icon": "/common/destiny_content/icons/f09737cfca26df2ac7d726772cf8f94f.jpg",
+    "header": "/common/destiny_content/icons/97949b20b2724a5d9b117ca4fcf99a55.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2765416092,
+    "name": "Sello de La guerra que se avecina",
+    "icon": "/common/destiny_content/icons/b2d1c683299b003f464925033d245c14.jpg",
+    "header": "/common/destiny_content/icons/dc7bf9ce645b230f4b1cb6d660d4ddba.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2765416093,
+    "name": "Sello de la Irregularidad",
+    "icon": "/common/destiny_content/icons/d51c12e1f9f82347fa99c187ad1b9bea.jpg",
+    "header": "/common/destiny_content/icons/942a3142264fc0012fb52c8fcdb6a560.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2792559722,
+    "name": "Sello de la Vanguardia",
+    "icon": "/common/destiny_content/icons/1e5ec7740df666a65d2c6060507cb414.jpg",
+    "header": "/common/destiny_content/icons/7972c658b3873f3ff38617f7510341dd.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1777175506,
+    "name": "Sello de la velocidad",
+    "icon": "/common/destiny_content/icons/d32f6c859a9528288242579385f4d47c.jpg",
+    "header": "/common/destiny_content/icons/0343815e7fdf4f100976bfad8b05f840.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2326927634,
+    "name": "Sello de los Señores de Hierro",
+    "icon": "/common/destiny_content/icons/36b5408f02870aca4835a32a8ca0f897.jpg",
+    "header": "/common/destiny_content/icons/780a86ed4beb6022b776490ccd0ffd2f.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2792559721,
+    "name": "Sello del Crisol",
+    "icon": "/common/destiny_content/icons/1d40b60922a41d62f6b06eb9fdc1ecba.jpg",
+    "header": "/common/destiny_content/icons/d59f37dcf02119bac61999cdb1e897e4.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1777175507,
+    "name": "Señal del impulso",
+    "icon": "/common/destiny_content/icons/006c19b429fb1628799d9a8499704844.jpg",
+    "header": "/common/destiny_content/icons/2d7cbadf9aa758a1b747da86cdad7d58.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3580794342,
+    "name": "Señal del infinito",
+    "icon": "/common/destiny_content/icons/a4448b0561139589d14c379d9f2037c1.jpg",
+    "header": "/common/destiny_content/icons/83267356f5cc4201cc8347c2bd82669c.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1325965968,
+    "name": "Señal del nacido para la batalla",
+    "icon": "/common/destiny_content/icons/83f4642364895bf081bf96b49563204d.jpg",
+    "header": "/common/destiny_content/icons/cb4bd05a00266920711810621ffe2d70.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2727182628,
+    "name": "Silencio postcanto",
+    "icon": "/common/destiny_content/icons/5c5204e2133a403540d44023fe57ac77.jpg",
+    "header": "/common/destiny_content/icons/95db8624cba023218449c536c40b70aa.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2372257456,
+    "name": "Sirviente de los Dioses Gusano",
+    "icon": "/common/destiny_content/icons/602e755f5d8de73128badfa700f1ae1c.jpg",
+    "header": "/common/destiny_content/icons/5987c58828022170d91b7f31ad7ca23d.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3017621392,
+    "name": "Sol de Osiris",
+    "icon": "/common/destiny_content/icons/7a1cda73d671407e7ded4743c5514673.jpg",
+    "header": "/common/destiny_content/icons/c458df0cbcf5075b080561a3587a29b8.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 4136763191,
+    "name": "Sol de Osiris",
+    "icon": "/common/destiny_content/icons/7a1cda73d671407e7ded4743c5514673.jpg",
+    "header": "/common/destiny_content/icons/c458df0cbcf5075b080561a3587a29b8.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1429062181,
+    "name": "Sueño de Bastet",
+    "icon": "/common/destiny_content/icons/94f1a64d0ae56281a39bdc8e1281447a.jpg",
+    "header": "/common/destiny_content/icons/48dacbfd6496763742311f0d703048df.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1845137793,
+    "name": "Tenebrae Lunae",
+    "icon": "/common/destiny_content/icons/c0444ee75ec3f85c4e54d75998474b1e.jpg",
+    "header": "/common/destiny_content/icons/abdab28d08fa5c730624cf9593160078.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 566936481,
+    "name": "Teoría del espectro",
+    "icon": "/common/destiny_content/icons/8b6f5592876a431d32665e37b0518cfa.jpg",
+    "header": "/common/destiny_content/icons/810378c5550f579fe2b0a32c174a9df4.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1325965977,
+    "name": "Terrícola",
+    "icon": "/common/destiny_content/icons/9b20dc8c137bbce1ea248a599304d305.jpg",
+    "header": "/common/destiny_content/icons/bb0a671eb57dcda097e3f55ec75f0724.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 17215186,
+    "name": "Tiempo y cristal",
+    "icon": "/common/destiny_content/icons/a4cd6a4cbcc8a82121f31b0037af2c7b.jpg",
+    "header": "/common/destiny_content/icons/d7a72a3eee19bc39e2afcfb2e5dbe12c.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2792559727,
+    "name": "Todo y más",
+    "icon": "/common/destiny_content/icons/f0fba6171a95a63b7c9a38ec271704a8.jpg",
+    "header": "/common/destiny_content/icons/8183cbc523300015d7a4ca48b15a14ab.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3656150980,
+    "name": "Triturador de kells",
+    "icon": "/common/destiny_content/icons/62c3551f98af86fa2773845846a62bf7.jpg",
+    "header": "/common/destiny_content/icons/da7cc9bd08eae8d1231e461eb5a703ec.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337282,
+    "name": "Umbra Veris",
+    "icon": "/common/destiny_content/icons/1f842dc11e8b6648177b16f9c6203733.jpg",
+    "header": "/common/destiny_content/icons/519f3cc9181ba5b43826a03506ccf338.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1325965969,
+    "name": "Unión de Luz",
+    "icon": "/common/destiny_content/icons/2583c6b2cf494fa0a69017bb81e14927.jpg",
+    "header": "/common/destiny_content/icons/cd2de8eaf0ba965dee94d4f462e802c4.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 2809337285,
+    "name": "Valentía en la Oscuridad",
+    "icon": "/common/destiny_content/icons/e48ef53201321e19a5f9ec2561234f80.jpg",
+    "header": "/common/destiny_content/icons/2ce5364138352717133f58d7780aa60f.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 185564351,
+    "name": "Veneno de Vosik",
+    "icon": "/common/destiny_content/icons/e2bd37654e0ddceedaaa6f8b1886c03a.jpg",
+    "header": "/common/destiny_content/icons/f2d62da365424009c4d859e3b471f062.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 3659569693,
+    "name": "Vigilamus Noctu",
+    "icon": "/common/destiny_content/icons/52a4bed42c070697e30ec2ed7927bb9e.jpg",
+    "header": "/common/destiny_content/icons/f23b211421c1c41c42de9d9b6dbf37cd.jpg",
+    "tier": "Leyenda"
+  },
+  {
+    "hash": 1202047003,
+    "name": "A las carreras",
+    "icon": "/common/destiny_content/icons/a0ac6ed124984dfe531ece26aff1ddbb.jpg",
+    "header": "/common/destiny_content/icons/70dc5d0183f5568fc1f4507d7ae9a1df.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1230443376,
+    "name": "Águila de victoria II",
+    "icon": "/common/destiny_content/icons/55f4f20fdd64e72bd0d05ec252f28e98.jpg",
+    "header": "/common/destiny_content/icons/d401e6751efe0fa4a7322cd9b6bab6ac.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2267965734,
+    "name": "Augurio de caos",
+    "icon": "/common/destiny_content/icons/5a06fb6398872b4a77c33206d381b910.jpg",
+    "header": "/common/destiny_content/icons/4b7ec936d5acb61f37077d0783952573.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2267965735,
+    "name": "Augurio de caos II",
+    "icon": "/common/destiny_content/icons/0edb8c9beb20eb3d4e64695c90a314a2.jpg",
+    "header": "/common/destiny_content/icons/4b7ec936d5acb61f37077d0783952573.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1230443377,
+    "name": "Blasón del aedo del peligro",
+    "icon": "/common/destiny_content/icons/64d7c29d3bf376572d68e49fe8dfffec.jpg",
+    "header": "/common/destiny_content/icons/c0a239f1eaa1d15b2a4d9ca09d6f3528.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1409854023,
+    "name": "Canción de las esferas",
+    "icon": "/common/destiny_content/icons/5756a34a13137b306858baec559c03eb.jpg",
+    "header": "/common/destiny_content/icons/eb888229d99bfcc79269dc7a11f86964.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817408,
+    "name": "Distintivo de nacido del Invierno",
+    "icon": "/common/destiny_content/icons/27593c8f5f310ba46546b7c0185fa273.jpg",
+    "header": "/common/destiny_content/icons/18f9db91e2b89cdfb7546c733e15f44c.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1409854028,
+    "name": "Dominio mundial",
+    "icon": "/common/destiny_content/icons/4067677eb43e62e50b784c25bb453039.jpg",
+    "header": "/common/destiny_content/icons/e7b82f5d7ab48e3459c66670913e6a85.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1230443380,
+    "name": "Eco de los soles fragmentados",
+    "icon": "/common/destiny_content/icons/0db520a0a77ebbdbc634c38866d64e74.jpg",
+    "header": "/common/destiny_content/icons/388d408534669b3396c4216c5b921cf0.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2840347249,
+    "name": "Elemento del cambiador",
+    "icon": "/common/destiny_content/icons/43447746d6e95df37424ab6870ef55e0.jpg",
+    "header": "/common/destiny_content/icons/e8ac7ca9984a797ad432413390e2ec7f.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2840347248,
+    "name": "Elemento del sol muerto",
+    "icon": "/common/destiny_content/icons/64dab1c375a8071766cdc8bd946fb12a.jpg",
+    "header": "/common/destiny_content/icons/b08566467b270adcabebb30fe67fdad3.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 3441383072,
+    "name": "Eris Morn",
+    "icon": "/common/destiny_content/icons/f9088f513e80071951be5dfd03f08b3a.jpg",
+    "header": "/common/destiny_content/icons/2639a691d098e72222899088326af568.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1592588005,
+    "name": "Escudo de leyendas",
+    "icon": "/common/destiny_content/icons/53103ede608810503c57e2ef26e87270.jpg",
+    "header": "/common/destiny_content/icons/860c26a8a5d9063b71307f9730a49a38.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1600609907,
+    "name": "Escudo del caballero",
+    "icon": "/common/destiny_content/icons/54f048e157d97193ccf618b8b5fa8102.jpg",
+    "header": "/common/destiny_content/icons/f63cfeb14c128400a793b63c857156bc.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1600609906,
+    "name": "Escudo del señor de la guerra",
+    "icon": "/common/destiny_content/icons/9b16b4703806af48a9bf9869b8e64caf.jpg",
+    "header": "/common/destiny_content/icons/68b8488e4081e0196357bda186bb93cb.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1202047000,
+    "name": "Grito silencioso",
+    "icon": "/common/destiny_content/icons/6604ece99c4147e860203e2e5355b575.jpg",
+    "header": "/common/destiny_content/icons/92792ab2d3c93b5fc41194413b907da6.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817416,
+    "name": "Hoja de torio",
+    "icon": "/common/destiny_content/icons/45b68ae4bbd3cf3f825379a58571055b.jpg",
+    "header": "/common/destiny_content/icons/4a40c3a86c1985727b40c35c4a93ea5c.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1230443378,
+    "name": "Honor de las hojas",
+    "icon": "/common/destiny_content/icons/39dca67203fe434d09cd7713c2bfc26a.jpg",
+    "header": "/common/destiny_content/icons/32f075bcb6595eeff2d85bedda1cec8f.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817412,
+    "name": "Insignia de Conejo de Jade",
+    "icon": "/common/destiny_content/icons/01e92aa9288da062ef7cd735e6b25909.jpg",
+    "header": "/common/destiny_content/icons/dc7c03e29d0ec46b889282310d0e8b8e.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1592588007,
+    "name": "Insignia de la Vanguardia",
+    "icon": "/common/destiny_content/icons/057abe4b0edddb562e7a6062689738cc.jpg",
+    "header": "/common/destiny_content/icons/f9a1e55052a1bd5a1d4ca1064e57b3e6.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1592588012,
+    "name": "Insignia del mentor",
+    "icon": "/common/destiny_content/icons/df5e652a80cd0e6ac311f1433dea9277.jpg",
+    "header": "/common/destiny_content/icons/a110d51136c5b58926b15eaa278497e7.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2259618123,
+    "name": "Insignia del patrón",
+    "icon": "/common/destiny_content/icons/15a7f67956803fb8900f3ff876dfe6cf.jpg",
+    "header": "/common/destiny_content/icons/3e5cf9ada6b0b43be8e5755f272f39f8.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2259618122,
+    "name": "Insignia del patrón II",
+    "icon": "/common/destiny_content/icons/f065f2804a7898d15b11e75b580411cc.jpg",
+    "header": "/common/destiny_content/icons/3e5cf9ada6b0b43be8e5755f272f39f8.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1409854030,
+    "name": "La Cámara interior",
+    "icon": "/common/destiny_content/icons/fd0f09658e4767990da9c62c5943a05d.jpg",
+    "header": "/common/destiny_content/icons/9f804e408beced24f581c3906c5a00ce.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1409854031,
+    "name": "La Convergencia",
+    "icon": "/common/destiny_content/icons/b6103d360e38e8e763bfaa950da7cf83.jpg",
+    "header": "/common/destiny_content/icons/d40f62a5cc294d4c3a872ce55f4fd119.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817411,
+    "name": "Lanzamiento de alquimista",
+    "icon": "/common/destiny_content/icons/545be6fdf1639a279de682b47099d159.jpg",
+    "header": "/common/destiny_content/icons/25c17f1b9fb342bd4772a686ef72f492.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1202047001,
+    "name": "Lucecita",
+    "icon": "/common/destiny_content/icons/9b170035ae4d41e9dbc051472feeacdc.jpg",
+    "header": "/common/destiny_content/icons/348eea3a70c5e752e77b9a88a48dbd48.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817413,
+    "name": "Nacido del fuego",
+    "icon": "/common/destiny_content/icons/fd66af30cb517374f80fb42bc3df1111.jpg",
+    "header": "/common/destiny_content/icons/6279be336a6cf17319e1cacdc048db42.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2508872727,
+    "name": "No soy un títere",
+    "icon": "/common/destiny_content/icons/0ebfef4a3ab453ccf4ceb23e26c084c5.jpg",
+    "header": "/common/destiny_content/icons/c3eee4994be1f69d63f16cbf9dc559fb.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2508872726,
+    "name": "Nuestro reino",
+    "icon": "/common/destiny_content/icons/76f5fa73726803aeaefcafcb9f0a382c.jpg",
+    "header": "/common/destiny_content/icons/22a3b027b442051cfe3a00c07a2fc9ba.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1592588013,
+    "name": "Punta de lanza",
+    "icon": "/common/destiny_content/icons/b74aa873654e568826c3014738401865.jpg",
+    "header": "/common/destiny_content/icons/3b5a86afed5bc8a1b64810c83ce3a52f.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1230443379,
+    "name": "Recuerdo de la Zona Muerta",
+    "icon": "/common/destiny_content/icons/9b13e03a608b31f70d48fc7225987789.jpg",
+    "header": "/common/destiny_content/icons/5c00e0780b77730339ca0c828e01e1be.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817414,
+    "name": "Rook esmeralda",
+    "icon": "/common/destiny_content/icons/6b24289f4febd4eb579fed38500a0461.jpg",
+    "header": "/common/destiny_content/icons/8c6cfb581644bcbefcbb4659dfbd720d.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817409,
+    "name": "Runa de la máquina",
+    "icon": "/common/destiny_content/icons/a7ebdd4dd6bcaee11b03712caa6e40f6.jpg",
+    "header": "/common/destiny_content/icons/9a1522ca88fb94ce3cb0994b74c202b3.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 3441383073,
+    "name": "Sable de Crota",
+    "icon": "/common/destiny_content/icons/5f397cb44fd686893801b2038e35ecd7.jpg",
+    "header": "/common/destiny_content/icons/5941155335465ab822566df2681f6c34.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2765416090,
+    "name": "Sello de la Noche eterna",
+    "icon": "/common/destiny_content/icons/85097bdb33ff6e988866fbf9c7e2d2d6.jpg",
+    "header": "/common/destiny_content/icons/435895294497f02203e0938374af2529.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 3017621395,
+    "name": "Sello de príncipe",
+    "icon": "/common/destiny_content/icons/c7d3a54728131167bbb014b3c006e561.jpg",
+    "header": "/common/destiny_content/icons/82a83406acf9bbca40a426189cde076e.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 4136763188,
+    "name": "Sello de príncipe",
+    "icon": "/common/destiny_content/icons/c7d3a54728131167bbb014b3c006e561.jpg",
+    "header": "/common/destiny_content/icons/82a83406acf9bbca40a426189cde076e.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817415,
+    "name": "Sello de Siete",
+    "icon": "/common/destiny_content/icons/db278fc29a809af346341c7807ef2e8a.jpg",
+    "header": "/common/destiny_content/icons/48602d92ec316cd838ad8a514a4ab5a0.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2765416091,
+    "name": "Sello del Amanecer ardiente",
+    "icon": "/common/destiny_content/icons/b3951787af65e8b6b9dbaf3cf4c639fa.jpg",
+    "header": "/common/destiny_content/icons/435895294497f02203e0938374af2529.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817417,
+    "name": "Sello del archivero",
+    "icon": "/common/destiny_content/icons/af4a5795e48b83c4cd0b2a1381772089.jpg",
+    "header": "/common/destiny_content/icons/4ffbbdf28112f84547e2dfb5cd772a20.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1592588002,
+    "name": "Signo del pionero",
+    "icon": "/common/destiny_content/icons/71c161775a6e24a1113f01dffe8034ed.jpg",
+    "header": "/common/destiny_content/icons/9b4b49a88e44bdc2e8104a31aa0b012e.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2211817410,
+    "name": "Símbolo de los Lobos",
+    "icon": "/common/destiny_content/icons/ff1ca3e58f41b13bc17c9bb711844f64.jpg",
+    "header": "/common/destiny_content/icons/22e446f665be869f2fff588370a3cb3d.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 3357380906,
+    "name": "Símbolo del hechicero",
+    "icon": "/common/destiny_content/icons/8e9b0fbc55cbda838dedb77dfbda843d.jpg",
+    "header": "/common/destiny_content/icons/315eab6993ce16d0406ef4e6e9c33e79.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 3357380907,
+    "name": "Símbolo del magistrado",
+    "icon": "/common/destiny_content/icons/a1f25b3cf6144998b3c2a37b0ae40a3b.jpg",
+    "header": "/common/destiny_content/icons/68caac3fa68294056d8e6a99c36b9915.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 974754715,
+    "name": "Sonrisa de lobo",
+    "icon": "/common/destiny_content/icons/e68189a1f7c17f45dc54ae8396a7491f.jpg",
+    "header": "/common/destiny_content/icons/b1dad486636823559f37f8db3c34313c.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1681782010,
+    "name": "Sonrisa de lobo",
+    "icon": "/common/destiny_content/icons/e68189a1f7c17f45dc54ae8396a7491f.jpg",
+    "header": "/common/destiny_content/icons/b1dad486636823559f37f8db3c34313c.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1409854029,
+    "name": "Trascendencia",
+    "icon": "/common/destiny_content/icons/7ff046e4e807b51bdc9b30a04e48bef7.jpg",
+    "header": "/common/destiny_content/icons/b39d4e53e4e2effec4554c9987fd4c49.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 2508872725,
+    "name": "Verosimilitud",
+    "icon": "/common/destiny_content/icons/6dfe8547f842b882990279cb774151aa.jpg",
+    "header": "/common/destiny_content/icons/2faf914a5b9a29e406893bac6b9550fd.jpg",
+    "tier": "Peculiar"
+  },
+  {
+    "hash": 1426631719,
+    "name": "Ab aeterno",
+    "icon": "/common/destiny_content/icons/f5e813625abebd6df48838e30bf8382e.jpg",
+    "header": "/common/destiny_content/icons/c7c8a094c5ee54e3dbbd499f07a17c13.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012630,
+    "name": "Abeja IV",
+    "icon": "/common/destiny_content/icons/c992ec60fb20520cbf89b364229efb78.jpg",
+    "header": "/common/destiny_content/icons/46656c7c4b422ac08befe9a872eac11e.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165351,
+    "name": "Abraxas",
+    "icon": "/common/destiny_content/icons/8ab49784563ad06f324dd7e4d9109f03.jpg",
+    "header": "/common/destiny_content/icons/2ffacca3b22162d2e47afb8c8323bc26.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012631,
+    "name": "Abraxas II",
+    "icon": "/common/destiny_content/icons/fbf9d8089700d024bc556d1ee7fb3cb1.jpg",
+    "header": "/common/destiny_content/icons/2178f7bb7ae14f3a112cd83e95f7aa65.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2267965732,
+    "name": "Augurio de los muertos",
+    "icon": "/common/destiny_content/icons/69397dddfdce36f7bc1aa90bc7c484ae.jpg",
+    "header": "/common/destiny_content/icons/7bfefd959f1643c9e0796a39e15a5bf0.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2267965733,
+    "name": "Augurio de los muertos II",
+    "icon": "/common/destiny_content/icons/891869ca606a50a98dde12e554ef2106.jpg",
+    "header": "/common/destiny_content/icons/4b7ec936d5acb61f37077d0783952573.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1426631712,
+    "name": "Aventura del erudito",
+    "icon": "/common/destiny_content/icons/3bbdef6db33698759ae11517766681fb.jpg",
+    "header": "/common/destiny_content/icons/a47302f865ea4e80595fafc5c43286cd.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165350,
+    "name": "Bombarderos",
+    "icon": "/common/destiny_content/icons/f56acade695e1490fb40f474e562df73.jpg",
+    "header": "/common/destiny_content/icons/5da04946697256aff2c8129e11fc8268.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012632,
+    "name": "Bombarderos II",
+    "icon": "/common/destiny_content/icons/b46d9edb56c8ca48658a0a450a5b4cb6.jpg",
+    "header": "/common/destiny_content/icons/eec1d3bd72112e908186d71ccc029a28.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1426631715,
+    "name": "Camino sinuoso",
+    "icon": "/common/destiny_content/icons/fd1cd6cf4478bc7dec7b2b3bfa9d35b4.jpg",
+    "header": "/common/destiny_content/icons/b0be962b9bb4e6672cd7bc062c32168d.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1443409300,
+    "name": "Campo de Luz",
+    "icon": "/common/destiny_content/icons/95f5895fb4587a3a7e881d6407446f4e.jpg",
+    "header": "/common/destiny_content/icons/3f89dc31bcfd8aebd3c964a0853a00df.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345517,
+    "name": "Cassoid",
+    "icon": "/common/destiny_content/icons/7230f5fd36b5676d92e0e76349273214.jpg",
+    "header": "/common/destiny_content/icons/a216647f2b48c9a8fc802825573ee57f.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165353,
+    "name": "Comando",
+    "icon": "/common/destiny_content/icons/534a92a5326a92f80954f2c7b68766b4.jpg",
+    "header": "/common/destiny_content/icons/fe204e2cfe1541211e53353089aee16b.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012633,
+    "name": "Comando II",
+    "icon": "/common/destiny_content/icons/488a80853759c0c1f92987144cd3d1b9.jpg",
+    "header": "/common/destiny_content/icons/24fcc094c188408ce985bc6e06f53e21.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 3441383075,
+    "name": "Cosecha oscura",
+    "icon": "/common/destiny_content/icons/40b242e7a839bdc212635eb723749b68.jpg",
+    "header": "/common/destiny_content/icons/46dc3fcf4889afd7648ffb6714e13e5c.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165352,
+    "name": "Criptocambio",
+    "icon": "/common/destiny_content/icons/e7bc2006f5cec0e2736333c3d5f3bb76.jpg",
+    "header": "/common/destiny_content/icons/9c445222d00668371169f03c656d5a47.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345513,
+    "name": "Criptocambio II",
+    "icon": "/common/destiny_content/icons/ea9635201af228d9d12a965d97d4f181.jpg",
+    "header": "/common/destiny_content/icons/a39d36808e4fa5ef5053f85fb7d580ac.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345519,
+    "name": "Crux/Lomar",
+    "icon": "/common/destiny_content/icons/e7f19e6b0dddececeffd2fb54148ee75.jpg",
+    "header": "/common/destiny_content/icons/1a2dac37a249b7ff3a860af0fdcdf961.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345516,
+    "name": "Daito",
+    "icon": "/common/destiny_content/icons/24c8362e961f70790ea1b7acfff8d921.jpg",
+    "header": "/common/destiny_content/icons/1521c31d16acaed2a09f65fb8b72af2c.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1426631714,
+    "name": "Desde aquí, las estrellas",
+    "icon": "/common/destiny_content/icons/ea9d2e38a4448e0ba74bc16842c9ab5c.jpg",
+    "header": "/common/destiny_content/icons/b00dec9d57eac0e35af7f25a7a00ca93.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 974754714,
+    "name": "Dragón",
+    "icon": "/common/destiny_content/icons/3b17a79a78b83d01762e63de89e7579c.jpg",
+    "header": "/common/destiny_content/icons/9e6cab4cf5626582391b47523af2cc43.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1681782011,
+    "name": "Dragón",
+    "icon": "/common/destiny_content/icons/3b17a79a78b83d01762e63de89e7579c.jpg",
+    "header": "/common/destiny_content/icons/9e6cab4cf5626582391b47523af2cc43.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165345,
+    "name": "El levantamiento",
+    "icon": "/common/destiny_content/icons/41309732c070a72e477edf85ec12bbe8.jpg",
+    "header": "/common/destiny_content/icons/843008112aea7b145a350fec1ebd0718.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012624,
+    "name": "El obelisco",
+    "icon": "/common/destiny_content/icons/aafa2e55f71e2f88156bfef6d8fda0b8.jpg",
+    "header": "/common/destiny_content/icons/081a9a806dbebb4e7691e8227d5c1d5d.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345512,
+    "name": "El obelisco II",
+    "icon": "/common/destiny_content/icons/4f783d021e9c415d28b50345cfbbbbe4.jpg",
+    "header": "/common/destiny_content/icons/0cf1b9140efa9151d7bb1023c83a60cb.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1426631717,
+    "name": "Enfoque cegador",
+    "icon": "/common/destiny_content/icons/2df04b3bb473ec39efa4a2042fe99b7f.jpg",
+    "header": "/common/destiny_content/icons/3dc9989e0b9d7eb7226b4d768710d274.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1443409301,
+    "name": "Enfoque solitario, filo dentado",
+    "icon": "/common/destiny_content/icons/f98a8dc10ec457ac90dcc84a3d80fe6b.jpg",
+    "header": "/common/destiny_content/icons/73fa760f89fa361be50c2a5c6000ef99.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1592588004,
+    "name": "Escudo de héroes",
+    "icon": "/common/destiny_content/icons/b2aa74479160651202366e7926b7f09e.jpg",
+    "header": "/common/destiny_content/icons/34749f9d37745b9708bda8aef6de8d7e.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1409854022,
+    "name": "Fuerza de la Ciudad",
+    "icon": "/common/destiny_content/icons/2af0c08dee0e988306065309a2abbf94.jpg",
+    "header": "/common/destiny_content/icons/fb534fcbae8b229ab27cfba7c9195540.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165349,
+    "name": "Gen Gólgota",
+    "icon": "/common/destiny_content/icons/05ec8c4071369df0e26b74b890d6e793.jpg",
+    "header": "/common/destiny_content/icons/32befbee61dffa379edb28c2e791478a.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012629,
+    "name": "Gen Gólgota II",
+    "icon": "/common/destiny_content/icons/60b202fb86bd28b3f2e896f9da520bd5.jpg",
+    "header": "/common/destiny_content/icons/ac571a22fe4137fb16d40691744e3604.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345515,
+    "name": "Häkke",
+    "icon": "/common/destiny_content/icons/76249f09d6afd4cdf43458149cf21f88.jpg",
+    "header": "/common/destiny_content/icons/7ef54472be0ee39cc97d7cdb575c87a4.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1592588001,
+    "name": "Honor de la Vanguardia",
+    "icon": "/common/destiny_content/icons/41e4da9aff94a202f383d3d363aab9e3.jpg",
+    "header": "/common/destiny_content/icons/fb534fcbae8b229ab27cfba7c9195540.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1426631718,
+    "name": "Ilusión de Luz",
+    "icon": "/common/destiny_content/icons/ecf8a02e69107c1a0d62fbe9e4ca43bf.jpg",
+    "header": "/common/destiny_content/icons/445dec7c65a4946768c1183cd4e34d42.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2259618121,
+    "name": "Insignia de la Monarquía",
+    "icon": "/common/destiny_content/icons/c5adee00e234d2a65da49dc9ff54db63.jpg",
+    "header": "/common/destiny_content/icons/3e5cf9ada6b0b43be8e5755f272f39f8.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2259618120,
+    "name": "Insignia de la Monarquía II",
+    "icon": "/common/destiny_content/icons/cd8f14af4b9d9a7224a99d06e5b44d50.jpg",
+    "header": "/common/destiny_content/icons/3e5cf9ada6b0b43be8e5755f272f39f8.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1443409302,
+    "name": "Insula Thesauraria",
+    "icon": "/common/destiny_content/icons/24e2f65740a8789909bf54368e614b08.jpg",
+    "header": "/common/destiny_content/icons/8414b2e2e777af943da516f051c58972.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012625,
+    "name": "La noche del levantamiento",
+    "icon": "/common/destiny_content/icons/129cd3f23447fa2c1cf880225593d36e.jpg",
+    "header": "/common/destiny_content/icons/9ad48c6badaa8ed5e024d654544cac1f.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1426631723,
+    "name": "Llamas de verdad olvidada",
+    "icon": "/common/destiny_content/icons/40d67cfde9821c80bf49d8f28d20ee80.jpg",
+    "header": "/common/destiny_content/icons/6e5d705a1ec5fbc0e4938eb91388498e.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1426631713,
+    "name": "Luz creciente",
+    "icon": "/common/destiny_content/icons/f9c64e9bdddaa885a0997a7bfe648be9.jpg",
+    "header": "/common/destiny_content/icons/b0d4d5b4d2e68afbc8f6983cf90cf809.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165344,
+    "name": "Mamut",
+    "icon": "/common/destiny_content/icons/ffcee0015e0ad806fe6882f409b82604.jpg",
+    "header": "/common/destiny_content/icons/d9d645302032b6a1b065b967f4ca629f.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012626,
+    "name": "Mamut II",
+    "icon": "/common/destiny_content/icons/88f5e8e11d3ea67acbbb63a5634ab056.jpg",
+    "header": "/common/destiny_content/icons/af3d162585bb98abb525d53ce4ef20e3.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165347,
+    "name": "Mente de cíclope",
+    "icon": "/common/destiny_content/icons/b7bfe729483a4be9a2f561960f06ed6c.jpg",
+    "header": "/common/destiny_content/icons/50c9b467e92d5641a6038d3f082e6193.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012627,
+    "name": "Mente de cíclope II",
+    "icon": "/common/destiny_content/icons/c813730b5ee99898f2c1fdd24e2f2347.jpg",
+    "header": "/common/destiny_content/icons/61ce61e283c5f7763bd99b71ce6628f4.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345504,
+    "name": "Nadir",
+    "icon": "/common/destiny_content/icons/d148a14d4448d432eb56abce66354bb7.jpg",
+    "header": "/common/destiny_content/icons/cdad119b857aecd14a040cbb0a22af63.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1426631716,
+    "name": "Nota de conquista",
+    "icon": "/common/destiny_content/icons/4f467322b2f7612a3c5d16ef5e1beda0.jpg",
+    "header": "/common/destiny_content/icons/d89552b8535a28edbf2cbb6ba0c986a7.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345514,
+    "name": "Omolon",
+    "icon": "/common/destiny_content/icons/eca25d8922501ce318c38797dca71310.jpg",
+    "header": "/common/destiny_content/icons/5167a8128f34868a86b3952088010042.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1443409303,
+    "name": "Plano inimaginable",
+    "icon": "/common/destiny_content/icons/a6f4ae916cb285f4f88c241b912a4f44.jpg",
+    "header": "/common/destiny_content/icons/6b22edb7cdc7fa03ba8aec3ad7dfa73a.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1426631722,
+    "name": "Prueba reflectante",
+    "icon": "/common/destiny_content/icons/c5c08fa6663cc9e8a5888bae8a261e44.jpg",
+    "header": "/common/destiny_content/icons/f98937e062aa9e6ac4ea6e6c04ecb80c.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165348,
+    "name": "Revólver",
+    "icon": "/common/destiny_content/icons/2357ac25deaaf5bebb74405f5906c93c.jpg",
+    "header": "/common/destiny_content/icons/923bf7a9e4855c6af7738a707d032efb.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2765416088,
+    "name": "Sello de la Guerra Futura",
+    "icon": "/common/destiny_content/icons/5b913a98efbed6eabbe74f76b206a2ea.jpg",
+    "header": "/common/destiny_content/icons/435895294497f02203e0938374af2529.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2765416089,
+    "name": "Sello de la Guerra Futura II",
+    "icon": "/common/destiny_content/icons/1155e3f133ecf07d652986a78af48dfa.jpg",
+    "header": "/common/destiny_content/icons/6094c54eaacad83aed402fbaeaa49efe.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1592588000,
+    "name": "Sello del fundador",
+    "icon": "/common/destiny_content/icons/d326439b35da6a1b5de8f147a159b4cc.jpg",
+    "header": "/common/destiny_content/icons/72da11d5918b6de9efe96957bb432457.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 3441383074,
+    "name": "Sello nocturno",
+    "icon": "/common/destiny_content/icons/2febe1067adc5514dabcc2cf164ac054.jpg",
+    "header": "/common/destiny_content/icons/a55cb9a4ad191e76d7cedcb42d58417a.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1443409297,
+    "name": "Señal de contención",
+    "icon": "/common/destiny_content/icons/ca7a9bb4a45b7d33a4848577a67cfa33.jpg",
+    "header": "/common/destiny_content/icons/0fc2957b437530a6fec4b241257089bd.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1443409299,
+    "name": "Señal de dualidad",
+    "icon": "/common/destiny_content/icons/6ec5ca0957b97c03d64fd197a776b363.jpg",
+    "header": "/common/destiny_content/icons/423019982db860a068cc3cce67ccc0f7.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1443409298,
+    "name": "Señal de lo finito",
+    "icon": "/common/destiny_content/icons/ed0cf68e6647596480e853a9f199c124.jpg",
+    "header": "/common/destiny_content/icons/216247769d3c83d57ec6a93d2a3c9342.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1409854025,
+    "name": "Señal de los ancianos",
+    "icon": "/common/destiny_content/icons/e9dba174f54090c30fe60cc1ba4ca583.jpg",
+    "header": "/common/destiny_content/icons/6bdf5e88cc08bb2d764f4eb5f00db719.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1409854026,
+    "name": "Señal de los Antiguos",
+    "icon": "/common/destiny_content/icons/311f0a36d272d0e985f632323557e6ef.jpg",
+    "header": "/common/destiny_content/icons/5744e1ee9b685b99136b1c21682eba6c.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1409854024,
+    "name": "Señal de los fundadores",
+    "icon": "/common/destiny_content/icons/a90fe482372d8c5d46a10111f4d04497.jpg",
+    "header": "/common/destiny_content/icons/bf1505afb62469a81551e811806e48e5.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1443409309,
+    "name": "Señal de unidad",
+    "icon": "/common/destiny_content/icons/c4bedf9a5114bb8524fe83a2dea55f84.jpg",
+    "header": "/common/destiny_content/icons/374aaa6c62867fe978debf33049b82f5.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1443409296,
+    "name": "Señal de voluntad opuesta",
+    "icon": "/common/destiny_content/icons/1ff3cc7276740d15a02676b15330a445.jpg",
+    "header": "/common/destiny_content/icons/4e9ea94f75c34fd54989d60cd5a3f138.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 1409854027,
+    "name": "Señal del protectorado",
+    "icon": "/common/destiny_content/icons/28d98d0892810c201deb3b886fdae01d.jpg",
+    "header": "/common/destiny_content/icons/4d71be7fa6712847ca1b02c5a5f18d93.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345518,
+    "name": "Suros",
+    "icon": "/common/destiny_content/icons/ce474c23ff28fabc6fdb79895259970d.jpg",
+    "header": "/common/destiny_content/icons/45d99c76397666848b6b3574ba069c75.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 718345505,
+    "name": "Tex Mechanica",
+    "icon": "/common/destiny_content/icons/72600661ee3ab76150b2abe1f041d913.jpg",
+    "header": "/common/destiny_content/icons/ac47e67c4e4c3bf3622a5bc649b31632.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 2121165346,
+    "name": "Verdad protegida",
+    "icon": "/common/destiny_content/icons/51ed24bc16805c4c993daac2a17f1da7.jpg",
+    "header": "/common/destiny_content/icons/6e35f5eef26d141d15c9b16656e214d3.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 668012628,
+    "name": "Verdad protegida II",
+    "icon": "/common/destiny_content/icons/2c427ad64c2f2b31dfc7ddde2188ef45.jpg",
+    "header": "/common/destiny_content/icons/992acb95a9b6f0aaef8d2c00f1b4eecd.jpg",
+    "tier": "Poco común"
+  },
+  {
+    "hash": 855333070,
+    "name": "Aspecto de polvo",
+    "icon": "/common/destiny_content/icons/4abf22570d941caed9a6558d99891a09.jpg",
+    "header": "/common/destiny_content/icons/e491d3f926dde9d0ae0ada5fc0431e5a.jpg",
+    "tier": "Común"
+  },
+  {
+    "hash": 855333071,
+    "name": "Aspecto de sangre",
+    "icon": "/common/destiny_content/icons/95750a10c39c30fae62c96bd4b29ea45.jpg",
+    "header": "/common/destiny_content/icons/4def1e22cf50a13b41c323c2a9cfbe68.jpg",
+    "tier": "Común"
+  },
+  {
+    "hash": 855333069,
+    "name": "Aspecto de sombra",
+    "icon": "/common/destiny_content/icons/788d577b9a5fe714581fc59ef890f661.jpg",
+    "header": "/common/destiny_content/icons/a70f47135401a0d1d9f431d204c17959.jpg",
+    "tier": "Común"
+  },
+  {
+    "hash": 1723894003,
+    "name": "Blasón de comandante",
+    "icon": "/common/destiny_content/icons/658c59475fdd1c83b1f177e78b49502a.jpg",
+    "header": "/common/destiny_content/icons/806c861f935dda5e6a141f17c85ce171.jpg",
+    "tier": "Común"
+  },
+  {
+    "hash": 1723894001,
+    "name": "Blasón de oficial",
+    "icon": "/common/destiny_content/icons/9b31c79b6c0a7111d4abed8f8462b57d.jpg",
+    "header": "/common/destiny_content/icons/0c0e86ad2241092882096eaa574add4f.jpg",
+    "tier": "Común"
+  },
+  {
+    "hash": 1723894000,
+    "name": "Blasón de veterano",
+    "icon": "/common/destiny_content/icons/34c5e114568d441216f79bc08a6b8708.jpg",
+    "header": "/common/destiny_content/icons/8fd62e0ba0af5c34eaf6ceec87c93f6e.jpg",
+    "tier": "Común"
+  },
+  {
+    "hash": 776529033,
+    "name": "Runa del adepto",
+    "icon": "/common/destiny_content/icons/9c4c5d221f5eea69400365697ed72dbc.jpg",
+    "header": "/common/destiny_content/icons/582fe8e6fdd866a1e5160d6382b30877.jpg",
+    "tier": "Común"
+  },
+  {
+    "hash": 776529032,
+    "name": "Runa del discípulo",
+    "icon": "/common/destiny_content/icons/117285c72a9c89626cd7b3fa3d7226ee.jpg",
+    "header": "/common/destiny_content/icons/2c73bcd2e874e640f158197bb9f2c55d.jpg",
+    "tier": "Común"
+  },
+  {
+    "hash": 776529034,
+    "name": "Runa del oráculo",
+    "icon": "/common/destiny_content/icons/fd0ddf127eca3f23796418480103e950.jpg",
+    "header": "/common/destiny_content/icons/3ab295ed4a26fd14dad1b327f3975f6e.jpg",
+    "tier": "Común"
+  }
+]
