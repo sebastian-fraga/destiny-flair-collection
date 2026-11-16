@@ -3,7 +3,8 @@ import { useCanHover } from "../hooks/useMediaQuery.ts";
 import type { Shader } from "../types/shader.ts";
 import { defaultTier, tierStyles } from "../utils/tierStyles.ts";
 import ItemIcon from "./collectible/ItemIcon.tsx";
-import Tooltip from "./Tooltip.tsx";
+import ItemTooltipContent from "./collectible/ItemTooltipContent.tsx";
+import Tooltip from "./collectible/Tooltip.tsx";
 
 interface Props {
     shader: Shader;
@@ -45,19 +46,21 @@ export default function ShaderCard({ shader }: Props) {
             {canHover ? (
                 <Tooltip
                     id={tooltipId}
-                    shader={shader}
                     pos={tooltipPos}
                     visible={isHovered}
-                />
+                >
+                    <ItemTooltipContent item={shader} typeLabel="Shader" />
+                </Tooltip>
             ) : (
                 <Tooltip
                     id={tooltipId}
-                    shader={shader}
                     pos={tooltipPos}
                     visible={isOpen}
                     variant="modal"
                     onClose={() => setIsOpen(false)}
-                />
+                >
+                    <ItemTooltipContent item={shader} typeLabel="Shader" />
+                </Tooltip>
             )}
         </span>
     );
