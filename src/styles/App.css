@@ -34,7 +34,7 @@ main {
     animation: spin-slow 3s linear infinite;
 }
 
-.shader-card {
+.item-card {
     -webkit-touch-callout: none;
     -webkit-tap-highlight-color: transparent;
     user-select: none;
