@@ -2,7 +2,7 @@
     "139252900": {
         "name": "Caelestis",
         "obtainable": false,
-        "note": "Era obtenido al completar el nivel 2 del cuaderno de Momentos de Triunfo del año 2",
+        "note": "Era obtenido al completar el nivel 2 del cuaderno de Momentos de Triunfo del Año 2",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "order": 15
@@ -10,7 +10,7 @@
     "139252901": {
         "name": "Invocauroras",
         "obtainable": false,
-        "note": "Era obtenido al completar el nivel 4 del cuaderno de Momentos de Triunfo del año 2",
+        "note": "Era obtenido al completar el nivel 4 del cuaderno de Momentos de Triunfo del Año 2",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "order": 16
@@ -65,7 +65,7 @@
     },
     "194424271": {
         "name": "Paseo",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar actividades de la Vanguardia o el Crisol",
         "section": "Actividades",
         "sources": [],
         "obtainable": "Actividades",
@@ -89,7 +89,7 @@
     },
     "202245946": {
         "name": "Anoche",
-        "note": "Obtenido de forma aleatoria al finalizar actividades del Crisol",
+        "note": "Obtenido de forma aleatoria al finalizar partidas del Crisol",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -97,7 +97,7 @@
     },
     "202245947": {
         "name": "Calcedonia",
-        "note": "Obtenido de forma aleatoria al finalizar actividades del Crisol",
+        "note": "Obtenido de forma aleatoria al finalizar partidas del Crisol",
         "section": "El Rey de los Poseídos",
         "sources": [],
         "obtainable": null,
@@ -105,7 +105,7 @@
     },
     "202245948": {
         "name": "Espira del rey",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Crisol o al completar contratos semanales de Lord Shaxx",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -113,7 +113,7 @@
     },
     "202245949": {
         "name": "Cantar de gesta",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar partidas del Crisol",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -129,7 +129,7 @@
     },
     "651681368": {
         "name": "Pacto de sangre",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar actividades de la Vanguardia o del Presidio de los Ancianos",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -137,7 +137,7 @@
     },
     "651681369": {
         "name": "Elegía lunar",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar actividades de la Vanguardia o del Presidio de los Ancianos",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -145,7 +145,7 @@
     },
     "651681370": {
         "name": "Florecimiento citerano",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar actividades de la Vanguardia o del Presidio de los Ancianos",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -153,7 +153,7 @@
     },
     "651681371": {
         "name": "Deshielo refractivo",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar actividades de la Vanguardia o del Presidio de los Ancianos",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -161,7 +161,7 @@
     },
     "813108078": {
         "name": "Valentín",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "Evento",
         "sources": [],
         "obtainable": null,
@@ -169,7 +169,7 @@
     },
     "813108079": {
         "name": "Brillo rosáceo",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "Evento",
         "sources": [],
         "obtainable": null,
@@ -225,7 +225,7 @@
     },
     "1050291904": {
         "name": "Malevolencia",
-        "note": "Conseguido de forma aleatoria al completar encuentros de la incursión \"La Caída del Rey\" en su versión de 390 de luz",
+        "note": "Obtenido de forma aleatoria al completar encuentros de la incursión \"La Caída del Rey\" en su versión de 390 de luz",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -233,7 +233,7 @@
     },
     "1050291905": {
         "name": "Estañafuego",
-        "note": "Conseguido de forma aleatoria al derrotar a Aksis en la incursión \"La Furia de las Máquinas\" en su versión de 380 de luz",
+        "note": "Obtenido de forma aleatoria al derrotar a Aksis en la incursión \"La Furia de las Máquinas\" en su versión de 380 de luz",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -242,7 +242,7 @@
     "1050291906": {
         "name": "Corona de laurel",
         "obtainable": null,
-        "note": "",
+        "note": "Obtenido al conseguir las 5 piezas de armadura de la Era de Triunfo",
         "section": "Eververso",
         "sources": [],
         "order": 4
@@ -250,7 +250,7 @@
     "1050291908": {
         "name": "Incendiario",
         "obtainable": null,
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "Eververso",
         "sources": [],
         "order": 2
@@ -258,14 +258,14 @@
     "1050291909": {
         "name": "Traba",
         "obtainable": null,
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "Eververso",
         "sources": [],
         "order": 3
     },
     "1050291910": {
         "name": "Reloj de arena",
-        "note": "Conseguido de forma aleatoria al completar encuentros de la incursión \"Cámara de Cristal\" en su versión de 390 de luz",
+        "note": "Obtenido de forma aleatoria al completar encuentros de la incursión \"Cámara de Cristal\" en su versión de 390 de luz",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -273,7 +273,7 @@
     },
     "1050291911": {
         "name": "Baile de huesos",
-        "note": "Conseguido de forma aleatoria al completar encuentros de la incursión \"El Fin de Crota\" en su versión de 390 de luz",
+        "note": "Obtenido de forma aleatoria al completar encuentros de la incursión \"El Fin de Crota\" en su versión de 390 de luz",
         "section": "Incursiones",
         "sources": [],
         "obtainable": null,
@@ -329,7 +329,7 @@
     },
     "1536084164": {
         "name": "Explosión bélica",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "Eververso",
         "sources": [],
         "obtainable": null,
@@ -354,10 +354,10 @@
     },
     "1759332262": {
         "name": "Supernegro",
-        "note": "",
+        "note": "Obtenido al completar la aventura secreta \"Dulces recuerdos\" durante la Fiesta de las Almas Perdidas",
         "section": "Evento",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 1
     },
     "1759332263": {
@@ -370,7 +370,7 @@
     },
     "1814540592": {
         "name": "Lívido",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -378,7 +378,7 @@
     },
     "1814540593": {
         "name": "Magma",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -386,7 +386,7 @@
     },
     "1814540600": {
         "name": "Midas",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -394,7 +394,7 @@
     },
     "1814540601": {
         "name": "Manzana de caramelo",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -402,7 +402,7 @@
     },
     "1814540602": {
         "name": "Regreso de la Aurora",
-        "note": "",
+        "note": "Obtenido al completar el nivel 10 del cuaderno de hazañas \"Espíritu competitivo\"",
         "section": "Evento",
         "sources": [],
         "obtainable": null,
@@ -410,7 +410,7 @@
     },
     "1814540603": {
         "name": "Escarcha",
-        "note": "",
+        "note": "Obtenido al completar el nivel 4 del cuaderno de hazañas \"Espíritu competitivo\"",
         "section": "Evento",
         "sources": [],
         "obtainable": null,
@@ -418,7 +418,7 @@
     },
     "1814540604": {
         "name": "Resol",
-        "note": "",
+        "note": "Obtenido al conseguir las 5 piezas de armadura de la Aurora abriendo Tesoros de las Eras",
         "section": "Evento",
         "sources": [],
         "obtainable": null,
@@ -426,7 +426,7 @@
     },
     "1814540605": {
         "name": "Tigre blanco",
-        "note": "",
+        "note": "Obtenido al completar la aventura \"Élite de la Vanguardia\"",
         "section": "Evento",
         "sources": [],
         "obtainable": null,
@@ -434,7 +434,7 @@
     },
     "1814540606": {
         "name": "Solario",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -442,7 +442,7 @@
     },
     "1814540607": {
         "name": "Oasis",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -466,7 +466,7 @@
     },
     "1947545036": {
         "name": "Palas victorioso",
-        "note": "",
+        "note": "Desbloqueado al alcanzar el nivel 3 de comerciante con Petra Venj",
         "section": "La Casa de los Lobos",
         "sources": [],
         "obtainable": null,
@@ -474,7 +474,7 @@
     },
     "1947545037": {
         "name": "Llama de Imogen",
-        "note": "",
+        "note": "Desbloqueado al alcanzar el nivel 3 de comerciante con Petra Venj",
         "section": "La Casa de los Lobos",
         "sources": [],
         "obtainable": null,
@@ -482,23 +482,23 @@
     },
     "2561402280": {
         "name": "Pátina de azufre",
-        "note": "",
+        "note": "Era obtenido como bonus por comprar la Edición de coleccionista digital del Rey de los Poseídos",
         "section": "Promocional",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 5
     },
     "2561402281": {
         "name": "Acuario eléctrico",
-        "note": "",
+        "note": "Era obtenido como bonus por comprar la Edición de coleccionista digital del Rey de los Poseídos",
         "section": "Promocional",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 6
     },
     "2561402282": {
         "name": "Minimalista SUROS",
-        "note": "",
+        "note": "Obtenido al abrir el Paquete especial SUROS en la Administración de la Torre",
         "section": "Promocional",
         "sources": [],
         "obtainable": null,
@@ -506,26 +506,26 @@
     },
     "2561402283": {
         "name": "Brillo de nebulosa",
-        "note": "",
+        "note": "Era obtenido como bonus por comprar la Edición de coleccionista digital del Rey de los Poseídos",
         "section": "Promocional",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 4
     },
     "2561402286": {
         "name": "La vieja guardia",
-        "note": "",
+        "note": "Era obtenido al alcanzar el nivel 30 o al poseer La Profunda Oscuridad y La Casa de los Lobos durante el Año 1",
         "section": "Promocional",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 7
     },
     "2571870726": {
         "name": "Unión infinita",
-        "note": "",
+        "note": "Era obtenido al completar el paso 1 de la aventura \"Historia de dos guardianes\" de la promoción \"Trae un amigo\"",
         "section": "Promocional",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 8
     },
     "2874472095": {
@@ -538,7 +538,7 @@
     },
     "2949605650": {
         "name": "Apoderado ártico",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca o al finalizar asaltos de la Vanguardia",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -546,7 +546,7 @@
     },
     "2949605651": {
         "name": "Sustancia 321",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca o al finalizar asaltos de la Vanguardia",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -594,7 +594,7 @@
     },
     "3056359296": {
         "name": "Deuda impagada",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar asaltos en las listas de juego de la Vanguardia",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -674,23 +674,23 @@
     },
     "3367786034": {
         "name": "Espiral de oro",
-        "note": "",
+        "note": "Era obtenido al alcanzar el nivel 5 con Lord Saladino durante el Estandarte de Hierro",
         "section": "Actividades",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 14
     },
     "3367786035": {
         "name": "Millón de millón",
-        "note": "",
+        "note": "Era obtenido al alcanzar el nivel 2 con Lord Saladino durante el Estandarte de Hierro",
         "section": "Actividades",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 13
     },
     "3390448402": {
         "name": "Prueba de dolor",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de La Casa del Juicio",
         "section": "La Casa de los Lobos",
         "sources": [],
         "obtainable": null,
@@ -698,7 +698,7 @@
     },
     "3390448404": {
         "name": "Maldición de los Lobos",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de La Casa del Juicio",
         "section": "La Casa de los Lobos",
         "sources": [],
         "obtainable": null,
@@ -706,7 +706,7 @@
     },
     "3390448405": {
         "name": "Invocación del Juicio",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de La Casa del Juicio",
         "section": "La Casa de los Lobos",
         "sources": [],
         "obtainable": null,
@@ -714,7 +714,7 @@
     },
     "3390448406": {
         "name": "Brisa del Rey",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de La Casa del Juicio",
         "section": "La Casa de los Lobos",
         "sources": [],
         "obtainable": null,
@@ -722,7 +722,7 @@
     },
     "3390448407": {
         "name": "Llanto del Demonio",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango de La Casa del Juicio",
         "section": "La Casa de los Lobos",
         "sources": [],
         "obtainable": null,
@@ -778,7 +778,7 @@
     },
     "3671454773": {
         "name": "Dios de la guerra",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al abrir paquetes de subida de rango del Criptarca o al finalizar asaltos de la Vanguardia",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -818,7 +818,7 @@
     },
     "3720866500": {
         "name": "Beowulf",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar partidas del Crisol",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -826,7 +826,7 @@
     },
     "3720866501": {
         "name": "Cicerón",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar partidas del Crisol",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -834,7 +834,7 @@
     },
     "3720866502": {
         "name": "Aquiles",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar partidas del Crisol",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -842,7 +842,7 @@
     },
     "3720866503": {
         "name": "Gilgamés",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar partidas del Crisol",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -850,7 +850,7 @@
     },
     "3753095826": {
         "name": "Oro rosa",
-        "note": "",
+        "note": "Desbloqueado al alcanzar el nivel 1 de comerciante con Petra Venj",
         "section": "La Casa de los Lobos",
         "sources": [],
         "obtainable": null,
@@ -858,7 +858,7 @@
     },
     "3753095827": {
         "name": "Bailarín de prisma",
-        "note": "",
+        "note": "Desbloqueado al alcanzar el nivel 3 de comerciante con Petra Venj",
         "section": "La Casa de los Lobos",
         "sources": [],
         "obtainable": null,
@@ -866,7 +866,7 @@
     },
     "3764987312": {
         "name": "Lumos de medianoche",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -874,7 +874,7 @@
     },
     "3764987313": {
         "name": "Orgullo del impulso",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -882,7 +882,7 @@
     },
     "3764987314": {
         "name": "Azura",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -890,7 +890,7 @@
     },
     "3764987315": {
         "name": "Claroscuro",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -898,7 +898,7 @@
     },
     "3764987316": {
         "name": "Llamarada refulgente",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -906,7 +906,7 @@
     },
     "3764987317": {
         "name": "Laurel luminoso",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -914,7 +914,7 @@
     },
     "3764987318": {
         "name": "Fósforo",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -922,7 +922,7 @@
     },
     "3764987319": {
         "name": "Krokos",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "SRL",
         "sources": [],
         "obtainable": null,
@@ -954,7 +954,7 @@
     },
     "3859658560": {
         "name": "Pantera malva",
-        "note": "Obtenido al abrir Tesoros de las eras o comprándolo por polvo de plata",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "Evento",
         "sources": [],
         "obtainable": null,
@@ -962,7 +962,7 @@
     },
     "3859658561": {
         "name": "Saurópsido ninja",
-        "note": "Obtenido al abrir Tesoros de las eras o comprándolo por polvo de plata",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "Evento",
         "sources": [],
         "obtainable": null,
@@ -970,7 +970,7 @@
     },
     "3859658562": {
         "name": "Mar de lágrimas",
-        "note": "",
+        "note": "Obtenido aleatoriamente al abrir Tesoros de las Eras o comprándolo por polvo de plata",
         "section": "Evento",
         "sources": [],
         "obtainable": null,
@@ -995,26 +995,26 @@
     },
     "4111350117": {
         "name": "Espacio de Abidos",
-        "note": "",
+        "note": "Era obtenido de forma aleatoria al completar partidas de Las Pruebas de Osiris",
         "section": "La Casa de los Lobos",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 12
     },
     "4111350118": {
         "name": "Tinta de Amduat",
-        "note": "",
+        "note": "Era obtenido de forma aleatoria al completar partidas de Las Pruebas de Osiris",
         "section": "La Casa de los Lobos",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 11
     },
     "4111350119": {
         "name": "Pase de Aaru's",
-        "note": "",
+        "note": "Era obtenido de forma aleatoria al completar partidas de Las Pruebas de Osiris",
         "section": "La Casa de los Lobos",
         "sources": [],
-        "obtainable": null,
+        "obtainable": false,
         "order": 10
     },
     "4112903824": {
@@ -1059,7 +1059,7 @@
     },
     "4211402860": {
         "name": "Nube quemada",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar asaltos en las listas de juego de la Vanguardia",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -1067,7 +1067,7 @@
     },
     "4211402861": {
         "name": "Estrellas cian",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar asaltos en las listas de juego de la Vanguardia",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
@@ -1075,7 +1075,7 @@
     },
     "4211402862": {
         "name": "Prácticamente cubierto",
-        "note": "",
+        "note": "Obtenido de forma aleatoria al finalizar asaltos en las listas de juego de la Vanguardia",
         "section": "Actividades",
         "sources": [],
         "obtainable": null,
