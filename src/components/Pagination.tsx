@@ -92,7 +92,7 @@ export default function Pagination({ page, totalPages, onChange }: Props) {
                         className={`${
                             n === page
                                 ? "text-white"
-                                : "text-white/60 cursor-pointer hover:text-white/80"
+                                : "text-white/40 cursor-pointer hover:text-white/80"
                         } transition-colors text-base sm:text-xl `}
                         onClick={() => onChange(n)}
                     >
