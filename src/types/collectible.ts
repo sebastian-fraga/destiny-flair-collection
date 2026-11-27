@@ -18,3 +18,14 @@ export interface CollectibleItem {
     /** Nota del overrides manual. */
     note?: string;
 }
+
+/**
+ * Contexto que se pasa al callback `renderTooltip` de ItemCard.
+ *
+ * `hasBeenShown` se pone en true la primera vez que el usuario hace hover o
+ * tap sobre el ítem, y nunca vuelve a false. Sirve para diferir cargas
+ * costosas (por ejemplo, el banner de un emblema) hasta la primera interacción.
+ */
+export interface TooltipContext {
+    hasBeenShown: boolean;
+}
