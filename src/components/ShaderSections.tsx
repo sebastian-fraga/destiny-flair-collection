@@ -1,18 +1,12 @@
-import { AnimatePresence, motion } from "framer-motion";
-import { useMemo, useRef } from "react";
-import type { Shader } from "../types/shader.ts";
-import { buildSections, MAX_PER_SECTION } from "../utils/groupShaders.ts";
+import type { ShaderSection } from "../utils/groupShaders.ts";
+import { MAX_PER_SECTION } from "../utils/groupShaders.ts";
+import PageTransition from "./collectible/PageTransition.tsx";
 import ShaderCard from "./ShaderCard";
 
 export const SECTIONS_PER_PAGE = 5;
 
-const TRANSITION = {
-    duration: 0.6,
-    ease: [0.42, 0, 0.58, 1] as [number, number, number, number],
-};
-
 interface Props {
-    shaders: Shader[];
+    sections: ShaderSection[];
     page: number;
     direction: 1 | -1;
 }
@@ -28,83 +22,47 @@ function ShaderPlaceholder() {
     );
 }
 
-export default function ShaderSections({ shaders, page, direction }: Props) {
-    const gridRef = useRef<HTMLDivElement>(null);
-    const sections = useMemo(() => buildSections(shaders), [shaders]);
-    const start = (page - 1) * SECTIONS_PER_PAGE;
-    const visibleSections = sections.slice(start, start + SECTIONS_PER_PAGE);
-
-    const variants = {
-        enter: {
-            opacity: 0,
-        },
-        center: {
-            opacity: 1,
-        },
-        exit: (direction: number) => {
-            const rect = gridRef.current?.getBoundingClientRect();
-
-            const distance = rect
-                ? direction > 0
-                    ? window.innerWidth - rect.left
-                    : rect.right
-                : window.innerWidth;
-
-            return {
-                x: direction > 0 ? -distance : distance,
-                opacity: 0,
-            };
-        },
-    };
-
+export default function ShaderSections({ sections, page, direction }: Props) {
     return (
-        <AnimatePresence mode="wait" custom={direction}>
-            <motion.div
-                key={page}
-                ref={gridRef}
-                custom={direction}
-                variants={variants}
-                initial="enter"
-                animate="center"
-                exit="exit"
-                transition={TRANSITION}
-                className="mt-8 grid grid-cols-1 gap-y-8 lg:grid-cols-2 justify-items-start"
-            >
-                {visibleSections.map((section) => {
-                    const padded = [
-                        ...section.shaders,
-                        ...Array(MAX_PER_SECTION - section.shaders.length).fill(
-                            null,
-                        ),
-                    ];
+        <PageTransition
+            page={page}
+            direction={direction}
+            className="mt-8 grid grid-cols-1 gap-y-8 lg:grid-cols-2 justify-items-start"
+        >
+            {sections.map((section) => {
+                const padded = [
+                    ...section.shaders,
+                    ...Array(MAX_PER_SECTION - section.shaders.length).fill(
+                        null,
+                    ),
+                ];
 
-                    return (
-                        <section key={section.title} className="max-w-200">
-                            <h2 className="text-xl font-medium uppercase tracking-wide text-slate-200/90">
-                                {section.title}
-                            </h2>
-                            <div className="w-full bg-slate-200 h-px mb-2"></div>
-                            <ul className="grid max-w-200 grid-cols-6 gap-1.5">
-                                {padded.map((shader, i) => (
-                                    <li
-                                        key={
-                                            shader
-                                                ? shader.hash
-                                                : `${section.title}-placeholder-${i}`
-                                        }
-                                    >
-                                        {shader ? (
-                                            <ShaderCard shader={shader} />
-                                        ) : (
-                                            <ShaderPlaceholder />
-                                        )}
-                                    </li>
-                                ))}
-                            </ul>
-                        </section>
-                    );
-                })}
-            </motion.div>
-        </AnimatePresence>
+                return (
+                    <section key={section.title} className="max-w-200">
+                        <h2 className="text-xl font-medium uppercase tracking-wide text-slate-200/90">
+                            {section.title}
+                        </h2>
+                        <div className="w-full bg-slate-200 h-px mb-2"></div>
+                        <ul className="grid max-w-200 grid-cols-6 gap-1.5">
+                            {padded.map((shader, i) => (
+                                <li
+                                    key={
+                                        shader
+                                            ? shader.hash
+                                            : `${section.title}-placeholder-${i}`
+                                    }
+                                >
+                                    {shader ? (
+                                        <ShaderCard shader={shader} />
+                                    ) : (
+                                        <ShaderPlaceholder />
+                                    )}
+                                </li>
+                            ))}
+                        </ul>
+                    </section>
+                );
+            })}
+        </PageTransition>
     );
 }

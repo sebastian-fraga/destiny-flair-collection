@@ -4,9 +4,17 @@ interface Props {
     page: number;
     totalPages: number;
     onChange: (page: number) => void;
+    ariaLabel?: string;
+    label?: string;
 }
 
-export default function Pagination({ page, totalPages, onChange }: Props) {
+export default function Pagination({
+    page,
+    totalPages,
+    onChange,
+    ariaLabel = "Paginación",
+    label = "colección",
+}: Props) {
     const lastKeyPress = useRef(0);
     const KEY_DELAY = 500;
 
@@ -72,7 +80,7 @@ export default function Pagination({ page, totalPages, onChange }: Props) {
             <div className="absolute bottom-0 left-1/2 h-2 w-screen -translate-x-1/2 bg-linear-90 from-white" />
             <div className="absolute inset-y-0 left-1/2 -z-10 w-screen -translate-x-1/2 bg-[#929D9D]" />
             <nav
-                aria-label="Paginación de secciones"
+                aria-label={ariaLabel}
                 className="mt-2 flex flex-1 flex-wrap items-center justify-center gap-x-4 gap-y-2 pb-5 pt-14 sm:gap-x-8"
             >
                 <kbd
@@ -96,7 +104,7 @@ export default function Pagination({ page, totalPages, onChange }: Props) {
                         } transition-colors text-base sm:text-xl `}
                         onClick={() => onChange(n)}
                     >
-                        colección {n}
+                        {`${label} ${n}`}
                     </button>
                 ))}
                 <kbd

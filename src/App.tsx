@@ -1,29 +1,18 @@
-import { useState } from "react";
 import DestinyShaderIcon from "./components/DestinyShaderIcon.tsx";
 import Pagination from "./components/Pagination";
 import ShaderSections, { SECTIONS_PER_PAGE } from "./components/ShaderSections";
 import shadersData from "./data/shaders.json";
+import { usePagination } from "./hooks/usePagination.ts";
 import "./styles/App.css";
 import type { Shader } from "./types/shader.ts";
 import { buildSections } from "./utils/groupShaders.ts";
 
 const shaders = shadersData as unknown as Shader[];
+const sections = buildSections(shaders);
 
 export default function App() {
-    const [page, setPage] = useState(1);
-    const [direction, setDirection] = useState<1 | -1>(1);
-
-    const sections = buildSections(shaders);
-    const totalPages = Math.max(
-        1,
-        Math.ceil(sections.length / SECTIONS_PER_PAGE),
-    );
-
-    function goToPage(next: number) {
-        setDirection(next >= page ? 1 : -1);
-        setPage(next);
-        window.scrollTo({ top: 0, behavior: "smooth" });
-    }
+    const { page, direction, totalPages, pageItems, goToPage } =
+        usePagination(sections, SECTIONS_PER_PAGE);
 
     return (
         <div className="relative">
@@ -34,6 +23,7 @@ export default function App() {
                             page={page}
                             totalPages={totalPages}
                             onChange={goToPage}
+                            ariaLabel="Paginación de secciones"
                         />
                     </div>
                     <h1 className="text-3xl uppercase tracking-wide text-white font-medium sm:text-5xl lg:text-6xl">
@@ -42,7 +32,7 @@ export default function App() {
                 </header>
 
                 <ShaderSections
-                    shaders={shaders}
+                    sections={pageItems}
                     page={page}
                     direction={direction}
                 />
