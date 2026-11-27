@@ -1,14 +1,14 @@
 import { useId, useState } from "react";
 import type { ReactNode } from "react";
 import { useCanHover } from "../../hooks/useMediaQuery.ts";
-import type { CollectibleItem } from "../../types/collectible.ts";
+import type { CollectibleItem, TooltipContext } from "../../types/collectible.ts";
 import { defaultTier, tierStyles } from "../../utils/tierStyles.ts";
 import ItemIcon from "./ItemIcon.tsx";
 import Tooltip from "./Tooltip.tsx";
 
 interface Props<T extends CollectibleItem> {
     item: T;
-    renderTooltip: (item: T) => ReactNode;
+    renderTooltip: (item: T, context: TooltipContext) => ReactNode;
 }
 
 export default function ItemCard<T extends CollectibleItem>({
@@ -21,6 +21,7 @@ export default function ItemCard<T extends CollectibleItem>({
 
     const [isHovered, setIsHovered] = useState(false);
     const [isOpen, setIsOpen] = useState(false);
+    const [hasBeenShown, setHasBeenShown] = useState(false);
     const [tooltipPos, setTooltipPos] = useState({ x: 0, y: 0 });
 
     function onMouseMove(e: React.MouseEvent<HTMLButtonElement>) {
@@ -28,7 +29,7 @@ export default function ItemCard<T extends CollectibleItem>({
         setTooltipPos({ x: e.clientX, y: e.clientY });
     }
 
-    const content = renderTooltip(item);
+    const content = renderTooltip(item, { hasBeenShown });
 
     return (
         <span
@@ -37,10 +38,20 @@ export default function ItemCard<T extends CollectibleItem>({
             <button
                 type="button"
                 onMouseMove={onMouseMove}
-                onMouseEnter={() => canHover && setIsHovered(true)}
+                onMouseEnter={() => {
+                    if (!canHover) return;
+                    // setIsHovered y setHasBeenShown en el mismo manejador:
+                    // React agrupa ambos setState en un solo render.
+                    setIsHovered(true);
+                    setHasBeenShown(true);
+                }}
                 onMouseLeave={() => canHover && setIsHovered(false)}
                 onClick={() => {
-                    if (!canHover) setIsOpen(true);
+                    if (!canHover) {
+                        // setIsOpen y setHasBeenShown en el mismo manejador.
+                        setIsOpen(true);
+                        setHasBeenShown(true);
+                    }
                 }}
                 aria-describedby={canHover ? tooltipId : undefined}
                 aria-haspopup={canHover ? undefined : "dialog"}
