@@ -8,13 +8,6 @@ export interface Pagination<T> {
     goToPage: (page: number) => void;
 }
 
-/**
- * Dueño único del estado de paginación: `page` y `direction`.
- *
- * `items` es una lista de bloques opaca para el hook: puede ser una lista de
- * secciones (shaders) o una lista de ítems (emblemas). El hook solo sabe
- * paginar y devolver la página actual.
- */
 export function usePagination<T>(items: T[], pageSize: number): Pagination<T> {
     const [page, setPage] = useState(1);
     const [direction, setDirection] = useState<1 | -1>(1);

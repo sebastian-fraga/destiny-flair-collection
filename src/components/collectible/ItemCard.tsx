@@ -40,15 +40,12 @@ export default function ItemCard<T extends CollectibleItem>({
                 onMouseMove={onMouseMove}
                 onMouseEnter={() => {
                     if (!canHover) return;
-                    // setIsHovered y setHasBeenShown en el mismo manejador:
-                    // React agrupa ambos setState en un solo render.
                     setIsHovered(true);
                     setHasBeenShown(true);
                 }}
                 onMouseLeave={() => canHover && setIsHovered(false)}
                 onClick={() => {
                     if (!canHover) {
-                        // setIsOpen y setHasBeenShown en el mismo manejador.
                         setIsOpen(true);
                         setHasBeenShown(true);
                     }

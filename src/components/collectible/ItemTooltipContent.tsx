@@ -5,9 +5,7 @@ const BUNGIE = "https://www.bungie.net";
 
 interface Props {
     item: CollectibleItem;
-    /** Etiqueta del tipo de ítem: "Shader", "Emblema", ... */
     typeLabel: string;
-    /** Banner ancho opcional (474x96). Se renderiza arriba del contenido. */
     banner?: string;
 }
 

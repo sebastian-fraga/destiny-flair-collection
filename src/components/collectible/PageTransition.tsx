@@ -14,11 +14,6 @@ const TRANSITION = {
     ease: [0.42, 0, 0.58, 1] as [number, number, number, number],
 };
 
-/**
- * Transicion entre paginas: la variante `exit` mide este mismo elemento
- * (el motion.div) para calcular cuanto tiene que deslizarse para salir
- * completamente del viewport.
- */
 export default function PageTransition({
     page,
     direction,
