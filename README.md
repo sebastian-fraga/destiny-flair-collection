@@ -1,75 +1,105 @@
-# React + TypeScript + Vite
+<p align="center">
+  <img src="public/assets/banner.png" alt="Destiny Flair Collection: complete list of emblems and shaders and how to obtain them" width="100%" />
+</p>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <a href="https://destiny-flair-collection.vercel.app/"><strong>Live site</strong></a>
+</p>
 
-Currently, two official plugins are available:
+<p align="center">
+  <img alt="React" src="https://img.shields.io/badge/React-19-7f97ae?style=flat-square&logo=react&logoColor=white&labelColor=3a4757" />
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-6-7f97ae?style=flat-square&logo=typescript&logoColor=white&labelColor=3a4757" />
+  <img alt="Vite" src="https://img.shields.io/badge/Vite-8-7f97ae?style=flat-square&logo=vite&logoColor=white&labelColor=3a4757" />
+  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-4-7f97ae?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=3a4757" />
+</p>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Destiny Flair Collection is a web app for browsing every shader and emblem in Destiny 1 and finding out how to obtain each one. Item data comes from the Destiny 1 manifest provided through the Bungie API.
 
-## Expanding the ESLint configuration
+## Features
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- **Shader catalog:** every Destiny 1 shader, shown with its in-game icon.
+- **Emblem catalog:** every Destiny 1 emblem, shown with its icon. Hovering an emblem reveals its banner, as in the game.
+- **Acquisition details:** each item's tooltip explains how to obtain it and whether it can still be acquired.
+- **Paginated browsing:** large collections are split into pages for faster navigation.
+- **Switch between catalogs:** move between shaders and emblems without leaving the app.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## Screenshots
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+<!--
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+<p align="center">
+  <img src="public/assets/screenshots/1.webp" alt="Shader catalog" width="48%" />
 
+  <img src="public/assets/screenshots/2.webp" alt="Emblem catalog" width="48%" />
+</p>
+-->
+
+-TODO
+
+## Technologies
+
+| Area            | Tools                                |
+| --------------- | ------------------------------------ |
+| UI              | React 19, TypeScript                 |
+| Build tooling   | Vite, `@vitejs/plugin-react`         |
+| Styling         | Tailwind CSS 4 (`@tailwindcss/vite`) |
+| Animation       | Framer Motion                        |
+| Analytics       | Vercel Analytics                     |
+| Linting         | ESLint, `typescript-eslint`          |
+| Data scripts    | Node.js (see `scripts/`), `adm-zip`  |
+| Package manager | pnpm                                 |
+| Hosting         | Vercel                               |
+
+## Getting Started
+
+### Prerequisites
+
+- [Node.js](https://nodejs.org/) **22.5 or newer** (required by the `engines` field in `package.json`)
+- [pnpm](https://pnpm.io/)
+
+### Installation
+
+```bash
+git clone https://github.com/sebastian-fraga/destiny-flair-collection.git
+cd destiny-flair-collection
+pnpm install
 ```
 
-You can also install [eslint-plugin-react-x](https://npmx.dev/package/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://npmx.dev/package/eslint-plugin-react-dom) for React-specific lint rules:
+### Development
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-
+```bash
+pnpm dev
 ```
+
+Vite prints the local URL in the terminal, usually `http://localhost:5173`.
+
+### Available scripts
+
+| Command        | Description                                              |
+| -------------- | -------------------------------------------------------- |
+| `pnpm dev`     | Start the Vite development server                        |
+| `pnpm build`   | Type-check with `tsc -b`, then create a production build |
+| `pnpm preview` | Serve the production build locally                       |
+| `pnpm lint`    | Run ESLint across the project                            |
+
+## Project Structure
+
+```text
+.
+├── public/             Static assets served as-is
+├── scripts/            Node scripts that generate catalog data from the Destiny 1 manifest
+├── src/                Application source (React + TypeScript)
+├── index.html          App entry point
+├── vite.config.ts      Vite configuration
+├── eslint.config.js    ESLint configuration
+├── tsconfig*.json      TypeScript configuration
+└── package.json        Scripts and dependencies
+```
+
+## Acknowledgements
+
+Item data and icons are provided through the [Bungie API](https://github.com/Bungie-net/api). Destiny and all related content are property of Bungie.
